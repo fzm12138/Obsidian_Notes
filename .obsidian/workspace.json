@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algroithms/插入排序.md",
+                "file": "Algroithms/Sorts/插入排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algroithms/Sorts/插入排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algroithms/Sorts/插入排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algroithms/Sorts/插入排序.md"
+              }
             }
           },
           {
@@ -235,11 +239,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee396f47eacbb472",
+  "active": "6d32ed782413c95c",
   "lastOpenFiles": [
-    "Algroithms/Sorts",
-    "Algroithms/插入排序.md",
     "Algroithms/Untitled.md",
+    "Algroithms/Sorts",
+    "Algroithms/Sorts/插入排序.md",
     "Algroithms/Effects of Alogrithms.md",
     "SQL/Create_DB.md",
     "Algroithms",
@@ -278,7 +282,6 @@
     "Untitled 1",
     "Untitled/000_坚果云闪电下载介绍.html.nssyncsc",
     "Codes",
-    "NOTICE",
     "Untitled.canvas"
   ]
 }
