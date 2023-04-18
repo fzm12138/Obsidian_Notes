@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Ruoyi/验证码的前后端实现.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdfdec6a273ed025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ruoyi/(前端)对axios的封装.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "99fb39378a5cb3c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruoyi/(前端)对axios的封装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d287dd299fc6fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruoyi/(前端)对axios的封装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9049255b1bd79306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/回调（callback）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruoyi/(前端)对axios的封装.md",
+                "file": "Spirng/回调（callback）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruoyi/(前端)对axios的封装.md",
+                "file": "Spirng/回调（callback）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruoyi/(前端)对axios的封装.md"
+                "file": "Spirng/回调（callback）.md"
               }
             }
           },
@@ -154,18 +203,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "783dfe14d10d2c79",
+  "active": "9049255b1bd79306",
   "lastOpenFiles": [
+    "Ruoyi/(前端)对axios的封装.md",
+    "Spirng/回调（callback）.md",
+    "README.md",
+    "Spirng/回调（callback）.md",
+    "Ruoyi/验证码的前后端实现.md",
+    "Spirng",
     "Ruoyi/获取用户角色和权限.md",
     "Ruoyi/PageHelper分页.md",
-    "Ruoyi/(前端)对axios的封装.md",
     "SpringSecurity&shiro/占位.md",
-    "Ruoyi/验证码的前后端实现.md",
     "links needs read/一些链接.md",
     "Ruoyi/用户数据查询.md",
     "Ruoyi/登录的实现.md",
     "Ruoyi/登录的具体流程.md",
-    "README.md",
     "plugin/Idea.md",
     "new/test note.md",
     "Obsidian/团队版用户操作指引.pdf",
@@ -175,7 +227,6 @@
     "JavaWeb/Web.md",
     "SQL/Case When.md",
     "Untitled/000_坚果云闪电下载介绍.html.nssyncsc",
-    "Untitled",
     "SQL",
     "Untitled.canvas",
     "DesginModel/设计模式文件夹.md",
@@ -190,8 +241,6 @@
     "Obsidian",
     "Bugs/Chrome.md",
     "Interview/Webs.md",
-    "NeedRemember/响应状态码.md",
-    "EastWater/20230415/Untitled.md",
-    "EastWater/20230414/others.md"
+    "NeedRemember/响应状态码.md"
   ]
 }
