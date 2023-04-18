@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new/test note.md",
+                "file": "Ruoyi/获取用户角色和权限.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new/test note.md",
+                "file": "Ruoyi/获取用户角色和权限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new/test note.md",
+                "file": "Ruoyi/获取用户角色和权限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new/test note.md"
+                "file": "Ruoyi/获取用户角色和权限.md"
               }
             }
           },
@@ -165,23 +165,23 @@
   },
   "active": "cdb15391feefe9a1",
   "lastOpenFiles": [
+    "Ruoyi/登录的具体流程.md",
+    "Obsidian/团队版用户操作指引.pdf",
+    "Obsidain grammar/Untitled.md",
     "new/test note.md",
     "new",
     "Ruoyi/用户数据查询.md",
     "Obsidian_Notes",
     "Ruoyi/获取用户角色和权限.md",
-    "Ruoyi/登录的具体流程.md",
     "Ruoyi/PageHelper分页.md",
     "Ruoyi/CURD数据库操作.md",
     "Obsidian/坚果云为什么成为8万家企业的共同选择.pdf",
-    "Obsidian/团队版用户操作指引.pdf",
     "Obsidian/坚果云为什么成为8万家企业的共同选择.pdf.nssyncsc",
     "Obsidian/团队版用户操作指引.pdf.nssyncsc",
     "Obsidian",
     "plugin/Idea.md",
     "Ruoyi/登录的实现.md",
     "Ruoyi/验证码的前后端实现.md",
-    "Obsidain grammar/Untitled.md",
     "Bugs/Chrome.md",
     "JavaWeb/HTTP.md",
     "JavaWeb/Maven.md",
