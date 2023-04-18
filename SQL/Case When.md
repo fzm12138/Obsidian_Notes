@@ -1,3 +1,7 @@
+Mysql Case When使用方法
+
+
+case when then else end:
 ```mysql
 CASE SCORE WHEN 'A' THEN '优' ELSE '不及格' END
 CASE SCORE WHEN 'B' THEN '良' ELSE '不及格' END
@@ -24,3 +28,4 @@ SELECT
 FROM 
 	THTF_STUDENTS
 ```
+
