@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruoyi/验证码的前后端实现.md",
+                "file": "SpringSecurity&shiro/占位.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruoyi/验证码的前后端实现.md",
+                "file": "SpringSecurity&shiro/占位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruoyi/验证码的前后端实现.md",
+                "file": "SpringSecurity&shiro/占位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruoyi/验证码的前后端实现.md"
+                "file": "SpringSecurity&shiro/占位.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "5d287dd299fc6fa3",
   "lastOpenFiles": [
+    "Ruoyi/验证码的前后端实现.md",
     "SpringSecurity&shiro/占位.md",
     "SQL/Case When.md",
     "README.md",
@@ -205,7 +206,6 @@
     "Ruoyi/获取用户角色和权限.md",
     "Ruoyi/登录的具体流程.md",
     "Ruoyi/登录的实现.md",
-    "Ruoyi/验证码的前后端实现.md",
     "plugin/Idea.md",
     "Bugs/Chrome.md",
     "DesginModel/设计模式文件夹.md",
