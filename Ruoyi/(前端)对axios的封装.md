@@ -1,3 +1,10 @@
+Axios是什么？
+- 基于promise的HTTP库
+	- promise是一种处理异步的思路
+	- promise代替回调
+
+
+-----------
 Request.js有三个显眼的方法：
 - request拦截器
 - response拦截器
@@ -16,7 +23,8 @@ if(config.method=='get'&&config.params){
 使用get的实例：
 ```js
 // 查询在线用户列表  
-export function list(query) {  
+export function list(query) { 
+	//在控制台打印query对象
 	//consloe.log(query);
 	return request({  
 		url: '/monitor/online/list',  
@@ -27,7 +35,10 @@ export function list(query) {
 
 ```
 
-```
+```js
 //Get拦截器 Post
 
+
 ```
+
+-------------

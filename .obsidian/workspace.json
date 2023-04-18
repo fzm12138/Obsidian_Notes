@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruoyi/前端对axios的封装.md",
+                "file": "Ruoyi/(前端)对axios的封装.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruoyi/前端对axios的封装.md",
+                "file": "Ruoyi/(前端)对axios的封装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruoyi/前端对axios的封装.md",
+                "file": "Ruoyi/(前端)对axios的封装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruoyi/前端对axios的封装.md"
+                "file": "Ruoyi/(前端)对axios的封装.md"
               }
             }
           },
@@ -156,16 +156,18 @@
   },
   "active": "783dfe14d10d2c79",
   "lastOpenFiles": [
-    "Ruoyi/验证码的前后端实现.md",
-    "Ruoyi/登录的实现.md",
-    "Ruoyi/PageHelper分页.md",
-    "Ruoyi/登录的具体流程.md",
     "Ruoyi/获取用户角色和权限.md",
-    "Ruoyi/前端对axios的封装.md",
+    "Ruoyi/PageHelper分页.md",
+    "Ruoyi/(前端)对axios的封装.md",
+    "SpringSecurity&shiro/占位.md",
+    "Ruoyi/验证码的前后端实现.md",
+    "links needs read/一些链接.md",
+    "Ruoyi/用户数据查询.md",
+    "Ruoyi/登录的实现.md",
+    "Ruoyi/登录的具体流程.md",
     "README.md",
     "plugin/Idea.md",
     "new/test note.md",
-    "Ruoyi/用户数据查询.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Obsidain grammar/Obsidian语法.md",
     "JavaWeb/Maven.md",
@@ -178,9 +180,7 @@
     "Untitled.canvas",
     "DesginModel/设计模式文件夹.md",
     "EastWater/ds.md",
-    "SpringSecurity&shiro/占位.md",
     "new/Untitled.md",
-    "links needs read/一些链接.md",
     "new",
     "Obsidian_Notes",
     "Ruoyi/CURD数据库操作.md",
