@@ -20,90 +20,6 @@
             }
           },
           {
-            "id": "5135a039d18a3938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/登录流程/登录的实现.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b37d7981cf59fd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/登录流程/登录的实现.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61beeef1b2a117ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/(前端)对axios的封装.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f396601272aeb9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/Request.js的三个方法/Request（请求）拦截器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b55d745361fdf8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/(前端)对axios的封装.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29875995e9a5dcc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/(前端)对axios的封装.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5a5f3a9ab5f6a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/(前端)对axios的封装.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23c099a1b32c900a",
             "type": "leaf",
             "state": {
@@ -114,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d302a7212d24c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/登录流程/登录的实现.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Ruoyi/Request.js的三个方法/通用下载方法.md",
+                "file": "Spirng/Ruoyi/登录流程/登录的实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Ruoyi/Request.js的三个方法/通用下载方法.md",
+                "file": "Spirng/Ruoyi/登录流程/登录的实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Ruoyi/Request.js的三个方法/通用下载方法.md"
+                "file": "Spirng/Ruoyi/登录流程/登录的实现.md"
               }
             }
           },
@@ -264,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23c099a1b32c900a",
+  "active": "43f49c29d53dbcac",
   "lastOpenFiles": [
-    "Spirng/Ruoyi/(前端)对axios的封装.md",
     "Spirng/Ruoyi/Request.js的三个方法/通用下载方法.md",
+    "Spirng/Ruoyi/(前端)对axios的封装.md",
     "Spirng/Ruoyi/Request.js的三个方法/Response拦截器.md",
     "Spirng/Ruoyi/在线用户问题.md",
     "Spirng/Ruoyi/用户数据查询.md",
