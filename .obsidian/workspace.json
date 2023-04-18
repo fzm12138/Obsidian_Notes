@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c27faea0ab9166d0",
+        "id": "3d5a38e80479e2b5",
         "type": "tabs",
         "children": [
           {
-            "id": "9a9f2673f0b2dcea",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "cdb15391feefe9a1",
+            "id": "1276c68229be14ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,55 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd8a41927ceec8ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DesginModel/设计模式文件夹.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13c63559f4667206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EastWater/ds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48df2aae88283810",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Obsidian/团队版用户操作指引.pdf"
-              }
-            }
-          },
-          {
-            "id": "1510a6acfcd49769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpringSecurity&shiro/占位.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringSecurity&shiro/占位.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringSecurity&shiro/占位.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringSecurity&shiro/占位.md"
+                "file": "README.md"
               }
             }
           },
@@ -209,17 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1460809a051dc831",
+  "active": "1276c68229be14ad",
   "lastOpenFiles": [
-    "Obsidian/团队版用户操作指引.pdf",
+    "Untitled.canvas",
+    "Untitled",
+    "README.md",
+    "DesginModel/设计模式文件夹.md",
+    "EastWater/ds.md",
     "SpringSecurity&shiro/占位.md",
+    "Obsidian/团队版用户操作指引.pdf",
     "Obsidain grammar/Obsidian语法.md",
     "new/test note.md",
     "new/Untitled.md",
     "links needs read/一些链接.md",
-    "EastWater/ds.md",
-    "DesginModel/设计模式文件夹.md",
-    "README.md",
     "Ruoyi/获取用户角色和权限.md",
     "Ruoyi/用户数据查询.md",
     "Ruoyi/登录的具体流程.md",
@@ -242,7 +189,6 @@
     "NeedRemember/响应状态码.md",
     "NeedRemember",
     "links needs read",
-    "Interview",
     "EastWater/20230415/Untitled.md",
     "EastWater/20230414/others.md",
     "Untitled.md"
