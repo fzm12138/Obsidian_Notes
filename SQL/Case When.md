@@ -1,6 +1,5 @@
+*@Author fzm*
 Mysql Case When使用方法
-
-
 case when then else end:
 ```mysql
 CASE SCORE WHEN 'A' THEN '优' ELSE '不及格' END
