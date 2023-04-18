@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruoyi/获取用户角色和权限.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruoyi/获取用户角色和权限.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruoyi/获取用户角色和权限.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruoyi/获取用户角色和权限.md"
+                "file": "README.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "cdb15391feefe9a1",
   "lastOpenFiles": [
+    "Ruoyi/获取用户角色和权限.md",
+    "README.md",
     "Ruoyi/登录的具体流程.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Obsidain grammar/Untitled.md",
@@ -172,7 +174,6 @@
     "new",
     "Ruoyi/用户数据查询.md",
     "Obsidian_Notes",
-    "Ruoyi/获取用户角色和权限.md",
     "Ruoyi/PageHelper分页.md",
     "Ruoyi/CURD数据库操作.md",
     "Obsidian/坚果云为什么成为8万家企业的共同选择.pdf",
