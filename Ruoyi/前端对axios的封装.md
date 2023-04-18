@@ -15,7 +15,6 @@ if(config.method=='get'&&config.params){
 ```
 
 ```
-//Get拦截器 post
-
+//Get拦截器 pos
 
 ```
