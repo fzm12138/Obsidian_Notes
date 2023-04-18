@@ -36,11 +36,15 @@ export function list(query) {
 }
 
 ```
-
 ```js
 //Get拦截器 Post
-
-
+//同理
 ```
 
 -------------
+
+
+
+
+
+
