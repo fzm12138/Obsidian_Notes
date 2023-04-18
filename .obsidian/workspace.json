@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "fbf3d55ac8b94936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algroithms/Effects of Alogrithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d32ed782413c95c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algroithms/插入排序.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "feeb04a8b11eb40b",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Create_DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Create_DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +207,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/Create_DB.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,10 +235,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5d68932437f7a3e",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
-    "SQL/Case When.md",
+    "Algroithms/Sorts",
+    "Algroithms/插入排序.md",
+    "Algroithms/Untitled.md",
+    "Algroithms/Effects of Alogrithms.md",
     "SQL/Create_DB.md",
+    "Algroithms",
+    "SQL/Case When.md",
     "SQL/test.md",
     "NOTICE/注意事项.md",
     "Spirng/Ruoyi/后端逻辑框架/mysql参数配置表.md",
@@ -250,15 +275,10 @@
     "Codes/Ruoyi_Codes/login(登录验证).md",
     "Spirng/Ruoyi/登录流程",
     "Spirng/Ruoyi/Request.js的三个方法",
-    "JavaWeb/Maven.md",
-    "JavaWeb/Web.md",
-    "EastWater/ds.md",
-    "plugin/Idea.md",
     "Untitled 1",
     "Untitled/000_坚果云闪电下载介绍.html.nssyncsc",
     "Codes",
     "NOTICE",
-    "Codes/Ruoyi_Codes",
     "Untitled.canvas"
   ]
 }
