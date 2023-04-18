@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "848b3056b8df52d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Case When.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Case When.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Case When.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL/Case When.md"
               }
             }
           },
@@ -154,11 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1276c68229be14ad",
+  "active": "848b3056b8df52d2",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled",
     "README.md",
+    "SQL/Case When.md",
+    "Untitled/000_坚果云闪电下载介绍.html.nssyncsc",
+    "Untitled",
+    "SQL",
+    "Untitled.canvas",
     "DesginModel/设计模式文件夹.md",
     "EastWater/ds.md",
     "SpringSecurity&shiro/占位.md",
@@ -187,8 +203,6 @@
     "JavaWeb/Web.md",
     "Interview/Webs.md",
     "NeedRemember/响应状态码.md",
-    "NeedRemember",
-    "links needs read",
     "EastWater/20230415/Untitled.md",
     "EastWater/20230414/others.md",
     "Untitled.md"
