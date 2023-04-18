@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d5a38e80479e2b5",
+        "id": "3a2edd2c7bd15b24",
         "type": "tabs",
         "children": [
           {
-            "id": "1276c68229be14ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "848b3056b8df52d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ruoyi/获取用户角色和权限.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eba0fa07c22457af",
+            "id": "783dfe14d10d2c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -180,24 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1460809a051dc831",
+  "active": "783dfe14d10d2c79",
   "lastOpenFiles": [
+    "Ruoyi/验证码的前后端实现.md",
+    "Ruoyi/前端对axios的封装.md",
+    "README.md",
+    "Ruoyi/获取用户角色和权限.md",
     "plugin/Idea.md",
     "new/test note.md",
-    "Ruoyi/前端对axios的封装.md",
-    "Ruoyi/获取用户角色和权限.md",
     "Ruoyi/PageHelper分页.md",
     "Ruoyi/用户数据查询.md",
     "Ruoyi/登录的具体流程.md",
     "Ruoyi/登录的实现.md",
-    "Ruoyi/验证码的前后端实现.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Obsidain grammar/Obsidian语法.md",
     "JavaWeb/Maven.md",
     "JavaWeb/HTTP.md",
     "JavaWeb/Web.md",
     "SQL/Case When.md",
-    "README.md",
     "Untitled/000_坚果云闪电下载介绍.html.nssyncsc",
     "Untitled",
     "SQL",
