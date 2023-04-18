@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringSecurity&shiro/占位.md",
+                "file": "Ruoyi/验证码的前后端实现.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringSecurity&shiro/占位.md",
+                "file": "Ruoyi/验证码的前后端实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringSecurity&shiro/占位.md",
+                "file": "Ruoyi/验证码的前后端实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringSecurity&shiro/占位.md"
+                "file": "Ruoyi/验证码的前后端实现.md"
               }
             }
           },
@@ -193,12 +193,13 @@
   },
   "active": "5d287dd299fc6fa3",
   "lastOpenFiles": [
+    "SpringSecurity&shiro/占位.md",
+    "SQL/Case When.md",
+    "README.md",
     "Spirng/回调（callback）.md",
     "Ruoyi/(前端)对axios的封装.md",
     "Untitled.md",
     "JavaWeb/Maven.md",
-    "SQL/Case When.md",
-    "SpringSecurity&shiro/占位.md",
     "Ruoyi/用户数据查询.md",
     "Ruoyi/PageHelper分页.md",
     "Ruoyi/获取用户角色和权限.md",
@@ -216,7 +217,6 @@
     "NeedRemember/响应状态码.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Obsidain grammar/Obsidian语法.md",
-    "README.md",
     "Spirng",
     "new/test note.md",
     "Untitled/000_坚果云闪电下载介绍.html.nssyncsc",
