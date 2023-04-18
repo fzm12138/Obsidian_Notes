@@ -68,6 +68,42 @@
             }
           },
           {
+            "id": "caa94894b7db15e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algroithms/Sorts/插入排序.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52adcb559ef9f590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algroithms/Sorts/插入排序.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c9a1bd2c0e8b84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algroithms/CoreOfAlgoithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "feeb04a8b11eb40b",
             "type": "leaf",
             "state": {
@@ -104,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md",
+                "file": "Algroithms/CoreOfAlgoithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md",
+                "file": "Algroithms/CoreOfAlgoithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md"
+                "file": "Algroithms/CoreOfAlgoithms.md"
               }
             }
           },
@@ -239,11 +275,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d32ed782413c95c",
+  "active": "5c9a1bd2c0e8b84e",
   "lastOpenFiles": [
-    "Algroithms/Untitled.md",
-    "Algroithms/Sorts",
     "Algroithms/Sorts/插入排序.md",
+    "Algroithms/CoreOfAlgoithms.md",
+    "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
+    "Codes/CodesOfAlgrithms",
+    "Algroithms/Sorts",
     "Algroithms/Effects of Alogrithms.md",
     "SQL/Create_DB.md",
     "Algroithms",
@@ -281,7 +319,6 @@
     "Spirng/Ruoyi/Request.js的三个方法",
     "Untitled 1",
     "Untitled/000_坚果云闪电下载介绍.html.nssyncsc",
-    "Codes",
     "Untitled.canvas"
   ]
 }
