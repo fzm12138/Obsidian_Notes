@@ -1,4 +1,26 @@
-```mysql
+Opreating Database
+```MYSQL
+<!--create databese-->
+CREATE DATABASE myDB;
 
-CREATE DATABASE myDB READ;
+<!--delete-->
+DROP DATABASE myDB;
+
+<!--Alter enable reda-only -->
+ALTER DATABASE myDB READ ONLY=1;
+
+<!--Alter disable read-only -->
+ALTER DATABASE myDB READ ONLY=0;
+```
+database 'sys' is the system infos of mysql 
+
+Opreating tables
+```mysql
+CREATE TABLE employees(
+	emploee_id INT,
+	first_name VARCHAR(50),
+	last_name VARCHAR(50),
+	hourly_pay DECIMAL(5,2),
+	hire_date
+);
 ```
