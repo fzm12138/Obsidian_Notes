@@ -11,15 +11,24 @@
             "id": "9a9f2673f0b2dcea",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdb15391feefe9a1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruoyi/用户数据查询.md",
+                "file": "new/test note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruoyi/用户数据查询.md",
+                "file": "new/test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruoyi/用户数据查询.md",
+                "file": "new/test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +134,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruoyi/用户数据查询.md"
+                "file": "new/test note.md"
               }
             }
+          },
+          {
+            "id": "1460809a051dc831",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,13 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a9f2673f0b2dcea",
+  "active": "cdb15391feefe9a1",
   "lastOpenFiles": [
+    "new/test note.md",
+    "new",
+    "Ruoyi/用户数据查询.md",
     "Obsidian_Notes",
     "Ruoyi/获取用户角色和权限.md",
     "Ruoyi/登录的具体流程.md",
     "Ruoyi/PageHelper分页.md",
-    "Ruoyi/用户数据查询.md",
     "Ruoyi/CURD数据库操作.md",
     "Obsidian/坚果云为什么成为8万家企业的共同选择.pdf",
     "Obsidian/团队版用户操作指引.pdf",
@@ -171,8 +191,6 @@
     "NeedRemember",
     "links needs read",
     "Interview",
-    "plugin",
-    "Pluggin",
     "EastWater/20230415/Untitled.md",
     "EastWater/20230414/others.md",
     "Untitled.md"
