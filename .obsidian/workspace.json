@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruoyi/登录的具体流程.md",
+                "file": "Ruoyi/获取用户角色和权限.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba0fa07c22457af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruoyi/前端对axios的封装.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruoyi/登录的具体流程.md",
+                "file": "Ruoyi/前端对axios的封装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruoyi/登录的具体流程.md",
+                "file": "Ruoyi/前端对axios的封装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruoyi/登录的具体流程.md"
+                "file": "Ruoyi/前端对axios的封装.md"
               }
             }
           },
@@ -167,18 +180,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "848b3056b8df52d2",
+  "active": "1460809a051dc831",
   "lastOpenFiles": [
-    "Ruoyi/登录的实现.md",
+    "plugin/Idea.md",
+    "new/test note.md",
+    "Ruoyi/前端对axios的封装.md",
+    "Ruoyi/获取用户角色和权限.md",
     "Ruoyi/PageHelper分页.md",
     "Ruoyi/用户数据查询.md",
     "Ruoyi/登录的具体流程.md",
+    "Ruoyi/登录的实现.md",
     "Ruoyi/验证码的前后端实现.md",
-    "Ruoyi/获取用户角色和权限.md",
-    "plugin/Idea.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Obsidain grammar/Obsidian语法.md",
-    "new/test note.md",
     "JavaWeb/Maven.md",
     "JavaWeb/HTTP.md",
     "JavaWeb/Web.md",
