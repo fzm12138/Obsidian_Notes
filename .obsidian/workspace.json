@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b5d68932437f7a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Create_DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "feeb04a8b11eb40b",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Case When.md",
+                "file": "SQL/Create_DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Case When.md",
+                "file": "SQL/Create_DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Case When.md"
+                "file": "SQL/Create_DB.md"
               }
             }
           },
@@ -203,10 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a3261fc42b69869",
+  "active": "b5d68932437f7a3e",
   "lastOpenFiles": [
-    "SQL/test.md",
     "SQL/Case When.md",
+    "SQL/Create_DB.md",
+    "SQL/test.md",
     "NOTICE/注意事项.md",
     "Spirng/Ruoyi/后端逻辑框架/mysql参数配置表.md",
     "Spirng/Ruoyi/在线用户问题.md",
@@ -241,7 +254,6 @@
     "JavaWeb/Web.md",
     "EastWater/ds.md",
     "plugin/Idea.md",
-    "README.md",
     "Untitled 1",
     "Untitled/000_坚果云闪电下载介绍.html.nssyncsc",
     "Codes",
