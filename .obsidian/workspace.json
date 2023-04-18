@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "2fb254988f0bce2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algroithms/分治策略.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "feeb04a8b11eb40b",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md",
+                "file": "Algroithms/分治策略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md",
+                "file": "Algroithms/分治策略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md"
+                "file": "Algroithms/分治策略.md"
               }
             }
           },
@@ -275,10 +287,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c9a1bd2c0e8b84e",
+  "active": "2fb254988f0bce2d",
   "lastOpenFiles": [
-    "Algroithms/CoreOfAlgoithms.md",
     "Algroithms/Sorts/插入排序.md",
+    "Algroithms/分治策略.md",
+    "Algroithms/CoreOfAlgoithms.md",
     "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
     "Codes/CodesOfAlgrithms",
     "Algroithms/Sorts",
@@ -314,7 +327,6 @@
     "Spirng/Ruoyi/用户数据查询.md",
     "Spirng/回调（callback）.md",
     "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
-    "Codes/Ruoyi_Codes/login(登录验证).md",
     "Spirng/Ruoyi/登录流程",
     "Spirng/Ruoyi/Request.js的三个方法",
     "Untitled 1",
