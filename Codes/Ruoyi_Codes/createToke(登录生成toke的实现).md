@@ -17,3 +17,19 @@ claims.put(Constants.LOGIN_USER_KEY, token);
 return createToken(claims);  
 }
 ```
+
+```java
+/**  
+* 从数据声明生成令牌  
+*  
+* @param claims 数据声明  
+* @return 令牌  
+*/  
+private String createToken(Map<String, Object> claims)  
+{  
+String token = Jwts.builder()  
+.setClaims(claims)  
+.signWith(SignatureAlgorithm.HS512, secret).compact();  
+return token;  
+}
+```
