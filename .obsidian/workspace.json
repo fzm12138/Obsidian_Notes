@@ -21,14 +21,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruoyi/获取用户角色和权限.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd8a41927ceec8ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DesginModel/设计模式文件夹.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13c63559f4667206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EastWater/ds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48df2aae88283810",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Obsidian/团队版用户操作指引.pdf"
+              }
+            }
+          },
+          {
+            "id": "1510a6acfcd49769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringSecurity&shiro/占位.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruoyi/获取用户角色和权限.md",
+                "file": "SpringSecurity&shiro/占位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruoyi/获取用户角色和权限.md",
+                "file": "SpringSecurity&shiro/占位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruoyi/获取用户角色和权限.md"
+                "file": "SpringSecurity&shiro/占位.md"
               }
             }
           },
@@ -163,15 +209,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb15391feefe9a1",
+  "active": "1460809a051dc831",
   "lastOpenFiles": [
-    "Ruoyi/用户数据查询.md",
+    "Obsidian/团队版用户操作指引.pdf",
+    "SpringSecurity&shiro/占位.md",
+    "Obsidain grammar/Obsidian语法.md",
+    "new/test note.md",
+    "new/Untitled.md",
+    "links needs read/一些链接.md",
+    "EastWater/ds.md",
+    "DesginModel/设计模式文件夹.md",
     "README.md",
     "Ruoyi/获取用户角色和权限.md",
+    "Ruoyi/用户数据查询.md",
     "Ruoyi/登录的具体流程.md",
-    "Obsidian/团队版用户操作指引.pdf",
-    "Obsidain grammar/Untitled.md",
-    "new/test note.md",
     "new",
     "Obsidian_Notes",
     "Ruoyi/PageHelper分页.md",
