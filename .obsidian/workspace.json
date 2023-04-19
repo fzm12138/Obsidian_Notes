@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d406c22b3d701677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bugs/vue-cli-service不是内部或外部命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,10 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99427daf153106fc",
+  "active": "d406c22b3d701677",
   "lastOpenFiles": [
-    "Bugs/无法自动装配.md",
+    "Codes/pakage.json.md",
     "Bugs/vue-cli-service不是内部或外部命令.md",
+    "Bugs/无法自动装配.md",
     "SQL/Case When.md",
     "SQL/Create_DB.md",
     "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
@@ -231,7 +244,6 @@
     "Spirng/Ruoyi/登录流程/登录的具体流程.md",
     "NeedRemember/响应状态码.md",
     "links_needs_read/一些链接.md",
-    "Spirng/Ruoyi/(前端)对axios的封装.md",
     "Spirng/Ruoyi/登录流程",
     "Spirng/Ruoyi/Request.js的三个方法",
     "Untitled 1",
