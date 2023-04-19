@@ -42,9 +42,10 @@ change one column
 <!--change the length-->
 ALTER TABLE employees
 MODIFY COLUMN email Varchar(100);
+
 <!--change the order -->
 ALTER TABLE employees
 MODIFY COLUMN email Varchar(100)
-AFTER last;
+AFTER last_time;
 ```
 
