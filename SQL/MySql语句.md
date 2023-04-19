@@ -23,8 +23,14 @@ curtime();<!--获取当前时间-->
 now();<!--获取当前日期和时间-->
 week(date);<!--返回date为一年中的第几周-->
 year(date);<!--返回日期为date的年份-->
-hour(time)<!--返回time的小时值-->
-minute(time)<!--返回time的分钟值-->
-datediff()
+hour(time);<!--返回time的小时值-->
+minute(time);<!--返回time的分钟值-->
+datediff(date1,date2);<!--返回日期参数(date1和date2间相隔的天数)-->
+adddate(date,n);<!--date,n-->
+```
 
+- 数学函数
+```mysql
+ceil(x);<!--返回>=x的最小整数-->
+floor()
 ```
