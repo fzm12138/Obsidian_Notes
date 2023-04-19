@@ -18,93 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0de0e70e36e5492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Case When.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ab6285ce2e83d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bugs/无法自动装配.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99427daf153106fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bugs/vue-cli-service不是内部或外部命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d406c22b3d701677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bugs/vue-cli-service不是内部或外部命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fff970267dfcc332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codes/pakage.json.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d733208da5c8f06a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql技能树.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15524eda86fdff63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/MySql语句.md",
+                "file": "NOTICE/注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/MySql语句.md",
+                "file": "NOTICE/注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/MySql语句.md"
+                "file": "NOTICE/注意事项.md"
               }
             }
           },
@@ -227,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15524eda86fdff63",
+  "active": "43f49c29d53dbcac",
   "lastOpenFiles": [
-    "SQL/MySql技能树.md",
     "SQL/Case When.md",
-    "SQL/Create_DB.md",
-    "SQL/MySql语句.md",
-    "Codes/pakage.json.md",
-    "Bugs/vue-cli-service不是内部或外部命令.md",
     "Bugs/无法自动装配.md",
+    "Bugs/vue-cli-service不是内部或外部命令.md",
+    "Codes/pakage.json.md",
+    "SQL/MySql技能树.md",
+    "SQL/MySql语句.md",
+    "SQL/Create_DB.md",
     "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
     "Spirng/Java/Clob类.md",
     "NOTICE/注意事项.md",

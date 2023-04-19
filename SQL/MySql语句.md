@@ -53,8 +53,18 @@ select *from 表名 where 字段名 like 对应值（字串）
 它主要针对字符型字段，它的作用是在一个字符型字段列中检索包含对应字串的
 ```
 
-A:%包含零个或多个字符的任意字符串:like 'Mc%' 
+A:%包含零个或多个字符的任意字符串:
+```mysql
+LIKE'Mc%' 将搜索以字母Mc开头的所有字符串
+LIKE'%inger%' 将搜索以字母inger结尾的所有字符串
+LIKE'%en%' 将搜索在任何位置包含字母en的字符串
+LIKE'_heryl'将搜索以字母herly结尾的所有6个字母的名称
+<!----- []指定范围([a-f])或集合([abcdef]中任何字符) ----->
+LIKE'[CK]ars[eo]n'将搜索任何(C/K)ars(e/o)n形式的名称
+LIKE''
+```
 
+[MySQL数据库命令\_古哥199的博客-CSDN博客](https://blog.csdn.net/qq_42992643/article/details/82959720?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168188001016800222890840%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168188001016800222890840&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-82959720-null-null.142^v84^koosearch_v1,239^v2^insert_chatgpt&utm_term=mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8&spm=1018.2226.3001.4187)
 
 
 
