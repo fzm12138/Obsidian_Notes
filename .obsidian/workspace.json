@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTICE/注意事项.md",
+                "file": "NOTICE/小技巧&小操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTICE/注意事项.md",
+                "file": "NOTICE/小技巧&小操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTICE/注意事项.md",
+                "file": "NOTICE/小技巧&小操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTICE/注意事项.md"
+                "file": "NOTICE/小技巧&小操作.md"
               }
             }
           },
@@ -154,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43f49c29d53dbcac",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
+    "NOTICE/注意事项.md",
     "SQL/Case When.md",
     "Bugs/无法自动装配.md",
     "Bugs/vue-cli-service不是内部或外部命令.md",
@@ -165,7 +166,6 @@
     "SQL/Create_DB.md",
     "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
     "Spirng/Java/Clob类.md",
-    "NOTICE/注意事项.md",
     "Spirng/Java",
     "Algroithms/Effects of Alogrithms.md",
     "Algroithms/Sorts/插入排序.md",
