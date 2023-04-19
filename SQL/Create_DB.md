@@ -21,6 +21,20 @@ CREATE TABLE employees(
 	first_name VARCHAR(50),
 	last_name VARCHAR(50),
 	hourly_pay DECIMAL(5,2),
-	hire_date
+	hire_date DATE
 );
 ```
+
+Reaname table:
+```mysql
+RENAME TABLE workers to employees;
+```
+Drop table
+```mysql
+DROP TABLE employees;
+```
+Add:
+```mysql
+ADD phone_number VARVHAR(15);
+```
+
