@@ -1,0 +1,1 @@
+[MySQL入门技能树](https://edu.csdn.net/skill/mysql?ops_request_misc=&request_id=&biz_id=&utm_medium=distribute.pc_search_result.none-task-skillTree-2~all~top_card~default-1-mysql-null-null.142^v84^koosearch_v1,239^v2^insert_chatgpt&utm_term=mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8&spm=1018.2226.3001.4187)

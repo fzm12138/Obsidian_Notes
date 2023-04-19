@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d733208da5c8f06a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MySql技能树.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15524eda86fdff63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MySql语句.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codes/pakage.json.md",
+                "file": "SQL/MySql语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codes/pakage.json.md",
+                "file": "SQL/MySql语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codes/pakage.json.md"
+                "file": "SQL/MySql语句.md"
               }
             }
           },
@@ -215,10 +239,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fff970267dfcc332",
+  "active": "15524eda86fdff63",
   "lastOpenFiles": [
-    "Bugs/vue-cli-service不是内部或外部命令.md",
+    "SQL/MySql技能树.md",
+    "SQL/MySql语句.md",
     "Codes/pakage.json.md",
+    "Bugs/vue-cli-service不是内部或外部命令.md",
     "Bugs/无法自动装配.md",
     "SQL/Case When.md",
     "SQL/Create_DB.md",
@@ -254,8 +280,6 @@
     "Spirng/Ruoyi/PageHelper分页.md",
     "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
     "Spirng/Ruoyi/登录流程/登录的具体流程.md",
-    "NeedRemember/响应状态码.md",
-    "links_needs_read/一些链接.md",
     "Spirng/Ruoyi/登录流程",
     "Spirng/Ruoyi/Request.js的三个方法",
     "Untitled 1",
