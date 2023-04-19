@@ -37,4 +37,14 @@ Add:
 ```mysql
 ADD phone_number VARVHAR(15);
 ```
+change one column
+```mysql
+<!--change the length-->
+ALTER TABLE employees
+MODIFY COLUMN email Varchar(100);
+<!--change the order -->
+ALTER TABLE employees
+MODIFY COLUMN email Varchar(100)
+AFTER last;
+```
 
