@@ -53,7 +53,7 @@ select *from 表名 where 字段名 like 对应值（字串）
 它主要针对字符型字段，它的作用是在一个字符型字段列中检索包含对应字串的
 ```
 
-A:%包含零个或多个字符的任意字符串:
+- %包含零个或多个字符的任意字符串:
 ```mysql
 LIKE'Mc%' 将搜索以字母Mc开头的所有字符串
 LIKE'%inger%' 将搜索以字母inger结尾的所有字符串
@@ -70,6 +70,20 @@ LIKE 'M[^c]%'将搜索以M开头，并且第二个字符表示c的所有名称
 eg：查询name字段中不含数字的
 select *from table1 where name like '%[!0-9]%'
 ```
+
+- between and模糊查询
+	- 会取介于两个值之间的数据范围（数值，文本，日期）
+
+- null , not null查询
+```mysql
+SELECT *from user where phone is not null;
+SELECT*from user where phone is null;
+```
+
+- exists 子查询，not exists子查询
+	- exists子查询用来确认后边的查询是否继续进行
+		- eg: drop table if exists test（存在test表就s
+
 
 
 
