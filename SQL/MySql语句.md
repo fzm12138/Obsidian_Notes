@@ -64,6 +64,11 @@ LIKE'[CK]ars[eo]n'将搜索任何(C/K)ars(e/o)n形式的名称
 LIKE'[M-Z]inger'将搜索以字符串inger结尾，以从M到Z的任何单个字母开头的所有名称，如Ringer
 [^]不属于指定范围[a-f]或集合[abcdef]的任何单个字符
 LIKE 'M[^c]%'将搜索以M开头，并且第二个字符表示c的所有名称
+? 同于DOS中的?通配符,b?b代表brb bfb等
+# 大致同上，但是只能代表单个数字k#k代表 k1k k2k。。。
+[!]排除
+eg：查询name字段中不含数字的
+select *from table1 where name like '%[!0-9]%'
 ```
 
 
