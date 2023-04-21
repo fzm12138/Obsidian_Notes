@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/Spring注解/@Validdated.md",
+                "file": "SQL/MySql语句/字段属性/主键.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe31c552cf518ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MySql语句/字段属性/自增长.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Spring注解/@Validdated.md",
+                "file": "SQL/MySql语句/字段属性/自增长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Spring注解/@Validdated.md",
+                "file": "SQL/MySql语句/字段属性/自增长.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Spring注解/@Validdated.md"
+                "file": "SQL/MySql语句/字段属性/自增长.md"
               }
             }
           },
@@ -154,12 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99289765852ab11f",
+  "active": "fe31c552cf518ffd",
   "lastOpenFiles": [
+    "SQL/MySql语句/字段属性/主键.md",
+    "SQL/MySql语句/多表连接查询.md",
+    "SQL/MySql语句/字段属性/自增长.md",
+    "SQL/MySql语句/字段属性",
     "Spirng/Spring注解/@Validdated.md",
     "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
     "Pasted image 20230421092731.png",
-    "SQL/MySql语句/字段属性.md",
     "SQL/MySql语句/数据库操作.md",
     "SQL/MySql技能树.md",
     "SQL/Create_DB.md",
@@ -170,7 +186,6 @@
     "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
     "Spirng/Spring注解/@PutMapping.md",
     "Spirng/Spring注解",
-    "SQL/MySql语句/多表连接查询.md",
     "SQL/MySql语句/常用函数.md",
     "SQL/MySql语句",
     "Bugs/vue-cli-service不是内部或外部命令.md",
@@ -184,7 +199,6 @@
     "Spirng/Ruoyi/用户数据查询.md",
     "Spirng/Ruoyi/在线用户问题.md",
     "Spirng/Ruoyi/(前端)对axios的封装.md",
-    "Spirng/SpringSecurity&shiro/占位.md",
     "Spirng/Java",
     "Codes/CodesOfAlgrithms",
     "Algroithms/Sorts",
@@ -198,7 +212,6 @@
     "Pics/ScreenShots/Pasted image 20230418164111.png",
     "Pics/ScreenShots/Pasted image 20230418163757.png",
     "Spirng/Ruoyi/后端逻辑框架",
-    "Spirng/Ruoyi/登录流程",
     "Untitled.canvas"
   ]
 }
