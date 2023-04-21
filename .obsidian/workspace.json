@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/MySql语句/字段属性.md",
+                "file": "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/MySql语句/字段属性.md",
+                "file": "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/MySql语句/字段属性.md",
+                "file": "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/MySql语句/字段属性.md"
+                "file": "Spirng/Ruoyi/登录流程/验证码的前后端实现.md"
               }
             }
           },
@@ -241,8 +241,9 @@
   },
   "active": "e42448d46793e076",
   "lastOpenFiles": [
-    "SQL/MySql语句/数据库操作.md",
+    "Pasted image 20230421092731.png",
     "SQL/MySql语句/字段属性.md",
+    "SQL/MySql语句/数据库操作.md",
     "SQL/MySql技能树.md",
     "SQL/Create_DB.md",
     "SQL/Case When.md",
@@ -268,7 +269,6 @@
     "Spirng/Ruoyi/(前端)对axios的封装.md",
     "Spirng/SpringSecurity&shiro/占位.md",
     "Spirng/Java/Clob类.md",
-    "NOTICE/小技巧&小操作.md",
     "Spirng/Java",
     "Codes/CodesOfAlgrithms",
     "Algroithms/Sorts",
