@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2edd2c7bd15b24",
+        "id": "38927593bc55628b",
         "type": "tabs",
         "children": [
           {
-            "id": "43f49c29d53dbcac",
+            "id": "99289765852ab11f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/MySql语句/多表连接查询.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cf93b366cd34e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句/多表连接查询.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "202b46d4cf92d5a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句/多表连接查询.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc97b78f79d27486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b2fdde4d176c6c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "links_needs_read/一些链接.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d52c33877eded025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句/SQL分类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5cf7cd8ebfa5907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句/数据库操作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e42448d46793e076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
+                "file": "Spirng/Spring注解/@Validdated.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
+                "file": "Spirng/Spring注解/@Validdated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
+                "file": "Spirng/Spring注解/@Validdated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/验证码的前后端实现.md"
+                "file": "Spirng/Spring注解/@Validdated.md"
               }
             }
           },
@@ -239,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e42448d46793e076",
+  "active": "99289765852ab11f",
   "lastOpenFiles": [
+    "Spirng/Spring注解/@Validdated.md",
+    "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
     "Pasted image 20230421092731.png",
     "SQL/MySql语句/字段属性.md",
     "SQL/MySql语句/数据库操作.md",
@@ -268,7 +185,6 @@
     "Spirng/Ruoyi/在线用户问题.md",
     "Spirng/Ruoyi/(前端)对axios的封装.md",
     "Spirng/SpringSecurity&shiro/占位.md",
-    "Spirng/Java/Clob类.md",
     "Spirng/Java",
     "Codes/CodesOfAlgrithms",
     "Algroithms/Sorts",
