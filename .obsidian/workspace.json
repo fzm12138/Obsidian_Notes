@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/Spring注解/@PutMapping.md",
+                "file": "links_needs_read/一些链接.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d52c33877eded025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MySql语句/SQL分类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5cf7cd8ebfa5907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MySql语句/数据库操作.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Spring注解/@PutMapping.md",
+                "file": "SQL/MySql语句/数据库操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Spring注解/@PutMapping.md",
+                "file": "SQL/MySql语句/数据库操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Spring注解/@PutMapping.md"
+                "file": "SQL/MySql语句/数据库操作.md"
               }
             }
           },
@@ -203,15 +227,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b2fdde4d176c6c8",
+  "active": "a5cf7cd8ebfa5907",
   "lastOpenFiles": [
+    "SQL/MySql语句/SQL分类.md",
+    "SQL/MySql语句/数据库操作.md",
+    "links_needs_read/一些链接.md",
     "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
     "Spirng/Spring注解/@PutMapping.md",
     "Spirng/Spring注解",
     "SQL/MySql语句/多表连接查询.md",
     "SQL/MySql语句/模糊查询.md",
     "SQL/MySql语句/常用函数.md",
-    "links_needs_read/一些链接.md",
     "SQL/MySql技能树.md",
     "SQL/MySql语句",
     "Bugs/vue-cli-service不是内部或外部命令.md",
@@ -231,8 +257,6 @@
     "NOTICE/注意事项.md",
     "SQL/Case When.md",
     "Codes/pakage.json.md",
-    "SQL/Create_DB.md",
-    "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
     "Spirng/Java",
     "Codes/CodesOfAlgrithms",
     "Algroithms/Sorts",
