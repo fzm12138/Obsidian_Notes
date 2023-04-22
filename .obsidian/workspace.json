@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99289765852ab11f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句/字段属性/主键.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe31c552cf518ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句/字段属性/自增长.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c65b62a47b4d2088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/依赖注入/Autowired.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2be508bc17ee9e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/依赖注入/@Inject.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "200147e7b11db26b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/MySql语句/模糊查询.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eebffc36636f084d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Spring注解/@Entity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d773d717977a13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/ToStringStyle.MULTI_LINE_STYLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fde4b7572709c59a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Ruoyi/登录流程/前端的小问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49166e0a15abe54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/依赖注入/@Resource.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2dbf38597c2d1127",
             "type": "leaf",
             "state": {
@@ -127,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
