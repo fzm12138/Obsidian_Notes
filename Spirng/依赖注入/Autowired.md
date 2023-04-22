@@ -59,3 +59,70 @@ Java初始化一个类时，按照 静态变量/静态语句块->实例变量/�
 - 如果此类使用了依赖注入的类，那么这个类摆脱这几个依赖也能正常运行
 - 变量注入保证不了上述特点
 #### Solution:
+一般开发需要注入属性时都需要三个注解
+```java
+@Autowired 
+@Inject
+@Resource
+```
+
+```java
+public interface IndexService {
+ 
+    void sayHello();
+}
+ 
+@Service
+public class IndexServiceImpl implements IndexService {
+ 
+    @Override
+    public void sayHello() {
+        System.out.println("hello, this is IndexServiceImpl");
+    }
+}
+ 
+@Service
+public class IndexServiceImpl2 implements IndexService {
+ 
+    @Override
+    public void sayHello() {
+        System.out.println("hello, this is IndexServiceImpl2");
+    }
+}
+复制代码
+```
+##### @Autowired
+为spring框架提供注解
+匹配bean的过程
+
+- 按照type在上下文查找匹配的bean
+- 若有多个bean，按照name进行匹配
+	- 如果有@Aualifier注解，按照@Aualifier指定的name进行匹配，查找name为IndexServiceImpl2的bean
+	- 如果没有，按照变量名进行匹配，查找name为IndexService的bean
+- 若匹配不到，则报错
+```java
+@Autowired(required=false) 则注入失败不抛出异常
+```
+
+ 
+[[@Inject]]
+[[@Resource]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
