@@ -1,0 +1,5 @@
+- 不用手动添加getter和setter,代码变得简洁
+- @Autowired注入存在一些小问题
+	- 可能会编译的时候不报错，运行空指针
+	- 不能有效地指名依赖
+- lombok包下的@RequiredArgsConstructor能有效解决这些问题

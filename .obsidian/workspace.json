@@ -102,9 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49166e0a15abe54f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/依赖注入/@Resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dbf38597c2d1127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BetterTommorrow/使用lombok的理由.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/前端的小问题.md",
+                "file": "BetterTommorrow/使用lombok的理由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/前端的小问题.md",
+                "file": "BetterTommorrow/使用lombok的理由.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/前端的小问题.md"
+                "file": "BetterTommorrow/使用lombok的理由.md"
               }
             }
           },
@@ -239,9 +263,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde4b7572709c59a",
+  "active": "2dbf38597c2d1127",
   "lastOpenFiles": [
+    "Spirng/依赖注入/@Resource.md",
+    "BetterTommorrow/使用lombok的理由.md",
+    "Spirng/依赖注入/Autowired.md",
+    "Spirng/依赖注入/@Inject.md",
+    "Spirng/Java/Clob类.md",
     "Spirng/ToStringStyle.MULTI_LINE_STYLE.md",
+    "Spirng/SpringSecurity&shiro/占位.md",
+    "Spirng/Spring注解/@PutMapping.md",
+    "BetterTommorrow",
+    "Spirng/serialVerisonUID.md",
     "Spirng/Ruoyi/登录流程/前端的小问题.md",
     "Spirng/Spring注解/@Entity.md",
     "SQL/MySql语句/模糊查询.md",
@@ -262,14 +295,6 @@
     "Pics/ScreenShots/Pasted image 20230418165425.png",
     "Pics/ScreenShots/Pasted image 20230418163757.png",
     "NOTICE/小技巧&小操作.md",
-    "NeedRemember/响应状态码.md",
-    "JavaWeb/HTTP.md",
-    "JavaWeb/Maven.md",
-    "JavaWeb/Web.md",
-    "Codes/Ruoyi_Codes/login(登录验证).md",
-    "Codes/Ruoyi_Codes/validateCaptcha(验证码校验).md",
-    "Codes/Ruoyi_Codes/createToke(登录生成toke的实现).md",
-    "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
     "Spirng/依赖注入",
     "Spirng/Spring注解/Untitled",
     "SQL/MySql语句/字段属性",
@@ -282,7 +307,6 @@
     "Algroithms",
     "Pasted image 20230418165447.png",
     "Pics/ScreenShots/Pasted image 20230418164205.png",
-    "Pics",
     "Pics/ScreenShots/Pasted image 20230418164111.png",
     "Untitled.canvas"
   ]
