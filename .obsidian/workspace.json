@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "38927593bc55628b",
+        "id": "6ea0244fe308d493",
         "type": "tabs",
         "children": [
           {
-            "id": "2dbf38597c2d1127",
+            "id": "9fa69ddad7bb3030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BetterTommorrow/使用lombok的理由.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "def5d2fc07906d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Spring注解/@JsonInclude().md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Spring注解/@JsonInclude().md",
+                "file": "Spirng/ToStringStyle.MULTI_LINE_STYLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Spring注解/@JsonInclude().md",
+                "file": "Spirng/ToStringStyle.MULTI_LINE_STYLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Spring注解/@JsonInclude().md"
+                "file": "Spirng/ToStringStyle.MULTI_LINE_STYLE.md"
               }
             }
           },
@@ -167,13 +150,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "def5d2fc07906d1c",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
+    "Spirng/serialVerisonUID.md",
+    "Spirng/Spring注解/@JsonInclude().md",
     "Spirng/Spring注解/@Validdated.md",
     "Spirng/Spring注解/@PutMapping.md",
-    "Spirng/serialVerisonUID.md",
     "Spirng/ToStringStyle.MULTI_LINE_STYLE.md",
-    "Spirng/Spring注解/@JsonInclude().md",
     "BetterTommorrow/使用lombok的理由.md",
     "Spirng/依赖注入/@Resource.md",
     "Spirng/依赖注入/Autowired.md",
