@@ -11,8 +11,12 @@
             "id": "9fa69ddad7bb3030",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/ToStringStyle.MULTI_LINE_STYLE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
