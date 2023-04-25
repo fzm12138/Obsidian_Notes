@@ -2,3 +2,4 @@
 - 比如存储在MYSQL中的数据是dateTime类型，将数据获取以后- 封装到实体类中的时候，就会变成英文的时间格式(Wed Jul 27 02:26:43 CST 2022)，而不是yyyy-MM-dd HH:mm:ss格式的时间(2022-07-27 02:26:43)，@JsonFormat注解就可以解决这个问题。
 - 该注解用于出参日期的格式化
 - 入参同理
+- [JsonFormat](https://blog.csdn.net/goodjava2007/article/details/126028371)

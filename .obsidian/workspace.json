@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/Spring注解/JsonFormat.md",
+                "file": "Spirng/依赖注入/Autowired.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Spring注解/JsonFormat.md",
+                "file": "Spirng/依赖注入/Autowired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Spring注解/JsonFormat.md",
+                "file": "Spirng/依赖注入/Autowired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Spring注解/JsonFormat.md"
+                "file": "Spirng/依赖注入/Autowired.md"
               }
             }
           },
@@ -169,13 +169,14 @@
   },
   "active": "77ba8fa5b70b7281",
   "lastOpenFiles": [
+    "Spirng/Spring注解/@PutMapping.md",
+    "Spirng/Spring注解/@Validdated.md",
+    "Spirng/Spring注解/@Entity.md",
     "Spirng/Spring注解/JsonFormat.md",
     "Spirng/依赖注入/Autowired.md",
     "Spirng/ToStringStyle.MULTI_LINE_STYLE.md",
     "Spirng/serialVerisonUID.md",
     "Spirng/Spring注解/@JsonInclude().md",
-    "Spirng/Spring注解/@Validdated.md",
-    "Spirng/Spring注解/@PutMapping.md",
     "BetterTommorrow/使用lombok的理由.md",
     "Spirng/依赖注入/@Resource.md",
     "Spirng/依赖注入/@Inject.md",
@@ -183,7 +184,6 @@
     "Spirng/SpringSecurity&shiro/占位.md",
     "BetterTommorrow",
     "Spirng/Ruoyi/登录流程/前端的小问题.md",
-    "Spirng/Spring注解/@Entity.md",
     "SQL/MySql语句/模糊查询.md",
     "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
     "SQL/MySql语句/SQL分类.md",

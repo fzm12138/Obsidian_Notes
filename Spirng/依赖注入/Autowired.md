@@ -107,9 +107,9 @@ public class IndexServiceImpl2 implements IndexService {
  
 [[@Inject]]
 [[@Resource]]
+https://blog.csdn.net/m0_73311735/article/details/127261819
 
-
-
+[不推荐@Autowired的理由](https://blog.csdn.net/m0_73311735/article/details/127261819)
 
 
 
