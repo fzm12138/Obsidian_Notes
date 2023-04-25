@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "828cf2c9dab93ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MySql语句/函数/IFNULL().md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/依赖注入/Autowired.md",
+                "file": "SQL/MySql语句/函数/IFNULL().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/依赖注入/Autowired.md",
+                "file": "SQL/MySql语句/函数/IFNULL().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/依赖注入/Autowired.md"
+                "file": "SQL/MySql语句/函数/IFNULL().md"
               }
             }
           },
@@ -167,13 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77ba8fa5b70b7281",
+  "active": "828cf2c9dab93ed4",
   "lastOpenFiles": [
+    "Spirng/依赖注入/Autowired.md",
+    "SQL/MySql语句/函数/IFNULL().md",
+    "SQL/MySql语句/函数",
     "Spirng/Spring注解/@PutMapping.md",
     "Spirng/Spring注解/@Validdated.md",
     "Spirng/Spring注解/@Entity.md",
     "Spirng/Spring注解/JsonFormat.md",
-    "Spirng/依赖注入/Autowired.md",
     "Spirng/ToStringStyle.MULTI_LINE_STYLE.md",
     "Spirng/serialVerisonUID.md",
     "Spirng/Spring注解/@JsonInclude().md",
@@ -195,7 +209,6 @@
     "links_needs_read/一些链接.md",
     "NOTICE/注意事项.md",
     "SQL/MySql语句/数据库操作.md",
-    "SQL/MySql语句/常用函数.md",
     "Pics/ScreenShots/评估表达式.png",
     "Pics/ScreenShots/Pasted image 20230418165425.png",
     "Pics/ScreenShots/Pasted image 20230418163757.png",
@@ -208,7 +221,6 @@
     "Spirng/Java",
     "Codes/CodesOfAlgrithms",
     "Algroithms/Sorts",
-    "Algroithms",
     "Pasted image 20230418165447.png",
     "Pics/ScreenShots/Pasted image 20230418164205.png",
     "Pics/ScreenShots/Pasted image 20230418164111.png",
