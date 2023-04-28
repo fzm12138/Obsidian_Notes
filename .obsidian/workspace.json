@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/plugins/lombok.md",
+                "file": "Spirng/依赖注入/@Resource.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e2afa2f3025aacf",
+  "active": "a9d6a145f1b2c3d3",
   "lastOpenFiles": [
+    "Spirng/plugins/lombok.md",
+    "Spirng/依赖注入/@Resource.md",
     "Spirng/依赖注入/@Inject.md",
     "Spirng/依赖注入/Autowired.md",
     "Spirng/Spring注解/@EqualsAndHashCode(callSuper = true).md",
@@ -176,9 +177,7 @@
     "Spirng/Spring注解/@Entity.md",
     "Spirng/Spring注解/@Validdated.md",
     "Spirng/Spring注解/@PutMapping.md",
-    "Spirng/plugins/lombok.md",
     "SQL/MySql技能树.md",
-    "Spirng/依赖注入/@Resource.md",
     "Spirng/plugins",
     "Spirng/Spring注解/@JsonInclude().md",
     "Spirng/Java/Clob类.md",
