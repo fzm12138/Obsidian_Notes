@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/Spring注解/@EqualsAndHashCode(callSuper = true).md",
+                "file": "Spirng/依赖注入/@Resource.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Spring注解/@EqualsAndHashCode(callSuper = true).md",
+                "file": "Spirng/依赖注入/@Resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Spring注解/@EqualsAndHashCode(callSuper = true).md",
+                "file": "Spirng/依赖注入/@Resource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Spring注解/@EqualsAndHashCode(callSuper = true).md"
+                "file": "Spirng/依赖注入/@Resource.md"
               }
             }
           },
@@ -169,21 +169,21 @@
   },
   "active": "5e2afa2f3025aacf",
   "lastOpenFiles": [
-    "Spirng/plugins/lombok.md",
-    "Spirng/Spring注解/@EqualsAndHashCode(callSuper = true).md",
+    "Spirng/依赖注入/@Inject.md",
     "Spirng/依赖注入/Autowired.md",
+    "Spirng/Spring注解/@EqualsAndHashCode(callSuper = true).md",
+    "Spirng/Spring注解/JsonFormat.md",
+    "Spirng/Spring注解/@Entity.md",
+    "Spirng/Spring注解/@Validdated.md",
+    "Spirng/Spring注解/@PutMapping.md",
+    "Spirng/plugins/lombok.md",
     "SQL/MySql技能树.md",
     "Spirng/依赖注入/@Resource.md",
     "Spirng/plugins",
-    "Spirng/Spring注解/JsonFormat.md",
     "Spirng/Spring注解/@JsonInclude().md",
-    "Spirng/Spring注解/@Entity.md",
-    "Spirng/Spring注解/@PutMapping.md",
-    "Spirng/Spring注解/@Validdated.md",
     "Spirng/Java/Clob类.md",
     "BetterTommorrow/你猜猜看呢.md",
     "BetterTommorrow/使用lombok的理由.md",
-    "Spirng/依赖注入/@Inject.md",
     "links_needs_read/一些链接.md",
     "Interview/Webs.md",
     "EastWater/ds.md",
