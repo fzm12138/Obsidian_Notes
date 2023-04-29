@@ -18,8 +18,141 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffcbd2abab168a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceccd4edc956d2c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emebedded/I2C/I2C介绍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aea6158128b9d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digtalTwin/可能用的技术与工具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbf68c6c37e7aa43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digtalTwin/数据管理/数据传输/数据传输.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00265b0a0176b0f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digtalTwin/数据管理/数据存储/数据存储.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d24a0d5c4892025b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digtalTwin/数据管理/数据采集/scribe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "671a0e62af630e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digtalTwin/数据管理/数据采集/Chukwa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d039e763c518aeb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digtalTwin/可能用的技术与工具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "720da2faf80e2578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digtalTwin/GIS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aacbd35a1f265779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digtalTwin/开发方案/Unity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bb31f0cd398f7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BetterTommorrow/使用lombok的理由.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -51,7 +184,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Spring注解/@PutMapping、@PatchMapping、@DeleteMapping.md",
+                "file": "BetterTommorrow/使用lombok的理由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Spring注解/@PutMapping、@PatchMapping、@DeleteMapping.md",
+                "file": "BetterTommorrow/使用lombok的理由.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Spring注解/@PutMapping、@PatchMapping、@DeleteMapping.md"
+                "file": "BetterTommorrow/使用lombok的理由.md"
               }
             }
           },
@@ -155,10 +287,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ca686b5de14ed46",
+  "active": "8bb31f0cd398f7c1",
   "lastOpenFiles": [
-    "Spirng/依赖注入/@Resource.md",
+    "digtalTwin/开发方案/Unity.md",
+    "unity解决方案.png",
+    "Pasted image 20230429143319.png",
+    "Pasted image 20230429143248.png",
+    "digtalTwin/开发方案/Unreal5.md",
+    "Unity架构3_0.png",
+    "digtalTwin/GIS.md",
+    "digtalTwin/开发方案",
+    "digtalTwin/可能用的技术与工具.md",
+    "digtalTwin/数据管理/数据采集/Aoacge Flume.md",
+    "digtalTwin/服务应用工具/仿真工具",
+    "digtalTwin/服务应用工具/诊断与预测",
+    "digtalTwin/服务应用工具/优化工具",
+    "digtalTwin/服务应用工具/平台工具",
+    "digtalTwin/服务应用工具",
+    "digtalTwin/建模/行为模型构造工具",
+    "digtalTwin/建模/规则模型构造工具",
+    "digtalTwin/建模/物理模型构建工具",
+    "digtalTwin/建模/几何模型构建工具",
+    "digtalTwin/数据管理/数据采集/Chukwa.md",
+    "digtalTwin/数据管理/数据采集/scribe.md",
+    "digtalTwin/数据管理/数据采集/数据采集.md",
+    "digtalTwin/数据管理/数据处理/数据处理.md",
+    "digtalTwin/数据管理/数据存储/数据存储.md",
+    "digtalTwin/数据管理/数据传输/数据传输.md",
+    "digital_twin_data.png",
+    "tools.png",
+    "modeling.png",
+    "Emebedded/I2C/I2C介绍.md",
+    "Python/Untitled.md",
     "Spirng/Spring注解/@PutMapping、@PatchMapping、@DeleteMapping.md",
+    "Spirng/依赖注入/@Resource.md",
     "Untitled.md",
     "Spirng/plugins/lombok.md",
     "Spirng/依赖注入/@Inject.md",
@@ -169,37 +331,9 @@
     "Spirng/Spring注解/@Validdated.md",
     "Spirng/Spring注解/@PutMapping.md",
     "SQL/MySql技能树.md",
-    "Spirng/plugins",
-    "Spirng/Spring注解/@JsonInclude().md",
-    "Spirng/Java/Clob类.md",
-    "BetterTommorrow/你猜猜看呢.md",
-    "BetterTommorrow/使用lombok的理由.md",
-    "links_needs_read/一些链接.md",
-    "Interview/Webs.md",
-    "EastWater/ds.md",
-    "JavaWeb/Web.md",
-    "Spirng/MyBaits/Date的问题.md",
-    "Spirng/MyBaits",
-    "SQL/Create_DB.md",
-    "SQL/Case When.md",
-    "SQL/MySql语句/数据库操作.md",
-    "SQL/MySql语句/SQL分类.md",
-    "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
-    "SQL/MySql语句/函数",
-    "BetterTommorrow",
     "Pics/ScreenShots/评估表达式.png",
     "Pics/ScreenShots/Pasted image 20230418165425.png",
     "Pics/ScreenShots/Pasted image 20230418163757.png",
-    "Spirng/依赖注入",
-    "Spirng/Spring注解/Untitled",
-    "SQL/MySql语句/字段属性",
-    "Pasted image 20230421092731.png",
-    "Spirng/Spring注解",
-    "SQL/MySql语句",
-    "Spirng/Java",
-    "Pasted image 20230418165447.png",
-    "Pics/ScreenShots/Pasted image 20230418164205.png",
-    "Pics/ScreenShots/Pasted image 20230418164111.png",
     "Untitled.canvas"
   ]
 }
