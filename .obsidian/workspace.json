@@ -61,14 +61,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Spirng/依赖注入/@Resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7e511eec5d5f27c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Spirng/依赖注入/@RequiredArgsConstructor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c32b1f21b6a0485f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/各种类/AjaxResult实体类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "692769f9f44b6a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DesginModel/设计原则/SRP原则.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/依赖注入/@RequiredArgsConstructor.md",
+                "file": "DesginModel/设计原则/SRP原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/依赖注入/@RequiredArgsConstructor.md",
+                "file": "DesginModel/设计原则/SRP原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/依赖注入/@RequiredArgsConstructor.md"
+                "file": "DesginModel/设计原则/SRP原则.md"
               }
             }
           },
@@ -203,13 +239,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bccf83397cc680a6",
+  "active": "692769f9f44b6a4a",
   "lastOpenFiles": [
+    "Spirng/各种类/AjaxResult实体类.md",
+    "DesginModel/设计原则/SRP原则.md",
+    "DesginModel/设计原则",
+    "Spirng/依赖注入/@RequiredArgsConstructor.md",
+    "Spirng/各种类",
     "Spirng/依赖注入/@Resource.md",
     "Spirng/依赖注入/Autowired.md",
     "Python/Untitled.md",
     "plugin/Idea.md",
-    "Spirng/依赖注入/@RequiredArgsConstructor.md",
     "Bugs/无法自动装配.md",
     "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
     "BetterTommorrow/你猜猜看呢.md",
@@ -229,8 +269,6 @@
     "Spirng/MyBaits/Date的问题.md",
     "Spirng/Java/Clob类.md",
     "Codes/Ruoyi_Codes/createToke(登录生成toke的实现).md",
-    "Codes/Ruoyi_Codes/validateCaptcha(验证码校验).md",
-    "Codes/Ruoyi_Codes/login(登录验证).md",
     "Pasted image 20230421092731.png",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
@@ -244,8 +282,6 @@
     "digtalTwin/服务应用工具",
     "digtalTwin/建模/行为模型构造工具",
     "digtalTwin/建模/规则模型构造工具",
-    "digtalTwin/建模/物理模型构建工具",
-    "digtalTwin/建模/几何模型构建工具",
     "digital_twin_data.png",
     "tools.png",
     "modeling.png",
