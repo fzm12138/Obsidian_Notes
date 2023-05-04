@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b908ef69a7622c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/Spring注解/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d991c46bb63a9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/入参校验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
+                "file": "Spirng/入参校验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
+                "file": "Spirng/入参校验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/获取用户角色和权限.md"
+                "file": "Spirng/入参校验.md"
               }
             }
           },
@@ -154,8 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a391cdb24909c995",
+  "active": "0d991c46bb63a9c1",
   "lastOpenFiles": [
+    "Spirng/Spring注解/Untitled.md",
+    "Spirng/入参校验.md",
+    "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
     "Spirng/Ruoyi/登录流程/登录的实现.md",
     "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
     "Spirng/plugins/lombok.md",
@@ -180,9 +208,6 @@
     "Pasted image 20230429143319.png.md",
     "digtalTwin/开发方案/Unreal5.md",
     "Spirng/Spring注解/@PutMapping、@PatchMapping、@DeleteMapping.md",
-    "Python/Untitled.md",
-    "Emebedded/I2C/I2C介绍.md",
-    "digtalTwin/可能用的技术与工具.md",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
     "Pasted image 20230429143248.png",
