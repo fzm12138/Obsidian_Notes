@@ -21,6 +21,9 @@
 public class UserDaoImpl {
 	private final User user;
 ```
-
-
+- 要注入的对象必须声明为final
+- 可以配合@NonNull使用
+- @NonNull 指示目标对象不能为 null，用于注解方法，参数以及变量；
+	 - 即：给方法参数增加这个注解，会自动在方法内对该参数进行是否为空的校验，如果为空，则抛出 NPE（NullPointerException）
+[[@RequiredArgsConstructor]]
 

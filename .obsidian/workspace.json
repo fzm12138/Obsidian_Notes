@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/入参校验.md",
+                "file": "Spirng/依赖注入/@Resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f628fd17214078dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/依赖注入/@Resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bccf83397cc680a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/依赖注入/@RequiredArgsConstructor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uni",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/入参校验.md",
+                "file": "Spirng/依赖注入/@RequiredArgsConstructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/入参校验.md",
+                "file": "Spirng/依赖注入/@RequiredArgsConstructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/入参校验.md"
+                "file": "Spirng/依赖注入/@RequiredArgsConstructor.md"
               }
             }
           },
@@ -179,10 +203,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d991c46bb63a9c1",
+  "active": "bccf83397cc680a6",
   "lastOpenFiles": [
-    "Spirng/Spring注解/Untitled.md",
+    "Spirng/依赖注入/@Resource.md",
+    "Spirng/依赖注入/Autowired.md",
+    "Python/Untitled.md",
+    "plugin/Idea.md",
+    "Spirng/依赖注入/@RequiredArgsConstructor.md",
+    "Bugs/无法自动装配.md",
+    "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
+    "BetterTommorrow/你猜猜看呢.md",
+    "BetterTommorrow/使用lombok的理由.md",
+    "Spirng/依赖注入/@Inject.md",
+    "Spirng/Spring注解/@PutMapping.md",
+    "digtalTwin/开发方案/Unreal5.md",
+    "digtalTwin/开发方案/Unity.md",
+    "digtalTwin/GIS.md",
+    "digtalTwin/开发方案/山海鲸.md",
     "Spirng/入参校验.md",
+    "Spirng/Spring注解/Untitled.md",
     "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
     "Spirng/Ruoyi/登录流程/登录的实现.md",
     "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
@@ -192,22 +231,7 @@
     "Codes/Ruoyi_Codes/createToke(登录生成toke的实现).md",
     "Codes/Ruoyi_Codes/validateCaptcha(验证码校验).md",
     "Codes/Ruoyi_Codes/login(登录验证).md",
-    "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
-    "Bugs/vue-cli-service不是内部或外部命令.md",
-    "Bugs/无法自动装配.md",
-    "Bugs/Chrome.md",
-    "BetterTommorrow/使用lombok的理由.md",
-    "Algroithms/分治策略.md",
-    "Algroithms/CoreOfAlgoithms.md",
-    "Algroithms/Effects of Alogrithms.md",
-    "Algroithms/Sorts/插入排序.md",
-    "digtalTwin/开发方案/Unity.md",
-    "SQL/Create_DB.md",
-    "SQL/MySql技能树.md",
     "Pasted image 20230421092731.png",
-    "Pasted image 20230429143319.png.md",
-    "digtalTwin/开发方案/Unreal5.md",
-    "Spirng/Spring注解/@PutMapping、@PatchMapping、@DeleteMapping.md",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
     "Pasted image 20230429143248.png",
