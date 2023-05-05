@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/无法自动装配.md",
+                "file": "js/js入门.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/无法自动装配.md",
+                "file": "js/js入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/无法自动装配.md",
+                "file": "js/js入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/无法自动装配.md"
+                "file": "js/js入门.md"
               }
             }
           },
@@ -236,6 +236,9 @@
   },
   "active": "a391cdb24909c995",
   "lastOpenFiles": [
+    "Bugs/无法自动装配.md",
+    "js/js入门.md",
+    "js",
     "Bugs/Chrome.md",
     "DesginModel/设计原则/SRP原则.md",
     "DesginModel/设计模式文件夹.md",
@@ -248,7 +251,6 @@
     "Spirng/依赖注入/Autowired.md",
     "Python/Untitled.md",
     "plugin/Idea.md",
-    "Bugs/无法自动装配.md",
     "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
     "BetterTommorrow/你猜猜看呢.md",
     "BetterTommorrow/使用lombok的理由.md",
@@ -264,7 +266,6 @@
     "Spirng/Ruoyi/登录流程/登录的实现.md",
     "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
     "Spirng/plugins/lombok.md",
-    "Spirng/MyBaits/Date的问题.md",
     "Pasted image 20230421092731.png",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
@@ -276,7 +277,6 @@
     "digtalTwin/服务应用工具/优化工具",
     "digtalTwin/服务应用工具/平台工具",
     "digtalTwin/服务应用工具",
-    "digtalTwin/建模/行为模型构造工具",
     "digital_twin_data.png",
     "tools.png",
     "modeling.png",
