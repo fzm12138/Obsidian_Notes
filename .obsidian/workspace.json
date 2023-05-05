@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
+                "file": "Bugs/无法自动装配.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,31 +90,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "692769f9f44b6a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DesginModel/设计原则/SRP原则.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c4c6dc72619680b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DesginModel/设计原则/SRP原则.md",
+                "file": "Bugs/无法自动装配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DesginModel/设计原则/SRP原则.md",
+                "file": "Bugs/无法自动装配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DesginModel/设计原则/SRP原则.md"
+                "file": "Bugs/无法自动装配.md"
               }
             }
           },
@@ -257,10 +234,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c4c6dc72619680b",
+  "active": "a391cdb24909c995",
   "lastOpenFiles": [
-    "Spirng/各种类/AjaxResult实体类.md",
+    "Bugs/Chrome.md",
     "DesginModel/设计原则/SRP原则.md",
+    "DesginModel/设计模式文件夹.md",
+    "DesginModel/设计模式",
+    "Spirng/各种类/AjaxResult实体类.md",
     "DesginModel/设计原则",
     "Spirng/依赖注入/@RequiredArgsConstructor.md",
     "Spirng/各种类",
@@ -285,8 +265,6 @@
     "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
     "Spirng/plugins/lombok.md",
     "Spirng/MyBaits/Date的问题.md",
-    "Spirng/Java/Clob类.md",
-    "Codes/Ruoyi_Codes/createToke(登录生成toke的实现).md",
     "Pasted image 20230421092731.png",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
@@ -299,7 +277,6 @@
     "digtalTwin/服务应用工具/平台工具",
     "digtalTwin/服务应用工具",
     "digtalTwin/建模/行为模型构造工具",
-    "digtalTwin/建模/规则模型构造工具",
     "digital_twin_data.png",
     "tools.png",
     "modeling.png",
