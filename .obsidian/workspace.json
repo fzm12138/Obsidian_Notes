@@ -234,10 +234,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a391cdb24909c995",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
-    "Bugs/无法自动装配.md",
+    "购物/键盘.md",
     "js/js入门.md",
+    "购物",
+    "Bugs/无法自动装配.md",
     "js",
     "Bugs/Chrome.md",
     "DesginModel/设计原则/SRP原则.md",
@@ -265,7 +267,6 @@
     "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
     "Spirng/Ruoyi/登录流程/登录的实现.md",
     "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
-    "Spirng/plugins/lombok.md",
     "Pasted image 20230421092731.png",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
@@ -276,7 +277,6 @@
     "digtalTwin/服务应用工具/诊断与预测",
     "digtalTwin/服务应用工具/优化工具",
     "digtalTwin/服务应用工具/平台工具",
-    "digtalTwin/服务应用工具",
     "digital_twin_data.png",
     "tools.png",
     "modeling.png",
