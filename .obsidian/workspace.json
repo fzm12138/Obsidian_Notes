@@ -102,9 +102,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c4c6dc72619680b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -147,6 +157,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f915fe5a3cc0fd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -239,7 +257,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "692769f9f44b6a4a",
+  "active": "3c4c6dc72619680b",
   "lastOpenFiles": [
     "Spirng/各种类/AjaxResult实体类.md",
     "DesginModel/设计原则/SRP原则.md",
