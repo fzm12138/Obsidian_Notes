@@ -81,8 +81,9 @@ function my2(var1,var2){
 ```js
 var carname="kkxx1"
 var character=carname[2];
-
 ```
+
+
 
 
 
