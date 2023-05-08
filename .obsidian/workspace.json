@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/js入门.md",
+                "file": "IOT/ESP32/WIFI.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/js入门.md",
+                "file": "IOT/ESP32/WIFI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/js入门.md",
+                "file": "IOT/ESP32/WIFI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/js入门.md"
+                "file": "IOT/ESP32/WIFI.md"
               }
             }
           },
@@ -234,10 +234,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee396f47eacbb472",
+  "active": "a391cdb24909c995",
   "lastOpenFiles": [
-    "购物/键盘.md",
     "js/js入门.md",
+    "IOT/ESP32/WIFI.md",
+    "IOT/ESP32",
+    "IOT",
+    "购物/键盘.md",
     "购物",
     "Bugs/无法自动装配.md",
     "js",
@@ -266,7 +269,6 @@
     "Spirng/Spring注解/Untitled.md",
     "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
     "Spirng/Ruoyi/登录流程/登录的实现.md",
-    "Spirng/Ruoyi/登录流程/验证码的前后端实现.md",
     "Pasted image 20230421092731.png",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
@@ -275,8 +277,6 @@
     "digtalTwin/开发方案",
     "digtalTwin/服务应用工具/仿真工具",
     "digtalTwin/服务应用工具/诊断与预测",
-    "digtalTwin/服务应用工具/优化工具",
-    "digtalTwin/服务应用工具/平台工具",
     "digital_twin_data.png",
     "tools.png",
     "modeling.png",
