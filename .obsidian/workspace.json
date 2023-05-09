@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOT/ESP32/WIFI.md",
+                "file": "Bugs/pi/not trusted.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOT/ESP32/WIFI.md",
+                "file": "Bugs/pi/not trusted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOT/ESP32/WIFI.md",
+                "file": "Bugs/pi/not trusted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOT/ESP32/WIFI.md"
+                "file": "Bugs/pi/not trusted.md"
               }
             }
           },
@@ -236,8 +236,10 @@
   },
   "active": "a391cdb24909c995",
   "lastOpenFiles": [
-    "js/js入门.md",
+    "Bugs/pi",
     "IOT/ESP32/WIFI.md",
+    "Bugs/pi/not trusted.md",
+    "js/js入门.md",
     "IOT/ESP32",
     "IOT",
     "购物/键盘.md",
@@ -267,8 +269,6 @@
     "digtalTwin/开发方案/山海鲸.md",
     "Spirng/入参校验.md",
     "Spirng/Spring注解/Untitled.md",
-    "Spirng/Ruoyi/登录流程/获取用户角色和权限.md",
-    "Spirng/Ruoyi/登录流程/登录的实现.md",
     "Pasted image 20230421092731.png",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
