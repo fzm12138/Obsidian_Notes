@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EastWater/施肥机/变量导入说明.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EastWater/施肥机/变量导入说明.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EastWater/施肥机/变量导入说明.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EastWater/施肥机/变量导入说明.md"
+                "file": "Server/43.138.68.42/2023-05-12.md"
               }
             }
           },
@@ -175,11 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee396f47eacbb472",
+  "active": "8e98c75c32a1c4ae",
   "lastOpenFiles": [
+    "EastWater/施肥机/变量导入说明.md",
+    "Server/43.138.68.42/2023-05-12.md",
+    "Server",
+    "Server/43.138.68.42",
     "EastWater/施肥机",
     "Python/Untitled.md",
-    "EastWater/施肥机/变量导入说明.md",
     "Geek/EveryThingWeNeed/FunnyThings.md",
     "Geek/EveryThingWeNeed/What I need.md",
     "Geek/EveryThingWeNeed/principles.md",
@@ -208,13 +211,10 @@
     "js/js入门.md",
     "IOT/ESP32",
     "IOT",
-    "购物",
     "Bugs/无法自动装配.md",
-    "js",
     "Bugs/Chrome.md",
     "DesginModel/设计原则/SRP原则.md",
     "DesginModel/设计模式文件夹.md",
-    "DesginModel/设计模式",
     "Spirng/依赖注入/Autowired.md",
     "Pics/Pasted image 20230421092731.png",
     "Pasted image 20230429143319.png",
