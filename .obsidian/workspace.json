@@ -4,88 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b0b5ad4f60a7a31",
+        "id": "23e39af56423c5dd",
         "type": "tabs",
         "children": [
           {
-            "id": "a391cdb24909c995",
+            "id": "ba3eabac7078150c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/pi/not trusted.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b908ef69a7622c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/Spring注解/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d991c46bb63a9c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/依赖注入/@Resource.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f628fd17214078dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/依赖注入/@Resource.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bccf83397cc680a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/依赖注入/@Resource.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7e511eec5d5f27c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/依赖注入/@RequiredArgsConstructor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c32b1f21b6a0485f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirng/各种类/AjaxResult实体类.md",
+                "file": "digtalTwin/开发方案/Unity.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/pi/not trusted.md",
+                "file": "digtalTwin/开发方案/Unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/pi/not trusted.md",
+                "file": "digtalTwin/开发方案/Unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/pi/not trusted.md"
+                "file": "digtalTwin/开发方案/Unity.md"
               }
             }
           },
@@ -234,12 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a391cdb24909c995",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
+    "Emebedded/I2C/I2C介绍.md",
     "Spirng/定时任务/cron表达式.md",
     "Spirng/定时任务/JobDataMap.md",
-    "Spirng/定时任务/JobExecutionContext.md",
     "Spirng/定时任务/org.quartz.Job.md",
+    "Spirng/定时任务/JobExecutionContext.md",
+    "Spirng/各种类/AjaxResult实体类.md",
+    "Spirng/依赖注入/@RequiredArgsConstructor.md",
+    "Spirng/依赖注入/@Resource.md",
+    "Spirng/Spring注解/Untitled.md",
     "Bugs/pi/not trusted.md",
     "Spirng/定时任务",
     "Bugs/pi",
@@ -255,11 +188,8 @@
     "DesginModel/设计原则/SRP原则.md",
     "DesginModel/设计模式文件夹.md",
     "DesginModel/设计模式",
-    "Spirng/各种类/AjaxResult实体类.md",
     "DesginModel/设计原则",
-    "Spirng/依赖注入/@RequiredArgsConstructor.md",
     "Spirng/各种类",
-    "Spirng/依赖注入/@Resource.md",
     "Spirng/依赖注入/Autowired.md",
     "Python/Untitled.md",
     "plugin/Idea.md",
@@ -269,8 +199,6 @@
     "Spirng/依赖注入/@Inject.md",
     "Spirng/Spring注解/@PutMapping.md",
     "digtalTwin/开发方案/Unreal5.md",
-    "digtalTwin/开发方案/Unity.md",
-    "digtalTwin/GIS.md",
     "Pasted image 20230421092731.png",
     "unity解决方案.png",
     "Pasted image 20230429143319.png",
