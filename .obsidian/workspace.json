@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geek/EveryThingWeNeed/principles.md",
+                "file": "Python/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geek/EveryThingWeNeed/principles.md",
+                "file": "Python/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geek/EveryThingWeNeed/principles.md",
+                "file": "Python/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geek/EveryThingWeNeed/principles.md"
+                "file": "Python/Untitled.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "ba3eabac7078150c",
   "lastOpenFiles": [
+    "Geek/EveryThingWeNeed/FunnyThings.md",
     "Geek/EveryThingWeNeed/What I need.md",
     "Geek/EveryThingWeNeed/principles.md",
     "Geek/EveryThingWeNeed",
@@ -202,7 +203,6 @@
     "Spirng/依赖注入/Autowired.md",
     "Python/Untitled.md",
     "plugin/Idea.md",
-    "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
     "Pics/Pasted image 20230421092731.png",
     "Pasted image 20230429143319.png",
     "Pasted image 20230429143248.png",
