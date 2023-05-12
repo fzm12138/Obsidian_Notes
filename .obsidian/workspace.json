@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e98c75c32a1c4ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EastWater/施肥机/变量导入说明.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "EastWater/施肥机/变量导入说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "EastWater/施肥机/变量导入说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Untitled.md"
+                "file": "EastWater/施肥机/变量导入说明.md"
               }
             }
           },
@@ -162,14 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba3eabac7078150c",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
+    "EastWater/施肥机",
+    "Python/Untitled.md",
+    "EastWater/施肥机/变量导入说明.md",
     "Geek/EveryThingWeNeed/FunnyThings.md",
     "Geek/EveryThingWeNeed/What I need.md",
     "Geek/EveryThingWeNeed/principles.md",
     "Geek/EveryThingWeNeed",
     "Geek/Gihub's projects",
-    "Untitled.md",
     "Geek",
     "Pics/Pasted image 20230429143319.png.md",
     "Pics/tools.png",
@@ -201,8 +216,6 @@
     "DesginModel/设计模式文件夹.md",
     "DesginModel/设计模式",
     "Spirng/依赖注入/Autowired.md",
-    "Python/Untitled.md",
-    "plugin/Idea.md",
     "Pics/Pasted image 20230421092731.png",
     "Pasted image 20230429143319.png",
     "Pasted image 20230429143248.png",
