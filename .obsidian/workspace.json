@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geek/EveryThingWeNeed/What I need.md",
+                "file": "Geek/EveryThingWeNeed/principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geek/EveryThingWeNeed/What I need.md",
+                "file": "Geek/EveryThingWeNeed/principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geek/EveryThingWeNeed/What I need.md",
+                "file": "Geek/EveryThingWeNeed/principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geek/EveryThingWeNeed/What I need.md"
+                "file": "Geek/EveryThingWeNeed/principles.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "ba3eabac7078150c",
   "lastOpenFiles": [
-    "Geek/EveryThingWeNeed",
     "Geek/EveryThingWeNeed/What I need.md",
+    "Geek/EveryThingWeNeed/principles.md",
+    "Geek/EveryThingWeNeed",
     "Geek/Gihub's projects",
     "Untitled.md",
     "Geek",
@@ -198,7 +199,6 @@
     "DesginModel/设计原则/SRP原则.md",
     "DesginModel/设计模式文件夹.md",
     "DesginModel/设计模式",
-    "DesginModel/设计原则",
     "Spirng/依赖注入/Autowired.md",
     "Python/Untitled.md",
     "plugin/Idea.md",

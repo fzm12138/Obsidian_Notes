@@ -1,0 +1,3 @@
+- state-of-the-art-shitcode(from github)
+- [ 开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)
+- 
