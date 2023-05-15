@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/DataTypes.md",
+                "file": "Bugs/kotlin/Cant resolve kotlin dependencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/DataTypes.md",
+                "file": "Bugs/kotlin/Cant resolve kotlin dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/DataTypes.md",
+                "file": "Bugs/kotlin/Cant resolve kotlin dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/DataTypes.md"
+                "file": "Bugs/kotlin/Cant resolve kotlin dependencies.md"
               }
             }
           },
@@ -165,15 +165,15 @@
   },
   "active": "3529be66aedb82e9",
   "lastOpenFiles": [
-    "Spirng/SpringBoot/Kotlin/Basic-Grammer.md",
+    "Bugs/kotlin/maven无法解析KotlinMaven插件.md",
+    "Bugs/kotlin/Cant resolve kotlin dependencies.md",
+    "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
     "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
     "Spirng/SpringBoot/Kotlin",
     "Geek/plugins-with-Idea.md",
     "Geek/EveryThingWeNeed/FunnyThings.md",
     "Geek/EveryThingWeNeed/principles.md",
-    "Bugs/kotlin/kotlin依赖项无法加载.md",
-    "Bugs/kotlin/maven无法解析KotlinMaven插件.md",
     "BetterTommorrow/使用lombok的理由.md",
     "Bugs/kotlin",
     "工作计划/2023-05/2023-05-15.md",
