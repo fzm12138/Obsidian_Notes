@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/kotlin/kotlin依赖项无法加载.md",
+                "file": "Spirng/SpringBoot/Kotlin/DataTypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/kotlin/kotlin依赖项无法加载.md",
+                "file": "Spirng/SpringBoot/Kotlin/DataTypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/kotlin/kotlin依赖项无法加载.md",
+                "file": "Spirng/SpringBoot/Kotlin/DataTypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/kotlin/kotlin依赖项无法加载.md"
+                "file": "Spirng/SpringBoot/Kotlin/DataTypes.md"
               }
             }
           },
@@ -165,8 +165,15 @@
   },
   "active": "3529be66aedb82e9",
   "lastOpenFiles": [
-    "Bugs/kotlin/maven无法解析KotlinMaven插件.md",
+    "Spirng/SpringBoot/Kotlin/Basic-Grammer.md",
+    "Spirng/SpringBoot/Kotlin/DataTypes.md",
+    "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
+    "Spirng/SpringBoot/Kotlin",
+    "Geek/plugins-with-Idea.md",
+    "Geek/EveryThingWeNeed/FunnyThings.md",
+    "Geek/EveryThingWeNeed/principles.md",
     "Bugs/kotlin/kotlin依赖项无法加载.md",
+    "Bugs/kotlin/maven无法解析KotlinMaven插件.md",
     "BetterTommorrow/使用lombok的理由.md",
     "Bugs/kotlin",
     "工作计划/2023-05/2023-05-15.md",
@@ -187,12 +194,6 @@
     "Spirng/SpringBoot/依赖注入/@Inject.md",
     "Spirng/SpringBoot/各种类/AjaxResult实体类.md",
     "Spirng/SpringBoot/定时任务/JobDataMap.md",
-    "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
-    "Spirng/SpringBoot/定时任务/JobExecutionContext.md",
-    "js/js入门.md",
-    "IOT/ESP32/WIFI.md",
-    "Interview/Webs.md",
-    "Geek/EveryThingWeNeed/principles.md",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
     "工作计划/2023-05",
@@ -200,7 +201,6 @@
     "Server",
     "Server/43.138.68.42",
     "EastWater/施肥机",
-    "Geek/EveryThingWeNeed",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
