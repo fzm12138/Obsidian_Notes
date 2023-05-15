@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-05/2023-05-15.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-05/2023-05-15.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-05/2023-05-15.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-05/2023-05-15.md"
+                "file": "Server/43.138.68.42/2023-05-12.md"
               }
             }
           },
@@ -164,11 +164,18 @@
   },
   "active": "8e98c75c32a1c4ae",
   "lastOpenFiles": [
+    "工作计划/2023-05/2023-05-15.md",
+    "Server/43.138.68.42/2023-05-12.md",
+    "plugin/Idea.md",
+    "digtalTwin/GIS.md",
+    "digtalTwin/可能用的技术与工具.md",
+    "digtalTwin/开发方案/山海鲸.md",
+    "digtalTwin/开发方案/Unreal5.md",
+    "digtalTwin/开发方案/Unity.md",
     "NOTICE/注意事项.md",
     "NeedRemember/响应状态码.md",
     "NOTICE/小技巧&小操作.md",
     "购物/键盘.md",
-    "工作计划/2023-05/2023-05-15.md",
     "Obsidian/Obsidain grammar/Obsidian语法.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringBoot/依赖注入/Autowired.md",
@@ -184,13 +191,6 @@
     "Geek/EveryThingWeNeed/FunnyThings.md",
     "EastWater/施肥机/变量导入说明.md",
     "Algroithms/分治策略.md",
-    "Algroithms/CoreOfAlgoithms.md",
-    "Algroithms/Effects of Alogrithms.md",
-    "Algroithms/Sorts/插入排序.md",
-    "Geek/HelloWorld.md",
-    "Geek/EveryThingWeNeed/What I need.md",
-    "SQL/MySql语句/Case When.md",
-    "Python/Untitled.md",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
     "工作计划/2023-05",
