@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-05/2023.05.15-05.20.md",
+                "file": "Bugs/kotlin/Cant resolve kotlin dependencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kotlin-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-05/2023.05.15-05.20.md",
+                "file": "Bugs/kotlin/Cant resolve kotlin dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-05/2023.05.15-05.20.md",
+                "file": "Bugs/kotlin/Cant resolve kotlin dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-05/2023.05.15-05.20.md"
+                "file": "Bugs/kotlin/Cant resolve kotlin dependencies.md"
               }
             }
           },
@@ -163,22 +163,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28ff004e75fc3e37",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
+    "工作计划/2023-05/2023-05-15.md",
+    "工作计划/2023-05/2023.05.15-05.20.md",
+    "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+    "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Spirng/SpringBoot/serialVerisonUID.md",
     "Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
     "Spirng/SpringBoot/MyBaits/Date的问题.md",
     "Spirng/SpringBoot/Java/入参校验.md",
     "Spirng/SpringBoot/回调（callback）.md",
-    "工作计划/2023-05/2023.05.15-05.20.md",
     "Server/43.138.68.42/2023-05-12.md",
     "links_needs_read/一些链接.md",
     "MessageQueue/introduction.md",
-    "工作计划/2023-05/2023-05-15.md",
     "购物/键盘.md",
-    "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
     "MessageQueue",
-    "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
     "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
