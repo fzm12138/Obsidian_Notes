@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +164,11 @@
   },
   "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
-    "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+    "工作计划/2023-05/2023-05-15.md",
+    "工作计划/2023-05/2023.05.15-05.20.md",
+    "购物/键盘.md",
     "MessageQueue/introduction.md",
+    "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
     "MessageQueue",
     "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
@@ -178,7 +180,6 @@
     "Geek/EveryThingWeNeed/principles.md",
     "BetterTommorrow/使用lombok的理由.md",
     "Bugs/kotlin",
-    "工作计划/2023-05/2023-05-15.md",
     "Server/43.138.68.42/2023-05-12.md",
     "plugin/Idea.md",
     "digtalTwin/GIS.md",
@@ -189,12 +190,10 @@
     "NOTICE/注意事项.md",
     "NeedRemember/响应状态码.md",
     "NOTICE/小技巧&小操作.md",
-    "购物/键盘.md",
     "Obsidian/Obsidain grammar/Obsidian语法.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringBoot/依赖注入/Autowired.md",
     "Spirng/SpringBoot/依赖注入/@Inject.md",
-    "Spirng/SpringBoot/各种类/AjaxResult实体类.md",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
     "工作计划/2023-05",
