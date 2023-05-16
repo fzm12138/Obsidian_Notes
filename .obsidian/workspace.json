@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28ff004e75fc3e37",
+  "active": "1460809a051dc831",
   "lastOpenFiles": [
     "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Spirng/SpringBoot/Kotlin/Basic-syntax.md",

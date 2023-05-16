@@ -97,7 +97,7 @@ also
 fun maxOf(a:Int,b:Int) = if(a>b) a else b
 ```
 
-### loop
+## loop
 #### for loop
 ```kotlin
 val items = listOf("apple","banana","kiwifruit")
@@ -125,6 +125,111 @@ fun describe(obj : Any):String =
         else       -> "Unknown"
 	}
 ```
+
+### Ranges
+check a number is within a range using 'in'
+```kotlin
+val x=10
+vay y=9
+if(x in 1...y+1){
+	println("fits in range")
+}
+```
+
+Also,it can check if a number is out of range
+```kotlin
+val list = listOf("a","b","c")
+if(-1 !in 0...list.lastIndex){
+	println("-1 is out of range")
+}
+if(list.size !in list.indices){
+	println("list size is out of valid list indices range, too")
+}
+```
+
+it could over a progression
+```kotlin
+for(x in 1... 10 step 2){
+	print(x)
+}//13579
+for(x in 9 downTo 0 step 3){
+	print(x)
+}//9630
+```
+
+## Collections
+Iterate over a collection
+```kotlin
+for(item in items){
+	println(item)
+}
+```
+
+Check if a collection contains an object using `in` operator.
+```kotlin
+when{
+   "orange" in items -> println("juicy")
+    "apple" in items -> println("apple is fine too")
+}
+```
+
+Using lambda expressions to filter and map collections:
+```kotlin
+val fruits = listOf("banana","avocado","apple","kiwifruit")
+fruits
+	.filter{ it.startsWith("a") }
+	.sortedBy{ it }
+	.map{ it.uppercase() }
+	.forEach{ println(it) }
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
