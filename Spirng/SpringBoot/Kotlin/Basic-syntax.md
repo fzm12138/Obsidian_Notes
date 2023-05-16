@@ -70,9 +70,9 @@ class Rectangle(var height:Double,var length:Double):Shape(){
 }
 ```
 
-Comments:Same as Java
+*Comments:Same as Java*
 
-String templates
+**String templates**
 ```kotlin
 var a = 1
 val s1="a is $a"
@@ -82,9 +82,9 @@ val s2="${s1.replace("is","was")},but now is $a"
 // a was 1, but now is 2
 ```
 
-Conditional experessions
+**Conditional experessions**
 ```kotlin
-fun maxOf(a:Int,b:Int):Int{
+:Int{
 	if(a>b){
 		return a
 	} else {
@@ -92,10 +92,39 @@ fun maxOf(a:Int,b:Int):Int{
 	}
 }
 ```
+also
+```kotlin
+fun maxOf(a:Int,b:Int) = if(a>b) a else b
+```
+
+### loop
+#### for loop
+```kotlin
+val items = listOf("apple","banana","kiwifruit")
+for(item:items){
+	println(item)
+}
+```
+or
+``` kotlin
+val items = listOf("apple","banana","kiwifruit")
+for(index in items.indices){
+	println("item at $index is ${items[index]}")
+}
+```
 
 
-
-
+### when expression
+```kotlin
+fun describe(obj : Any):String =
+	when (obj){
+		1          -> "One"
+        "Hello"    -> "Greeting"
+        is Long    -> "Long"
+        !is String -> "Not a string"
+        else       -> "Unknown"
+	}
+```
 
 
 
