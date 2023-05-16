@@ -1,0 +1,2 @@
+- Declare a attribute of an entity is the primary key
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "Spirng/SpringBoot/JPA/@GeneratedValue：.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "Spirng/SpringBoot/JPA/@GeneratedValue：.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "Spirng/SpringBoot/JPA/@GeneratedValue：.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md"
+                "file": "Spirng/SpringBoot/JPA/@GeneratedValue：.md"
               }
             }
           },
@@ -165,6 +165,10 @@
   },
   "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
+    "Spirng/SpringBoot/JPA/@Id.md",
+    "Spirng/SpringBoot/JPA/@GeneratedValue：.md",
+    "Server/43.138.68.42/2023-05-12.md",
+    "Spirng/SpringBoot/JPA",
     "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "工作计划/2023-05/2023-05-15.md",
     "工作计划/2023-05/2023.05.15-05.20.md",
@@ -175,7 +179,6 @@
     "Spirng/SpringBoot/MyBaits/Date的问题.md",
     "Spirng/SpringBoot/Java/入参校验.md",
     "Spirng/SpringBoot/回调（callback）.md",
-    "Server/43.138.68.42/2023-05-12.md",
     "links_needs_read/一些链接.md",
     "MessageQueue/introduction.md",
     "购物/键盘.md",
@@ -192,15 +195,12 @@
     "digtalTwin/GIS.md",
     "digtalTwin/可能用的技术与工具.md",
     "digtalTwin/开发方案/山海鲸.md",
-    "digtalTwin/开发方案/Unreal5.md",
-    "digtalTwin/开发方案/Unity.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
     "工作计划/2023-05",
     "工作计划",
     "Server",
-    "Server/43.138.68.42",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
