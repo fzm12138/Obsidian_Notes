@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MessageQueue/introduction.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MessageQueue/introduction.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MessageQueue/introduction.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MessageQueue/introduction.md"
+                "file": "Server/43.138.68.42/2023-05-12.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +165,11 @@
   },
   "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
+    "links_needs_read/一些链接.md",
+    "MessageQueue/introduction.md",
     "工作计划/2023-05/2023-05-15.md",
     "工作计划/2023-05/2023.05.15-05.20.md",
     "购物/键盘.md",
-    "MessageQueue/introduction.md",
     "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
     "MessageQueue",
     "Spirng/SpringBoot/Kotlin/DataTypes.md",
@@ -193,7 +195,6 @@
     "Obsidian/Obsidain grammar/Obsidian语法.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringBoot/依赖注入/Autowired.md",
-    "Spirng/SpringBoot/依赖注入/@Inject.md",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
     "工作计划/2023-05",

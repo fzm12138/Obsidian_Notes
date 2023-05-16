@@ -19,4 +19,10 @@ The common meaasge Queue:
 	- using in the scences wich demends consistency,reliable and safe,then purse performance and throughput
 ###### The features of RabbitMQ
 - Reliablity : supported by persistence，transport/publishack
-- 
+- Flexible Routing : before massages get in to the queue , using `Excahnge` to routing massages->
+	- For typical routing functions ,RBMQ suplies some built-in Exchange
+	- For comlex routing funtions could bond multiple Exchange or using plugin mechanism implents own Exchange 
+- Clustering : multiple server build-up a clustering forms a logic Broker
+- Highly Avaliable Queues : queues could make iso on clustering then it could work when some nodes couldn't work
+- Muti-protocol :RBMQ supports STOMP,MQTT
+- Many clients : RBMQ supports almost all the common languages
