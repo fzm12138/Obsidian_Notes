@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+                "file": "MessageQueue/introdution.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+                "file": "MessageQueue/introdution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+                "file": "MessageQueue/introdution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/Basic-syntax.md"
+                "file": "MessageQueue/introdution.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1460809a051dc831",
+  "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
-    "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+    "MessageQueue/introdution.md",
+    "MessageQueue",
+    "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
     "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
@@ -192,14 +195,12 @@
     "Spirng/SpringBoot/依赖注入/Autowired.md",
     "Spirng/SpringBoot/依赖注入/@Inject.md",
     "Spirng/SpringBoot/各种类/AjaxResult实体类.md",
-    "Spirng/SpringBoot/定时任务/JobDataMap.md",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
     "工作计划/2023-05",
     "工作计划",
     "Server",
     "Server/43.138.68.42",
-    "EastWater/施肥机",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
