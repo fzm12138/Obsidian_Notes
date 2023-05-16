@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MessageQueue/introdution.md",
+                "file": "MessageQueue/introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MessageQueue/introdution.md",
+                "file": "MessageQueue/introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MessageQueue/introdution.md",
+                "file": "MessageQueue/introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MessageQueue/introdution.md"
+                "file": "MessageQueue/introduction.md"
               }
             }
           },
@@ -166,7 +166,7 @@
   "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
     "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
-    "MessageQueue/introdution.md",
+    "MessageQueue/introduction.md",
     "MessageQueue",
     "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
