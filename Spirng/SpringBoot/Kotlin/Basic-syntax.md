@@ -41,3 +41,104 @@ val c:Int //Type required when no initializer is provided
 c = 3  //deferred assignment 
 ```
 
+Creating classes and instances
+To define a class,use the 'class' keyword
+```kotlin
+class Shape
+```
+
+Properties of a class can be listed in it's declaration or body
+```kotlin
+Class Rectangle(var height:Double,var length:Double){
+	var perimeter = (height+length)*2
+}
+```
+
+The default constructor with parameters listed in the class declaration is availabel automatically
+*(Just like lombok)*
+```kotlin
+val retangle =Renctangle(5.0,2.0)
+println("The perimeter is ${rectangle.perimeter}")
+```
+
+Inheritance between classes is declared by a colon( : ).Classes are final by default;to make a class inheritable ,mark it as 'open'
+```kotlin
+open class Shape
+
+class Rectangle(var height:Double,var length:Double):Shape(){
+	var perometer=(heigjt + length) * 2
+}
+```
+
+Comments:Same as Java
+
+String templates
+```kotlin
+var a = 1
+val s1="a is $a"
+
+a=2
+val s2="${s1.replace("is","was")},but now is $a"
+// a was 1, but now is 2
+```
+
+Conditional experessions
+```kotlin
+fun maxOf(a:Int,b:Int):Int{
+	if(a>b){
+		return a
+	} else {
+		return b
+	}
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
