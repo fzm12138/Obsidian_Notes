@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/data class.md",
+                "file": "Temp/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/data class.md",
+                "file": "Temp/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/data class.md",
+                "file": "Temp/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/data class.md"
+                "file": "Temp/Untitled.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,16 +164,19 @@
   },
   "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
-    "Bugs/流程.md",
+    "工作计划/2023-05/2023.05.15-05.20.md",
+    "Temp/Untitled.md",
+    "Temp",
+    "Server/43.138.68.42/2023-05-12.md",
+    "Spirng/SpringBoot/Kotlin/coroutine.md",
     "Spirng/SpringBoot/Kotlin/data class.md",
+    "Bugs/流程.md",
     "SQL/r2dbc/应用配置文件.md",
     "Spirng/SpringBoot/JPA/@Id.md",
     "Spirng/SpringBoot/JPA/@GeneratedValue：.md",
     "SQL/MySql技能树.md",
-    "工作计划/2023-05/2023.05.15-05.20.md",
     "SQL/r2dbc",
     "工作计划/2023-05/2023-05-15.md",
-    "Server/43.138.68.42/2023-05-12.md",
     "Spirng/SpringBoot/JPA",
     "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
@@ -193,14 +195,11 @@
     "Spirng/SpringBoot/Kotlin",
     "Geek/plugins-with-Idea.md",
     "Geek/EveryThingWeNeed/FunnyThings.md",
-    "Geek/EveryThingWeNeed/principles.md",
-    "BetterTommorrow/使用lombok的理由.md",
     "Bugs/kotlin",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
     "工作计划/2023-05",
-    "工作计划",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
