@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/Untitled.md",
+                "file": "Bugs/Spring/注入问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp/Untitled.md",
+                "file": "Bugs/Spring/注入问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp/Untitled.md",
+                "file": "Bugs/Spring/注入问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/Untitled.md"
+                "file": "Bugs/Spring/注入问题.md"
               }
             }
           },
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +166,10 @@
   },
   "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
-    "工作计划/2023-05/2023.05.15-05.20.md",
     "Temp/Untitled.md",
+    "Bugs/Spring/注入问题.md",
+    "Bugs/Spring",
+    "工作计划/2023-05/2023.05.15-05.20.md",
     "Temp",
     "Server/43.138.68.42/2023-05-12.md",
     "Spirng/SpringBoot/Kotlin/coroutine.md",
@@ -194,12 +198,10 @@
     "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
     "Spirng/SpringBoot/Kotlin",
     "Geek/plugins-with-Idea.md",
-    "Geek/EveryThingWeNeed/FunnyThings.md",
     "Bugs/kotlin",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
-    "工作计划/2023-05",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
