@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-05/2023.05.15-05.20.md",
+                "file": "SQL/r2dbc/应用配置文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-05/2023.05.15-05.20.md",
+                "file": "SQL/r2dbc/应用配置文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-05/2023.05.15-05.20.md",
+                "file": "SQL/r2dbc/应用配置文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-05/2023.05.15-05.20.md"
+                "file": "SQL/r2dbc/应用配置文件.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
-    "工作计划/2023-05/2023-05-15.md",
+    "SQL/MySql技能树.md",
+    "SQL/r2dbc/应用配置文件.md",
     "工作计划/2023-05/2023.05.15-05.20.md",
+    "SQL/r2dbc",
+    "工作计划/2023-05/2023-05-15.md",
     "Spirng/SpringBoot/JPA/@GeneratedValue：.md",
     "Spirng/SpringBoot/JPA/@Id.md",
     "Server/43.138.68.42/2023-05-12.md",
@@ -193,14 +196,11 @@
     "Bugs/kotlin",
     "plugin/Idea.md",
     "digtalTwin/GIS.md",
-    "digtalTwin/可能用的技术与工具.md",
-    "digtalTwin/开发方案/山海鲸.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
     "工作计划/2023-05",
     "工作计划",
-    "Server",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
