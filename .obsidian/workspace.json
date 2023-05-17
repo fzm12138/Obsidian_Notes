@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/流程.md",
+                "file": "Spirng/SpringBoot/Kotlin/data class.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/流程.md",
+                "file": "Spirng/SpringBoot/Kotlin/data class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/流程.md",
+                "file": "Spirng/SpringBoot/Kotlin/data class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/流程.md"
+                "file": "Spirng/SpringBoot/Kotlin/data class.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
-    "SQL/r2dbc/应用配置文件.md",
     "Bugs/流程.md",
+    "Spirng/SpringBoot/Kotlin/data class.md",
+    "SQL/r2dbc/应用配置文件.md",
     "Spirng/SpringBoot/JPA/@Id.md",
     "Spirng/SpringBoot/JPA/@GeneratedValue：.md",
     "SQL/MySql技能树.md",
@@ -195,7 +196,6 @@
     "Geek/EveryThingWeNeed/principles.md",
     "BetterTommorrow/使用lombok的理由.md",
     "Bugs/kotlin",
-    "plugin/Idea.md",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringCloud",
     "Spirng/SpringBoot",
