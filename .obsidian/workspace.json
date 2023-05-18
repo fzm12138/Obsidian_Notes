@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee396f47eacbb472",
+  "active": "28ff004e75fc3e37",
   "lastOpenFiles": [
     "Temp/Untitled.md",
     "Spirng/SpringBoot/serialVerisonUID.md",
