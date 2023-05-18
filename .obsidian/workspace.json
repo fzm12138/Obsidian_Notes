@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/Spring/注入问题.md",
+                "file": "流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/Spring/注入问题.md",
+                "file": "流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/Spring/注入问题.md",
+                "file": "流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/Spring/注入问题.md"
+                "file": "流程.md"
               }
             }
           },
@@ -164,9 +163,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28ff004e75fc3e37",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
     "Temp/Untitled.md",
+    "Spirng/SpringBoot/serialVerisonUID.md",
+    "Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
+    "Spirng/SpringBoot/回调（callback）.md",
+    "Spirng/SpringBoot/SpringSecurity&shiro/占位.md",
+    "IOT/ESP32/WIFI.md",
+    "Spirng/SpringBoot/plugins/lombok.md",
+    "Spirng/SpringBoot/MyBaits/Date的问题.md",
+    "Spirng/SpringBoot/Java/入参校验.md",
+    "Spirng/SpringBoot/Java/Clob类.md",
+    "Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
+    "Spirng/SpringBoot/依赖注入/@Resource.md",
+    "Spirng/SpringBoot/依赖注入/@Inject.md",
+    "Spirng/SpringBoot/依赖注入/Autowired.md",
+    "Spirng/SpringBoot/各种类/AjaxResult实体类.md",
+    "Spirng/SpringBoot/定时任务/JobDataMap.md",
+    "Spirng/SpringBoot/定时任务/JobExecutionContext.md",
+    "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
+    "JavaWeb/Web.md",
+    "JavaWeb/HTTP.md",
     "Bugs/Spring/注入问题.md",
     "Bugs/Spring",
     "工作计划/2023-05/2023.05.15-05.20.md",
@@ -174,30 +192,11 @@
     "Server/43.138.68.42/2023-05-12.md",
     "Spirng/SpringBoot/Kotlin/coroutine.md",
     "Spirng/SpringBoot/Kotlin/data class.md",
-    "Bugs/流程.md",
-    "SQL/r2dbc/应用配置文件.md",
-    "Spirng/SpringBoot/JPA/@Id.md",
-    "Spirng/SpringBoot/JPA/@GeneratedValue：.md",
-    "SQL/MySql技能树.md",
+    "流程.md",
     "SQL/r2dbc",
-    "工作计划/2023-05/2023-05-15.md",
     "Spirng/SpringBoot/JPA",
-    "Bugs/kotlin/Cant resolve kotlin dependencies.md",
-    "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
-    "Spirng/SpringBoot/Kotlin/DataTypes.md",
-    "Spirng/SpringBoot/serialVerisonUID.md",
-    "Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
-    "Spirng/SpringBoot/MyBaits/Date的问题.md",
-    "Spirng/SpringBoot/Java/入参校验.md",
-    "Spirng/SpringBoot/回调（callback）.md",
-    "links_needs_read/一些链接.md",
-    "MessageQueue/introduction.md",
-    "购物/键盘.md",
     "MessageQueue",
-    "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
-    "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
     "Spirng/SpringBoot/Kotlin",
-    "Geek/plugins-with-Idea.md",
     "Bugs/kotlin",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringCloud",

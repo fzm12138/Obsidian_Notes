@@ -8,7 +8,7 @@ pom.xml里引入lombok依赖
 </dependency>
 ```
 #### 常用注解
-```javascript
+```js
 @Slf4j
 //生成所有的get
 @Getter
