@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/SpringBoot/Spring注解/@Bean.md",
-                "mode": "source",
+                "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/SpringBoot/Spring注解/@Bean.md",
+                "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/SpringBoot/Spring注解/@Bean.md",
+                "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/SpringBoot/Spring注解/@Bean.md"
+                "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md"
               }
             }
           },
@@ -165,7 +166,20 @@
   },
   "active": "9fd52201913ae212",
   "lastOpenFiles": [
+    "Spirng/Maven&Gradle/Dependencies/FurtherInfomation/spring-boot-starter-validation.md",
+    "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
+    "Spirng/Maven&Gradle/Dependencies/FurtherInfomation",
+    "Spirng/Maven&Gradle/Dependencies",
+    "流程.md",
+    "Spirng/Maven&Gradle",
+    "工作计划/2023-05/2023.05.15-05.20.md",
+    "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
+    "Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
+    "Spirng/Web/Four_ways_entends Web/STOMP.md",
+    "Spirng/Web/Four_ways_entends Web/TIO.md",
+    "Spirng/Web/Four_ways_entends Web",
     "Spirng/Web/Socket.md",
+    "Spirng/SpringBoot/Spring注解/@Bean.md",
     "Spirng/SpringBoot/Kotlin/open&final.md",
     "Spirng/Web",
     "Spirng/SpringBoot/Kotlin/data class.md",
@@ -175,7 +189,6 @@
     "Spirng/SpringBoot/MyBaits/Date的问题.md",
     "Temp/Untitled 1.md",
     "Temp/Untitled.md",
-    "流程.md",
     "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "Spirng/SpringBoot/serialVerisonUID.md",
     "Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
@@ -184,23 +197,11 @@
     "IOT/ESP32/WIFI.md",
     "Spirng/SpringBoot/plugins/lombok.md",
     "Spirng/SpringBoot/Java/入参校验.md",
-    "Spirng/SpringBoot/Java/Clob类.md",
-    "Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
-    "Spirng/SpringBoot/依赖注入/@Resource.md",
-    "Spirng/SpringBoot/依赖注入/@Inject.md",
-    "Spirng/SpringBoot/依赖注入/Autowired.md",
-    "Spirng/SpringBoot/各种类/AjaxResult实体类.md",
-    "Spirng/SpringBoot/定时任务/JobDataMap.md",
-    "Spirng/SpringBoot/定时任务/JobExecutionContext.md",
     "Bugs/Spring",
     "Temp",
     "SQL/r2dbc",
     "Spirng/SpringBoot/JPA",
     "MessageQueue",
-    "Spirng/SpringBoot/Kotlin",
-    "Bugs/kotlin",
-    "Obsidian/团队版用户操作指引.pdf",
-    "Spirng/SpringCloud",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
