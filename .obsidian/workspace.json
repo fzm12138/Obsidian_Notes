@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/open&final.md",
+                "file": "Spirng/Web/Socket.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/open&final.md",
+                "file": "Spirng/Web/Socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/open&final.md",
+                "file": "Spirng/Web/Socket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/SpringBoot/Kotlin/open&final.md"
+                "file": "Spirng/Web/Socket.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +166,8 @@
   "active": "9fd52201913ae212",
   "lastOpenFiles": [
     "Spirng/SpringBoot/Kotlin/open&final.md",
+    "Spirng/Web/Socket.md",
+    "Spirng/Web",
     "Spirng/SpringBoot/Kotlin/data class.md",
     "Spirng/SpringBoot/Kotlin/DataTypes.md",
     "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
@@ -189,7 +192,6 @@
     "Spirng/SpringBoot/各种类/AjaxResult实体类.md",
     "Spirng/SpringBoot/定时任务/JobDataMap.md",
     "Spirng/SpringBoot/定时任务/JobExecutionContext.md",
-    "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
     "Bugs/Spring",
     "Temp",
     "SQL/r2dbc",
@@ -199,7 +201,6 @@
     "Bugs/kotlin",
     "Obsidian/团队版用户操作指引.pdf",
     "Spirng/SpringCloud",
-    "Spirng/SpringBoot",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
