@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "05bcea65efbeda2f",
+        "id": "1edbf4ac44221381",
         "type": "tabs",
         "children": [
           {
-            "id": "d5938d93af1a6055",
+            "id": "9fd52201913ae212",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/SpringBoot/Kotlin/open&final.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spirng/SpringBoot/Kotlin/open&final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spirng/SpringBoot/Kotlin/open&final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spirng/SpringBoot/Kotlin/open&final.md"
+              }
             }
           },
           {
@@ -155,8 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5938d93af1a6055",
+  "active": "9fd52201913ae212",
   "lastOpenFiles": [
+    "Spirng/SpringBoot/Kotlin/open&final.md",
+    "Spirng/SpringBoot/Kotlin/data class.md",
+    "Spirng/SpringBoot/Kotlin/DataTypes.md",
+    "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+    "Spirng/SpringBoot/Kotlin/coroutine.md",
+    "Spirng/SpringBoot/MyBaits/Date的问题.md",
     "Temp/Untitled 1.md",
     "Temp/Untitled.md",
     "流程.md",
@@ -167,7 +180,6 @@
     "Spirng/SpringBoot/SpringSecurity&shiro/占位.md",
     "IOT/ESP32/WIFI.md",
     "Spirng/SpringBoot/plugins/lombok.md",
-    "Spirng/SpringBoot/MyBaits/Date的问题.md",
     "Spirng/SpringBoot/Java/入参校验.md",
     "Spirng/SpringBoot/Java/Clob类.md",
     "Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
@@ -178,13 +190,8 @@
     "Spirng/SpringBoot/定时任务/JobDataMap.md",
     "Spirng/SpringBoot/定时任务/JobExecutionContext.md",
     "Spirng/SpringBoot/定时任务/org.quartz.Job.md",
-    "JavaWeb/Web.md",
-    "JavaWeb/HTTP.md",
-    "Bugs/Spring/注入问题.md",
     "Bugs/Spring",
-    "工作计划/2023-05/2023.05.15-05.20.md",
     "Temp",
-    "Server/43.138.68.42/2023-05-12.md",
     "SQL/r2dbc",
     "Spirng/SpringBoot/JPA",
     "MessageQueue",
