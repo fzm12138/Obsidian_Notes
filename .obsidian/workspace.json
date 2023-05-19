@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -166,15 +165,17 @@
   },
   "active": "9fd52201913ae212",
   "lastOpenFiles": [
+    "Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
+    "工作计划/2023-05/2023.05.15-05.20.md",
+    "BetterTommorrow/使用lombok的理由.md",
+    "BetterTommorrow/你猜猜看呢.md",
+    "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
     "Spirng/Maven&Gradle/Dependencies/FurtherInfomation/spring-boot-starter-validation.md",
     "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
     "Spirng/Maven&Gradle/Dependencies/FurtherInfomation",
     "Spirng/Maven&Gradle/Dependencies",
     "流程.md",
     "Spirng/Maven&Gradle",
-    "工作计划/2023-05/2023.05.15-05.20.md",
-    "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
-    "Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
     "Spirng/Web/Four_ways_entends Web/STOMP.md",
     "Spirng/Web/Four_ways_entends Web/TIO.md",
     "Spirng/Web/Four_ways_entends Web",
@@ -195,8 +196,6 @@
     "Spirng/SpringBoot/回调（callback）.md",
     "Spirng/SpringBoot/SpringSecurity&shiro/占位.md",
     "IOT/ESP32/WIFI.md",
-    "Spirng/SpringBoot/plugins/lombok.md",
-    "Spirng/SpringBoot/Java/入参校验.md",
     "Bugs/Spring",
     "Temp",
     "SQL/r2dbc",
