@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/MyConfig/Maven&Garadle.md",
+                "file": "流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/MyConfig/Maven&Garadle.md",
+                "file": "流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/MyConfig/Maven&Garadle.md",
+                "file": "流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/MyConfig/Maven&Garadle.md"
+                "file": "流程.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +164,15 @@
   },
   "active": "cb7049312a3d1b8b",
   "lastOpenFiles": [
+    "DesginModel/Pasted image 20230520151503.png",
+    "structure/Spirng/网站很卡，几乎难以进行操作.md",
+    "Interview/Webs.md",
+    "流程.md",
+    "DesginModel/Pasted image 20230520151226.png",
+    "structure/MyConfig/Maven&Garadle.md",
     "structure/Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
     "structure/Spirng/Maven&Gradle/Dependencies/FurtherInfomation/spring-boot-starter-validation.md",
-    "流程.md",
     "Bugs/kotlin/Cant resolve kotlin dependencies.md",
-    "structure/MyConfig/Maven&Garadle.md",
     "工作计划/学习计划.md",
     "structure/MyConfig",
     "structure",
@@ -180,7 +183,6 @@
     "SQL/MySql语句/字段属性/自增长.md",
     "SQL/MySql语句/字段属性/主键.md",
     "structure/Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
-    "structure/Spirng/网站很卡，几乎难以进行操作.md",
     "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
     "Bugs/Spring/注入问题.md",
     "Temp/学习计划.md",
@@ -192,11 +194,9 @@
     "structure/Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
     "structure/Spirng/OOM",
     "BetterTommorrow/使用lombok的理由.md",
-    "BetterTommorrow/你猜猜看呢.md",
     "structure/Spirng/Maven&Gradle/Dependencies/FurtherInfomation",
     "structure/Spirng/Maven&Gradle/Dependencies",
     "structure/Spirng/Maven&Gradle",
-    "structure/Spirng/Web/Four_ways_entends Web/STOMP.md",
     "structure/Spirng/Web/Four_ways_entends Web",
     "structure/Spirng/Web",
     "Bugs/Spring",
@@ -210,7 +210,6 @@
     "Pics/digital_twin_data.png",
     "Pics/modeling.png",
     "Pics/ScreenShots/评估表达式.png",
-    "Pics/ScreenShots/Pasted image 20230418165425.png",
     "Untitled.canvas"
   ]
 }
