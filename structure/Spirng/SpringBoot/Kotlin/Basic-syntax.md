@@ -244,6 +244,8 @@ fun getStringLength(obj: Any): Int? {
 ```
 
 
+- Add`!!`after  variable and if the variable is null will throws NullPointException
+- Add`?` after variable means the very variable could be null
 
 
 
