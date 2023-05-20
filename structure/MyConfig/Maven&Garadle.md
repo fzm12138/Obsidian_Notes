@@ -56,3 +56,22 @@ dependencies{
 ```
 - JPA ORM框架 提供数据库和实体类映射
 - 信息很多，单独学
+
+##### MQ
+```js
+
+```
+###### Maven方式
+```xml
+<dependency>  
+	<groupId>org.springframework.boot</groupId>  
+	<artifactId>spring-boot-starter-amqp</artifactId>  
+	<version>2.6.13</version>  
+</dependency>
+```
+
+
+
+
+
+

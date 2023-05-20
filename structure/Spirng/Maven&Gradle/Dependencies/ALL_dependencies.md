@@ -23,4 +23,11 @@
 	<artifactId>spring-boot-starter-validation</artifactId>  
 </dependency>
 ```
-- 
+###### amqp
+```xml
+<dependency>  
+	<groupId>org.springframework.boot</groupId>  
+	<artifactId>spring-boot-starter-amqp</artifactId>  
+	<version>2.6.13</version>  
+</dependency>
+```
