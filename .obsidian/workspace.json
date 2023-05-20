@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+                "file": "Temp/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+                "file": "Temp/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+                "file": "Temp/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md"
+                "file": "Temp/Untitled 1.md"
               }
             }
           },
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +166,10 @@
   },
   "active": "cb7049312a3d1b8b",
   "lastOpenFiles": [
+    "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
     "structure/Spirng/SpringBoot/Kotlin/open&final.md",
     "structure/Spirng/SpringBoot/Kotlin/coroutine.md",
     "structure/Spirng/SpringBoot/Kotlin/DataTypes.md",
-    "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
     "structure/Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
     "Obsidian/Obsidain grammar/Obsidian语法.md",
     "工作计划/学习计划.md",
