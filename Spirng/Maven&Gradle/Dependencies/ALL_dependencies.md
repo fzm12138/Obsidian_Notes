@@ -1,3 +1,4 @@
+###### JPA
 ```xml
 <!--JPA-->
 <dependency>
@@ -5,7 +6,7 @@
     <artifactId>spring-boot-starter-data-jpa</artifactId>
 </dependency>
 ```
-
+###### web
 ```xml
 <dependency>
 	<groupId>org.springframework.boot</groupId>

@@ -11,8 +11,12 @@
             "id": "cb7049312a3d1b8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "<dependency>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md"
+              }
             }
           },
           {
@@ -154,13 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1460809a051dc831",
+  "active": "cb7049312a3d1b8b",
   "lastOpenFiles": [
+    "Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
+    "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
+    "JavaWeb/Maven.md",
+    "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "Spirng/网站很卡，几乎难以进行操作.md",
     "Spirng/OOM/线程阻塞问题.md",
     "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
     "Spirng/OOM",
-    "Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
     "工作计划/2023-05/2023.05.15-05.20.md",
     "BetterTommorrow/使用lombok的理由.md",
     "BetterTommorrow/你猜猜看呢.md",
@@ -184,10 +196,7 @@
     "Spirng/SpringBoot/MyBaits/Date的问题.md",
     "Temp/Untitled 1.md",
     "Temp/Untitled.md",
-    "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "Spirng/SpringBoot/serialVerisonUID.md",
-    "Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
-    "Spirng/SpringBoot/回调（callback）.md",
     "Bugs/Spring",
     "Temp",
     "SQL/r2dbc",
