@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
+                "file": "Spirng/OOM/线程阻塞问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
+                "file": "Spirng/OOM/线程阻塞问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
+                "file": "Spirng/OOM/线程阻塞问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md"
+                "file": "Spirng/OOM/线程阻塞问题.md"
               }
             }
           },
@@ -165,11 +165,13 @@
   },
   "active": "9fd52201913ae212",
   "lastOpenFiles": [
+    "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
+    "Spirng/OOM/线程阻塞问题.md",
+    "Spirng/OOM",
     "Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
     "工作计划/2023-05/2023.05.15-05.20.md",
     "BetterTommorrow/使用lombok的理由.md",
     "BetterTommorrow/你猜猜看呢.md",
-    "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
     "Spirng/Maven&Gradle/Dependencies/FurtherInfomation/spring-boot-starter-validation.md",
     "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
     "Spirng/Maven&Gradle/Dependencies/FurtherInfomation",
@@ -195,12 +197,10 @@
     "Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
     "Spirng/SpringBoot/回调（callback）.md",
     "Spirng/SpringBoot/SpringSecurity&shiro/占位.md",
-    "IOT/ESP32/WIFI.md",
     "Bugs/Spring",
     "Temp",
     "SQL/r2dbc",
     "Spirng/SpringBoot/JPA",
-    "MessageQueue",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
