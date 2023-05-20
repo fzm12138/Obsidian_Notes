@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
+                "file": "structure/MyConfig/Maven&Garadle.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
+                "file": "structure/MyConfig/Maven&Garadle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
+                "file": "structure/MyConfig/Maven&Garadle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md"
+                "file": "structure/MyConfig/Maven&Garadle.md"
               }
             }
           },
@@ -151,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,42 +165,42 @@
   },
   "active": "cb7049312a3d1b8b",
   "lastOpenFiles": [
-    "Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
+    "工作计划/学习计划.md",
+    "structure/MyConfig/Maven&Garadle.md",
+    "structure/Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
+    "structure/Spirng/Maven&Gradle/Dependencies/FurtherInfomation/spring-boot-starter-validation.md",
+    "structure/MyConfig",
+    "structure",
+    "SQL/MySql语句/数据库操作.md",
+    "SQL/MySql语句/SQL分类.md",
+    "SQL/MySql语句/模糊查询.md",
+    "SQL/MySql语句/Case When.md",
+    "SQL/MySql语句/字段属性/自增长.md",
+    "SQL/MySql语句/字段属性/主键.md",
+    "structure/Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
+    "structure/Spirng/网站很卡，几乎难以进行操作.md",
     "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
-    "JavaWeb/Maven.md",
     "Bugs/kotlin/Cant resolve kotlin dependencies.md",
-    "Spirng/网站很卡，几乎难以进行操作.md",
-    "Spirng/OOM/线程阻塞问题.md",
-    "Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
-    "Spirng/OOM",
+    "Bugs/Spring/注入问题.md",
+    "Temp/学习计划.md",
+    "流程.md",
+    "Temp/Untitled.md",
     "工作计划/2023-05/2023.05.15-05.20.md",
+    "工作计划/2023-05/2023-05-15.md",
+    "JavaWeb/Maven.md",
+    "structure/Spirng/OOM/线程阻塞问题.md",
+    "structure/Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
+    "structure/Spirng/OOM",
     "BetterTommorrow/使用lombok的理由.md",
     "BetterTommorrow/你猜猜看呢.md",
-    "Spirng/Maven&Gradle/Dependencies/FurtherInfomation/spring-boot-starter-validation.md",
-    "Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
-    "Spirng/Maven&Gradle/Dependencies/FurtherInfomation",
-    "Spirng/Maven&Gradle/Dependencies",
-    "流程.md",
-    "Spirng/Maven&Gradle",
-    "Spirng/Web/Four_ways_entends Web/STOMP.md",
-    "Spirng/Web/Four_ways_entends Web/TIO.md",
-    "Spirng/Web/Four_ways_entends Web",
-    "Spirng/Web/Socket.md",
-    "Spirng/SpringBoot/Spring注解/@Bean.md",
-    "Spirng/SpringBoot/Kotlin/open&final.md",
-    "Spirng/Web",
-    "Spirng/SpringBoot/Kotlin/data class.md",
-    "Spirng/SpringBoot/Kotlin/DataTypes.md",
-    "Spirng/SpringBoot/Kotlin/Basic-syntax.md",
-    "Spirng/SpringBoot/Kotlin/coroutine.md",
-    "Spirng/SpringBoot/MyBaits/Date的问题.md",
-    "Temp/Untitled 1.md",
-    "Temp/Untitled.md",
-    "Spirng/SpringBoot/serialVerisonUID.md",
+    "structure/Spirng/Maven&Gradle/Dependencies/FurtherInfomation",
+    "structure/Spirng/Maven&Gradle/Dependencies",
+    "structure/Spirng/Maven&Gradle",
+    "structure/Spirng/Web/Four_ways_entends Web/STOMP.md",
+    "structure/Spirng/Web/Four_ways_entends Web",
+    "structure/Spirng/Web",
     "Bugs/Spring",
     "Temp",
-    "SQL/r2dbc",
-    "Spirng/SpringBoot/JPA",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
