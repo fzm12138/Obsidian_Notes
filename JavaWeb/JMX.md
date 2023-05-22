@@ -6,7 +6,6 @@ configurations->disable JMX
 
 
 
-
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = ThreadPoolApplication.class)
 public class HelloServiceTest {
