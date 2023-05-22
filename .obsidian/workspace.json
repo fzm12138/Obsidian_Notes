@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EastWater/施肥机/Fertilizer params.md",
+                "file": "JavaWeb/JMX.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EastWater/施肥机/Fertilizer params.md",
+                "file": "JavaWeb/JMX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EastWater/施肥机/Fertilizer params.md",
+                "file": "JavaWeb/JMX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EastWater/施肥机/Fertilizer params.md"
+                "file": "JavaWeb/JMX.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "cb7049312a3d1b8b",
   "lastOpenFiles": [
-    "EastWater/施肥机/变量导入说明.md",
     "EastWater/施肥机/Fertilizer params.md",
+    "JavaWeb/JMX.md",
+    "EastWater/施肥机/变量导入说明.md",
     "structure/MyConfig/Maven&Garadle.md",
     "digtalTwin/开发方案/Unity.md",
     "工作计划/2023-05/2023.05.15-05.20.md",
@@ -190,7 +191,6 @@
     "structure/Spirng/SpringBoot/Kotlin/DataTypes.md",
     "structure/Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
     "Obsidian/Obsidain grammar/Obsidian语法.md",
-    "工作计划/学习计划.md",
     "DesginModel/Pasted image 20230520151503.png",
     "DesginModel/Pasted image 20230520151226.png",
     "structure/MyConfig",
