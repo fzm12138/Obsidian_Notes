@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-05/2023.05.md",
+                "file": "Bugs/Spring/JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-05/2023.05.md",
+                "file": "Bugs/Spring/JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-05/2023.05.md",
+                "file": "Bugs/Spring/JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-05/2023.05.md"
+                "file": "Bugs/Spring/JPA.md"
               }
             }
           },
@@ -165,15 +165,17 @@
   },
   "active": "cb7049312a3d1b8b",
   "lastOpenFiles": [
+    "工作计划/2023-05/TODO.md",
+    "Bugs/Spring/JPA.md",
+    "工作计划/2023-05/2023-05-15.md",
     "工作计划/学习计划.md",
+    "工作计划/2023-05/2023.05.md",
     "Documentation/Development/SoftWareDevelopmentDocumentation.md",
     "plugin/Idea.md",
     "Documentation/Development",
     "Documentation",
     "Bugs/Not a managed type.md",
-    "工作计划/2023-05/2023.05.md",
     "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
-    "工作计划/2023-05/2023-05-15.md",
     "structure/Spirng/SpringBoot/Kotlin/DataTypes.md",
     "流程.md",
     "structure/Spirng/SpringBoot/Spring注解/@Validdated.md",
@@ -194,8 +196,6 @@
     "structure/Spirng/SpringBoot/定时任务/JobExecutionContext.md",
     "structure/Spirng/SpringBoot/定时任务/org.quartz.Job.md",
     "structure/Spirng/OOM/线程阻塞问题.md",
-    "structure/Spirng/Maven&Gradle/Dependencies/ALL_dependencies.md",
-    "structure/Spirng/Maven&Gradle/Dependencies/FurtherInfomation/spring-boot-starter-validation.md",
     "DesginModel/Pasted image 20230520151503.png",
     "DesginModel/Pasted image 20230520151226.png",
     "structure/MyConfig",
