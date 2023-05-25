@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 204.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d0085cf279584b6",
+  "active": "1460809a051dc831",
   "lastOpenFiles": [
     "工作计划/2023-05/TODO.md",
     "工作计划/学习计划.md",
