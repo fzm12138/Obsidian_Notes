@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/Untitled 1.md",
+                "file": "Token/dsdigital.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp/Untitled 1.md",
+                "file": "Token/dsdigital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp/Untitled 1.md",
+                "file": "Token/dsdigital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/Untitled 1.md"
+                "file": "Token/dsdigital.md"
               }
             }
           },
@@ -178,9 +178,12 @@
   },
   "active": "7d0085cf279584b6",
   "lastOpenFiles": [
+    "流程.md",
+    "Token/dsdigital.md",
+    "Token",
+    "Temp/Untitled 1.md",
     "Temp/Untitled.md",
     "Temp/学习计划.md",
-    "Temp/Untitled 1.md",
     "MessageQueue/introduction.md",
     "links_needs_read/一些链接.md",
     "Interview/Webs.md",
@@ -202,8 +205,6 @@
     "Bugs/Chrome.md",
     "Bugs/Spring/JPA.md",
     "Bugs/pi/not trusted.md",
-    "Bugs/Spring/注入问题.md",
-    "Algroithms/CoreOfAlgoithms.md",
     "Documentation/Development",
     "Documentation",
     "structure/Spirng/SpringBoot/Spring注解/Lombok",
@@ -215,7 +216,6 @@
     "structure",
     "structure/Spirng/OOM",
     "structure/Spirng/Maven&Gradle/Dependencies/FurtherInfomation",
-    "structure/Spirng/Maven&Gradle/Dependencies",
     "Pics/tools.png",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
