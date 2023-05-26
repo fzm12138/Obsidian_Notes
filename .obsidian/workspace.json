@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/无法自动装配.md",
+                "file": "Temp/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/无法自动装配.md",
+                "file": "Temp/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/无法自动装配.md",
+                "file": "Temp/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/无法自动装配.md"
+                "file": "Temp/Untitled 1.md"
               }
             }
           },
@@ -162,15 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee396f47eacbb472",
+  "active": "cb7049312a3d1b8b",
   "lastOpenFiles": [
+    "Temp/Untitled.md",
+    "Bugs/无法自动装配.md",
     "Bugs/Spring/JPA.md",
     "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
     "Bugs/Spring/IDK2.md",
     "Bugs/Spring/IDK.md",
     "Bugs/Unresolved reference- model.md",
-    "Bugs/无法自动装配.md",
     "structure/Spirng/JPA/save().md",
     "structure/MyConfig/Maven&Garadle.md",
     "structure/Spirng/JPA",
@@ -184,7 +185,6 @@
     "工作计划/2023-05/2023.05.md",
     "Token",
     "Temp/Untitled 1.md",
-    "Temp/Untitled.md",
     "Temp/学习计划.md",
     "MessageQueue/introduction.md",
     "links_needs_read/一些链接.md",
