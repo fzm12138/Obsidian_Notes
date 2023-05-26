@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1cc5c496c78655f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -175,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee396f47eacbb472",
+  "active": "7d0085cf279584b6",
   "lastOpenFiles": [
     "工作计划/2023-05/TODO.md",
     "工作计划/学习计划.md",
