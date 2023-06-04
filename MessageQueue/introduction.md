@@ -26,3 +26,5 @@ The common meaasge Queue:
 - Highly Avaliable Queues : queues could make iso on clustering then it could work when some nodes couldn't work
 - Muti-protocol :RBMQ supports STOMP,MQTT
 - Many clients : RBMQ supports almost all the common languages
+
+
