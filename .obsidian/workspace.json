@@ -23,9 +23,11 @@
             "id": "99cac0068c6bafcf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "fundermental/mutilthreading&mutiprocess.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/学习计划.md",
+                "file": "fundermental/mutilthreading&mutiprocess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/学习计划.md",
+                "file": "fundermental/mutilthreading&mutiprocess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/学习计划.md"
+                "file": "fundermental/mutilthreading&mutiprocess.md"
               }
             }
           },
@@ -176,6 +179,12 @@
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
+    "购物/with nothing.md",
+    "fundermental/mutilthreading&mutiprocess.md",
+    "fundermental",
+    "NeedRemember/响应状态码.md",
+    "工作计划/2023-06/0605-0611.md",
+    "工作计划/2023-06",
     "工作计划/2023-05/TODO.md",
     "PRIVATE/Franch",
     "PRIVATE",
@@ -203,19 +212,14 @@
     "EastWater/施肥机/Fertilizer params.md",
     "EastWater/ds.md",
     "Emebedded/I2C/I2C介绍.md",
-    "Interview/Webs.md",
-    "IOT/ESP32/WIFI.md",
-    "Bugs/Spring/JPA.md",
     "structure/Spirng/JPA",
     "Token",
     "Documentation/Development",
     "Documentation",
     "structure/Spirng/SpringBoot/Spring注解/Lombok",
     "structure/Spirng/SpringBoot/Spring注解/Web",
-    "structure/Spirng/SpringBoot/Spring注解/Test",
     "DesginModel/Pasted image 20230520151503.png",
     "DesginModel/Pasted image 20230520151226.png",
-    "structure/MyConfig",
     "plugin/unity解决方案.png",
     "Pics/Unity架构3_0.png",
     "Pasted image 20230429143319.png",
