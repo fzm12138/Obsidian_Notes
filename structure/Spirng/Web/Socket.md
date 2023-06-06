@@ -1,14 +1,4 @@
-```kotlin
-@ServerEndpoint(value = "/websocket/{enterpriseId}/{userId}")
-```
-指定websocket访问的url
-
-
-
-
-
-
-
-
-
-
+- As long as the connection is establsihed
+	- Using `InputStream`  to receive messages
+	- Using `OutputStram` to send messages and then could control targer by writing into outputStram
+- When the connection's type is ***Long*** .Thereis no need to close `OutPutStream` or `InputStream` because they will be closed when the connection closing
