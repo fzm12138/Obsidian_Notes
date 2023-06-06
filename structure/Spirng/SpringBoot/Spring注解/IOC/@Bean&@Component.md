@@ -1,3 +1,4 @@
+### ***@Bean***
 - Function level annotation
 - Mostly using in the class which is being anootated by @configuration(and the class with @Component)
 example:
@@ -13,7 +14,12 @@ public class AppConfig {
 }
 ```
 
+### ***@Component***
+- Class level annotation
 
 
+******
 
+#### ***Both of them logging a 'bean' into IOC***
 
+@Bean could use a third-party method and @Component cant manage that 
