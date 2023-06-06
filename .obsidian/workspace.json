@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99cac0068c6bafcf",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
     "structure/Spirng/SpringBoot/Spring注解/IOC/@Import.md",
     "开发文档/数据格式对接/施肥机客户端与后端对接.md",
