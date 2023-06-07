@@ -1,4 +1,4 @@
-## 首先注意：
+	## 首先注意：
 - 有时候用maven方式会报错，先检查你的结构(比如dependency是否在dependecies下)
 - 为你添加的依赖添加`<version>#{你的版本号}</version>
 ##### spring-boot-starter-validation
