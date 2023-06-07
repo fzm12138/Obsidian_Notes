@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/MyConfig/Maven&Garadle.md",
+                "file": "开发文档/数据格式对接/施肥机客户端与后端对接.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/MyConfig/Maven&Garadle.md",
+                "file": "开发文档/数据格式对接/施肥机客户端与后端对接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/MyConfig/Maven&Garadle.md",
+                "file": "开发文档/数据格式对接/施肥机客户端与后端对接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/MyConfig/Maven&Garadle.md"
+                "file": "开发文档/数据格式对接/施肥机客户端与后端对接.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
+    "structure/MyConfig/Maven&Garadle.md",
     "structure/Spirng/SpringBoot/Kotlin/tutorial/Why kotlion.md",
     "Bugs/Spring/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
     "structure/Spirng/SpringBoot/Kotlin/tutorial",
@@ -181,7 +182,6 @@
     "structure/Spirng/Web/Four_ways_entends Web/NO2 Spring package.md",
     "structure/Spirng/Web/Four_ways_entends Web/NO1 Native anootation.md",
     "structure/Spirng/Web/WebSocket.md",
-    "structure/MyConfig/Maven&Garadle.md",
     "工作计划/2023-05/2023.05.md",
     "Interview/Webs.md",
     "MessageQueue/introduction.md",
