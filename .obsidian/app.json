@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "DesginModel",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }
