@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/Spirng/项目构建/Maven/Explanition of Maven.md",
+                "file": "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/Spirng/项目构建/Maven/Explanition of Maven.md",
+                "file": "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/Spirng/项目构建/Maven/Explanition of Maven.md",
+                "file": "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/Spirng/项目构建/Maven/Explanition of Maven.md"
+                "file": "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md"
               }
             }
           },
@@ -165,42 +165,42 @@
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
-    "工作计划/学习计划.md",
+    "Untitled 1.md",
+    "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md",
+    "Untitled.md",
     "structure/Spirng/项目构建/Maven/Explanition of Maven.md",
+    "structure/Spirng/SpringBoot/定时任务/cron表达式.md",
+    "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
+    "structure/Spirng/SpringBoot/定时任务/org.quartz.Job.md",
+    "structure/Spirng/SpringBoot/定时任务/JobExecutionContext.md",
+    "structure/Spirng/SpringBoot/各种类/AjaxResult实体类.md",
+    "structure/Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
+    "structure/Spirng/SpringBoot/依赖注入/@Resource.md",
+    "structure/Spirng/SpringBoot/依赖注入/@Inject.md",
+    "structure/Spirng/SpringBoot/依赖注入/Autowired.md",
+    "structure/Spirng/SpringBoot/Java/入参校验.md",
+    "structure/Spirng/SpringBoot/Java/Clob类.md",
+    "structure/Spirng/SpringBoot/JPA/@GeneratedValue：.md",
+    "structure/Spirng/SpringBoot/JPA/@Id.md",
+    "structure/Spirng/SpringBoot/Kotlin/open&final.md",
+    "structure/Spirng/SpringBoot/Kotlin/coroutine.md",
+    "structure/Spirng/SpringBoot/Kotlin/DataTypes.md",
+    "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+    "structure/Spirng/网站很卡，几乎难以进行操作.md",
+    "structure/Spirng/项目构建/Gradle",
+    "工作计划/学习计划.md",
     "structure/Spirng/ORM FrameWork",
     "structure/Spirng/项目构建",
     "structure/Spirng/项目构建/Maven",
     "工作计划/2023-06/0605-0611.md",
     "工作计划/2023-05/2023.05.md",
     "开发文档/数据格式对接/施肥机客户端与后端对接.md",
-    "structure/MyConfig/Maven&Garadle.md",
-    "structure/Spirng/SpringBoot/Kotlin/tutorial/Why kotlion.md",
-    "Bugs/Spring/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
     "structure/Spirng/SpringBoot/Kotlin/tutorial",
-    "Bugs/Unresolved reference- model.md",
-    "structure/Spirng/SpringBoot/module-info/module-info explaination.md",
     "structure/Spirng/SpringBoot/module-info",
-    "structure/Spirng/Untitled.md",
-    "structure/Spirng/SpringBoot/Web/Socket.md",
-    "structure/Spirng/SpringBoot/Web/Four_ways_entends Web/TIO.md",
-    "structure/Spirng/SpringBoot/Web/Four_ways_entends Web/STOMP.md",
-    "structure/Spirng/SpringBoot/Web/Four_ways_entends Web/NO2 Spring package.md",
-    "structure/Spirng/SpringBoot/Web/Four_ways_entends Web/NO1 Native anootation.md",
-    "structure/Spirng/SpringBoot/Web/WebSocket.md",
-    "Interview/Webs.md",
-    "MessageQueue/introduction.md",
-    "Python/Untitled.md",
-    "Token/dsdigital.md",
-    "structure/Spirng/SpringBoot/Spring注解/IOC/@Import.md",
     "开发文档/数据格式对接",
     "开发文档",
-    "structure/Spirng/SpringBoot/Spring注解/IOC/@Bean&@Component.md",
-    "structure/Spirng/SpringBoot/Spring注解/@JsonFormat.md",
-    "structure/Spirng/SpringBoot/Spring注解/@JsonInclude().md",
-    "structure/Spirng/SpringBoot/Spring注解/@Entity.md",
     "structure/Spirng/SpringBoot/Spring注解/IOC",
     "fundermental",
-    "工作计划/2023-06",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
