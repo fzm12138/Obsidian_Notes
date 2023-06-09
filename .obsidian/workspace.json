@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/Jobs.md",
+                "file": "structure/Spirng/定时任务配置类/QuartzManager.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
+                "file": "structure/Spirng/定时任务配置类/QuartzManager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
+                "file": "structure/Spirng/定时任务配置类/QuartzManager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md"
+                "file": "structure/Spirng/定时任务配置类/QuartzManager.md"
               }
             }
           },
@@ -178,9 +176,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb38d413093dbb83",
+  "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
+    "structure/Spirng/定时任务配置类/CustomJobFactory.md",
+    "structure/Spirng/定时任务配置类/QuartzManager.md",
+    "structure/Spirng/定时任务配置类/ApplicationStartQuartzJobListener.md",
+    "structure/Spirng/定时任务配置类/AbstractTask.md",
     "Bugs/Jobs.md",
+    "structure/Spirng/定时任务配置类",
     "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
     "structure/Spirng/SpringBoot/定时任务/cron表达式.md",
     "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
@@ -205,17 +208,12 @@
     "structure/Spirng/SpringBoot/依赖注入/@Resource.md",
     "structure/Spirng/SpringBoot/依赖注入/@Inject.md",
     "structure/Spirng/SpringBoot/依赖注入/Autowired.md",
-    "structure/Spirng/SpringBoot/Java/入参校验.md",
-    "structure/Spirng/SpringBoot/Java/Clob类.md",
-    "structure/Spirng/SpringBoot/JPA/@GeneratedValue：.md",
-    "structure/Spirng/SpringBoot/JPA/@Id.md",
     "structure/Spirng/项目构建/Gradle",
     "structure/Spirng/ORM FrameWork",
     "structure/Spirng/项目构建",
     "structure/Spirng/项目构建/Maven",
     "structure/Spirng/SpringBoot/Kotlin/tutorial",
     "structure/Spirng/SpringBoot/module-info",
-    "开发文档/数据格式对接",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
