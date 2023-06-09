@@ -48,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Manager",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -162,29 +162,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
     "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
+    "structure/Spirng/SpringBoot/定时任务/cron表达式.md",
+    "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
+    "structure/Spirng/SpringBoot/定时任务/JobExecutionContext.md",
+    "structure/Spirng/SpringBoot/定时任务/org.quartz.Job.md",
+    "Bugs/Not a managed type.md",
+    "structure/Spirng/SpringBoot/Spring注解/IOC/@Bean&@Component.md",
+    "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md",
+    "Bugs/Jobs.md",
     "structure/Spirng/SpringBoot/Spring注解/Servlet/@PostConstruct.md",
     "structure/Spirng/SpringBoot/Spring启动过程/Springboot启动过程.md",
     "structure/Spirng/SpringBoot/Spring启动过程",
-    "Bugs/Jobs.md",
     "structure/Spirng/SpringBoot/Spring注解/Servlet",
     "工作计划/2023-06/0605-0611.md",
     "structure/Spirng/项目构建/Gradle/多模块项目构建.md",
-    "structure/Spirng/SpringBoot/定时任务/cron表达式.md",
     "structure/Spirng/SpringBoot/Spring注解/Annotation/@Value.md",
-    "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md",
     "structure/Spirng/SpringBoot/Spring注解/Annotation",
     "Untitled 1.md",
     "Untitled.md",
     "structure/Spirng/项目构建/Maven/Explanition of Maven.md",
-    "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
-    "structure/Spirng/SpringBoot/定时任务/org.quartz.Job.md",
-    "structure/Spirng/SpringBoot/定时任务/JobExecutionContext.md",
     "structure/Spirng/SpringBoot/各种类/AjaxResult实体类.md",
     "structure/Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
     "structure/Spirng/SpringBoot/依赖注入/@Resource.md",
@@ -194,8 +197,6 @@
     "structure/Spirng/SpringBoot/Java/Clob类.md",
     "structure/Spirng/SpringBoot/JPA/@GeneratedValue：.md",
     "structure/Spirng/SpringBoot/JPA/@Id.md",
-    "structure/Spirng/SpringBoot/Kotlin/open&final.md",
-    "structure/Spirng/SpringBoot/Kotlin/coroutine.md",
     "structure/Spirng/项目构建/Gradle",
     "structure/Spirng/ORM FrameWork",
     "structure/Spirng/项目构建",
