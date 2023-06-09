@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb38d413093dbb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Manager",
+                "query": "排查",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/Jobs.md",
+                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/Jobs.md",
+                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/Jobs.md"
+                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md"
               }
             }
           },
@@ -166,8 +178,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99cac0068c6bafcf",
+  "active": "fb38d413093dbb83",
   "lastOpenFiles": [
+    "Bugs/Jobs.md",
     "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
     "structure/Spirng/SpringBoot/定时任务/cron表达式.md",
     "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
@@ -176,7 +189,6 @@
     "Bugs/Not a managed type.md",
     "structure/Spirng/SpringBoot/Spring注解/IOC/@Bean&@Component.md",
     "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md",
-    "Bugs/Jobs.md",
     "structure/Spirng/SpringBoot/Spring注解/Servlet/@PostConstruct.md",
     "structure/Spirng/SpringBoot/Spring启动过程/Springboot启动过程.md",
     "structure/Spirng/SpringBoot/Spring启动过程",
