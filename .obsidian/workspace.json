@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/Spirng/定时任务配置类/QuartzManager.md",
+                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/Spirng/定时任务配置类/QuartzManager.md",
+                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/Spirng/定时任务配置类/QuartzManager.md"
+                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md"
               }
             }
           },
@@ -176,15 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99cac0068c6bafcf",
+  "active": "fb38d413093dbb83",
   "lastOpenFiles": [
-    "structure/Spirng/定时任务配置类/CustomJobFactory.md",
     "structure/Spirng/定时任务配置类/QuartzManager.md",
+    "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
+    "Excalidraw/Drawing 2023-06-09 17.06.48.excalidraw.md",
+    "Excalidraw",
+    "structure/Spirng/定时任务配置类/CustomJobFactory.md",
     "structure/Spirng/定时任务配置类/ApplicationStartQuartzJobListener.md",
     "structure/Spirng/定时任务配置类/AbstractTask.md",
     "Bugs/Jobs.md",
     "structure/Spirng/定时任务配置类",
-    "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
     "structure/Spirng/SpringBoot/定时任务/cron表达式.md",
     "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
     "structure/Spirng/SpringBoot/定时任务/JobExecutionContext.md",
@@ -207,13 +210,11 @@
     "structure/Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
     "structure/Spirng/SpringBoot/依赖注入/@Resource.md",
     "structure/Spirng/SpringBoot/依赖注入/@Inject.md",
-    "structure/Spirng/SpringBoot/依赖注入/Autowired.md",
     "structure/Spirng/项目构建/Gradle",
     "structure/Spirng/ORM FrameWork",
     "structure/Spirng/项目构建",
     "structure/Spirng/项目构建/Maven",
     "structure/Spirng/SpringBoot/Kotlin/tutorial",
-    "structure/Spirng/SpringBoot/module-info",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
