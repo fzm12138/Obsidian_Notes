@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
+                "file": "Bugs/Spring/注入/注入问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
+                "file": "Bugs/Spring/注入/注入问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
+                "file": "Bugs/Spring/注入/注入问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md"
+                "file": "Bugs/Spring/注入/注入问题.md"
               }
             }
           },
@@ -179,8 +179,21 @@
   },
   "active": "fb38d413093dbb83",
   "lastOpenFiles": [
+    "Bugs/Spring/事务/多线程事务失效.md",
+    "Bugs/Spring/事务/JPA.md",
+    "Bugs/Spring/框架问题/LocaLDateTime/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
+    "Bugs/Spring/框架问题/LocaLDateTime",
+    "Bugs/Spring/框架问题",
+    "Bugs/Spring/多线程/多线程mysql写失效.md",
+    "Bugs/Spring/多线程",
+    "Bugs/Spring/事务",
+    "Bugs/Spring/IDK.md",
+    "Bugs/Spring/IDK2.md",
+    "Bugs/Spring/注入/注入问题.md",
+    "Bugs/Spring/注入",
+    "Bugs/Spring/定时任务/定时任务管理器出错.md",
+    "Bugs/Spring/定时任务",
     "structure/Spirng/定时任务配置类/QuartzManager.md",
-    "structure/Spirng/SpringBoot/定时任务/定时任务管理器出错.md",
     "Excalidraw/Drawing 2023-06-09 17.06.48.excalidraw.md",
     "Excalidraw",
     "structure/Spirng/定时任务配置类/CustomJobFactory.md",
@@ -202,19 +215,6 @@
     "工作计划/2023-06/0605-0611.md",
     "structure/Spirng/项目构建/Gradle/多模块项目构建.md",
     "structure/Spirng/SpringBoot/Spring注解/Annotation/@Value.md",
-    "structure/Spirng/SpringBoot/Spring注解/Annotation",
-    "Untitled 1.md",
-    "Untitled.md",
-    "structure/Spirng/项目构建/Maven/Explanition of Maven.md",
-    "structure/Spirng/SpringBoot/各种类/AjaxResult实体类.md",
-    "structure/Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
-    "structure/Spirng/SpringBoot/依赖注入/@Resource.md",
-    "structure/Spirng/SpringBoot/依赖注入/@Inject.md",
-    "structure/Spirng/项目构建/Gradle",
-    "structure/Spirng/ORM FrameWork",
-    "structure/Spirng/项目构建",
-    "structure/Spirng/项目构建/Maven",
-    "structure/Spirng/SpringBoot/Kotlin/tutorial",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
