@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
+                "file": "CV/The preview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
+                "file": "CV/The preview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
+                "file": "CV/The preview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md"
+                "file": "CV/The preview.md"
               }
             }
           },
@@ -165,8 +165,14 @@
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
-    "工作计划/GraphIdentify/Preparation.md",
     "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
+    "CV/The preview.md",
+    "CV",
+    "工作计划/GraphIdentify/StadnFord CV/Course1.md",
+    "Accounts/Accounts & codes.md",
+    "工作计划/GraphIdentify/Preparation.md",
+    "Accounts",
+    "工作计划/GraphIdentify/StadnFord CV",
     "工作计划/GraphIdentify/ImageProcess&CV",
     "Pics/ScreenShots/AdviceFromQuora.png",
     "Pics/ScreenShots/AdviceFromQuora 1.png",
@@ -199,15 +205,9 @@
     "Temp/Untitled.md",
     "Untitled 1.md",
     "Untitled.md",
-    "流程.md",
-    "Token/dsdigital.md",
-    "structure/Spirng/ORM FrameWork/JPA/save().md",
     "Bugs/Spring/框架问题/LocaLDateTime",
     "Bugs/Spring/框架问题",
     "Bugs/Spring/多线程",
-    "Bugs/Spring/事务",
-    "Bugs/Spring/注入",
-    "Bugs/Spring/定时任务",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "DesginModel/Pasted image 20230520151503.png",
