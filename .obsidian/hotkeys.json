@@ -6,5 +6,11 @@
       ],
       "key": "Q"
     }
+  ],
+  "obsidian-fullscreen-plugin:fullscreen-focus": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-06/06-12.md"
+                "file": "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md"
               }
             }
           },
@@ -165,10 +165,20 @@
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
-    "工作计划/2023-06/0605.md",
-    "工作计划/2023-06/06-12.md",
-    "structure/Containers/Untitled.md",
     "工作计划/GraphIdentify/Preparation.md",
+    "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
+    "工作计划/GraphIdentify/ImageProcess&CV",
+    "Pics/ScreenShots/AdviceFromQuora.png",
+    "Pics/ScreenShots/AdviceFromQuora 1.png",
+    "Pics/ScreenShots/评估表达式.png",
+    "Pics/Pasted image 20230421092731.png",
+    "Pics/ScreenShots/Pasted image 20230418165425.png",
+    "Pics/ScreenShots/Pasted image 20230418164205.png",
+    "Pics/Unity架构3_0.png",
+    "Pics/Pasted image 20230429143319.png.md",
+    "工作计划/2023-06/06-12.md",
+    "工作计划/2023-06/0605.md",
+    "structure/Containers/Untitled.md",
     "structure/Containers",
     "EastWater/施肥机/变量导入说明.md",
     "工作计划/GraphIdentify",
@@ -192,25 +202,15 @@
     "流程.md",
     "Token/dsdigital.md",
     "structure/Spirng/ORM FrameWork/JPA/save().md",
-    "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
-    "structure/Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
     "Bugs/Spring/框架问题/LocaLDateTime",
     "Bugs/Spring/框架问题",
     "Bugs/Spring/多线程",
     "Bugs/Spring/事务",
     "Bugs/Spring/注入",
     "Bugs/Spring/定时任务",
-    "Excalidraw",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
-    "Pics/Pasted image 20230421092731.png",
     "DesginModel/Pasted image 20230520151503.png",
-    "DesginModel/Pasted image 20230520151226.png",
-    "plugin/unity解决方案.png",
-    "Pics/Unity架构3_0.png",
-    "Pasted image 20230429143319.png",
-    "Pasted image 20230429143248.png",
-    "Pics/modeling.png",
     "Untitled.canvas"
   ]
 }
