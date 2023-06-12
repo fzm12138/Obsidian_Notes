@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/Spring/注入/注入问题.md",
+                "file": "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "排查",
+                "query": "multiTh",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/Spring/注入/注入问题.md",
+                "file": "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/Spring/注入/注入问题.md",
+                "file": "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/Spring/注入/注入问题.md"
+                "file": "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md"
               }
             }
           },
@@ -177,44 +177,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb38d413093dbb83",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
-    "Bugs/Spring/事务/多线程事务失效.md",
-    "Bugs/Spring/事务/JPA.md",
-    "Bugs/Spring/框架问题/LocaLDateTime/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
+    "structure/Spirng/fundermental/MultiThreading/mutilthreading&mutiprocess.md",
+    "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md",
+    "structure/Spirng/fundermental/MultiThreading/Callable.md",
+    "structure/Spirng/fundermental/MultiThreading",
+    "Temp/Untitled.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "流程.md",
+    "Token/dsdigital.md",
+    "structure/Spirng/ORM FrameWork/JPA/save().md",
+    "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
+    "structure/Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
+    "structure/Spirng/SpringBoot/依赖注入/@Resource.md",
+    "structure/Spirng/SpringBoot/依赖注入/@Inject.md",
+    "structure/Spirng/SpringBoot/依赖注入/Autowired.md",
+    "structure/Spirng/SpringBoot/Kotlin/tutorial/Why kotlion.md",
+    "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
+    "structure/Spirng/SpringBoot/module-info/module-info explaination.md",
+    "structure/Spirng/SpringBoot/MyBaits/Date的问题.md",
+    "structure/Spirng/SpringBoot/plugins/lombok.md",
+    "structure/Spirng/网站很卡，几乎难以进行操作.md",
+    "structure/Spirng/SpringBoot/serialVerisonUID.md",
+    "structure/Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
+    "structure/Spirng/SpringBoot/回调（callback）.md",
+    "structure/Spirng/SpringBoot/Spring注解/IOC/@Import.md",
+    "structure/Spirng/SpringBoot/Spring注解/IOC/@Bean&@Component.md",
+    "structure/Spirng/SpringBoot/Spring注解/Annotation/@Value.md",
     "Bugs/Spring/框架问题/LocaLDateTime",
     "Bugs/Spring/框架问题",
-    "Bugs/Spring/多线程/多线程mysql写失效.md",
     "Bugs/Spring/多线程",
     "Bugs/Spring/事务",
-    "Bugs/Spring/IDK.md",
-    "Bugs/Spring/IDK2.md",
-    "Bugs/Spring/注入/注入问题.md",
     "Bugs/Spring/注入",
-    "Bugs/Spring/定时任务/定时任务管理器出错.md",
     "Bugs/Spring/定时任务",
-    "structure/Spirng/定时任务配置类/QuartzManager.md",
-    "Excalidraw/Drawing 2023-06-09 17.06.48.excalidraw.md",
     "Excalidraw",
-    "structure/Spirng/定时任务配置类/CustomJobFactory.md",
-    "structure/Spirng/定时任务配置类/ApplicationStartQuartzJobListener.md",
-    "structure/Spirng/定时任务配置类/AbstractTask.md",
-    "Bugs/Jobs.md",
     "structure/Spirng/定时任务配置类",
-    "structure/Spirng/SpringBoot/定时任务/cron表达式.md",
-    "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
-    "structure/Spirng/SpringBoot/定时任务/JobExecutionContext.md",
-    "structure/Spirng/SpringBoot/定时任务/org.quartz.Job.md",
-    "Bugs/Not a managed type.md",
-    "structure/Spirng/SpringBoot/Spring注解/IOC/@Bean&@Component.md",
-    "structure/Spirng/项目构建/Gradle/Explanition of Gradle.md",
-    "structure/Spirng/SpringBoot/Spring注解/Servlet/@PostConstruct.md",
-    "structure/Spirng/SpringBoot/Spring启动过程/Springboot启动过程.md",
     "structure/Spirng/SpringBoot/Spring启动过程",
-    "structure/Spirng/SpringBoot/Spring注解/Servlet",
-    "工作计划/2023-06/0605-0611.md",
-    "structure/Spirng/项目构建/Gradle/多模块项目构建.md",
-    "structure/Spirng/SpringBoot/Spring注解/Annotation/@Value.md",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
