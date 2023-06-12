@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/The preview.md",
+                "file": "CV/Python/Nearest Neighbor classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/The preview.md",
+                "file": "CV/Python/Nearest Neighbor classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/The preview.md",
+                "file": "CV/Python/Nearest Neighbor classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV/The preview.md"
+                "file": "CV/Python/Nearest Neighbor classifier.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
-    "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
+    "CV/Python/Numpy.md",
+    "CV/Python/Nearest Neighbor classifier.md",
+    "CV/Python",
     "CV/The preview.md",
+    "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
     "CV",
     "工作计划/GraphIdentify/StadnFord CV/Course1.md",
     "Accounts/Accounts & codes.md",
@@ -203,11 +206,8 @@
     "structure/Spirng/fundermental/MultiThreading/Callable.md",
     "structure/Spirng/fundermental/MultiThreading",
     "Temp/Untitled.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Bugs/Spring/框架问题/LocaLDateTime",
     "Bugs/Spring/框架问题",
-    "Bugs/Spring/多线程",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "DesginModel/Pasted image 20230520151503.png",
