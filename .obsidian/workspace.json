@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/GraphIdentify/Preparation.md",
+                "file": "工作计划/2023-06/06-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/GraphIdentify/Preparation.md",
+                "file": "工作计划/2023-06/06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/GraphIdentify/Preparation.md",
+                "file": "工作计划/2023-06/06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/GraphIdentify/Preparation.md"
+                "file": "工作计划/2023-06/06-12.md"
               }
             }
           },
@@ -165,8 +165,12 @@
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
-    "EastWater/施肥机/变量导入说明.md",
+    "工作计划/2023-06/0605.md",
+    "工作计划/2023-06/06-12.md",
+    "structure/Containers/Untitled.md",
     "工作计划/GraphIdentify/Preparation.md",
+    "structure/Containers",
+    "EastWater/施肥机/变量导入说明.md",
     "工作计划/GraphIdentify",
     "EastWater/施肥机/Fertilizer params.md",
     "EastWater/ds.md",
@@ -190,9 +194,6 @@
     "structure/Spirng/ORM FrameWork/JPA/save().md",
     "structure/Spirng/SpringBoot/定时任务/JobDataMap.md",
     "structure/Spirng/SpringBoot/依赖注入/@RequiredArgsConstructor.md",
-    "structure/Spirng/SpringBoot/依赖注入/@Resource.md",
-    "structure/Spirng/SpringBoot/依赖注入/@Inject.md",
-    "structure/Spirng/SpringBoot/依赖注入/Autowired.md",
     "Bugs/Spring/框架问题/LocaLDateTime",
     "Bugs/Spring/框架问题",
     "Bugs/Spring/多线程",
@@ -200,7 +201,6 @@
     "Bugs/Spring/注入",
     "Bugs/Spring/定时任务",
     "Excalidraw",
-    "structure/Spirng/定时任务配置类",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
