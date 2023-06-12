@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/Spirng/定时任务配置类/QuartzManager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb38d413093dbb83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md",
+                "file": "工作计划/GraphIdentify/Preparation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md",
+                "file": "工作计划/GraphIdentify/Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md",
+                "file": "工作计划/GraphIdentify/Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md"
+                "file": "工作计划/GraphIdentify/Preparation.md"
               }
             }
           },
@@ -177,10 +163,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb38d413093dbb83",
+  "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
-    "structure/Spirng/fundermental/MultiThreading/mutilthreading&mutiprocess.md",
+    "EastWater/施肥机/变量导入说明.md",
+    "工作计划/GraphIdentify/Preparation.md",
+    "工作计划/GraphIdentify",
+    "EastWater/施肥机/Fertilizer params.md",
+    "EastWater/ds.md",
+    "Emebedded/I2C/I2C介绍.md",
+    "Documentation/Development/SoftWareDevelopmentDocumentation.md",
+    "Bugs/Jobs.md",
+    "Bugs/无法自动装配.md",
+    "Bugs/vue-cli-service不是内部或外部命令.md",
+    "Bugs/Chrome.md",
+    "购物/with nothing.md",
+    "structure/Spirng/定时任务配置类/QuartzManager.md",
     "structure/Spirng/fundermental/MultiThreading/MultiThreading in Spring.md",
+    "structure/Spirng/fundermental/MultiThreading/mutilthreading&mutiprocess.md",
     "structure/Spirng/fundermental/MultiThreading/Callable.md",
     "structure/Spirng/fundermental/MultiThreading",
     "Temp/Untitled.md",
@@ -194,18 +193,6 @@
     "structure/Spirng/SpringBoot/依赖注入/@Resource.md",
     "structure/Spirng/SpringBoot/依赖注入/@Inject.md",
     "structure/Spirng/SpringBoot/依赖注入/Autowired.md",
-    "structure/Spirng/SpringBoot/Kotlin/tutorial/Why kotlion.md",
-    "structure/Spirng/SpringBoot/Kotlin/Basic-syntax.md",
-    "structure/Spirng/SpringBoot/module-info/module-info explaination.md",
-    "structure/Spirng/SpringBoot/MyBaits/Date的问题.md",
-    "structure/Spirng/SpringBoot/plugins/lombok.md",
-    "structure/Spirng/网站很卡，几乎难以进行操作.md",
-    "structure/Spirng/SpringBoot/serialVerisonUID.md",
-    "structure/Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
-    "structure/Spirng/SpringBoot/回调（callback）.md",
-    "structure/Spirng/SpringBoot/Spring注解/IOC/@Import.md",
-    "structure/Spirng/SpringBoot/Spring注解/IOC/@Bean&@Component.md",
-    "structure/Spirng/SpringBoot/Spring注解/Annotation/@Value.md",
     "Bugs/Spring/框架问题/LocaLDateTime",
     "Bugs/Spring/框架问题",
     "Bugs/Spring/多线程",
@@ -214,7 +201,6 @@
     "Bugs/Spring/定时任务",
     "Excalidraw",
     "structure/Spirng/定时任务配置类",
-    "structure/Spirng/SpringBoot/Spring启动过程",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
