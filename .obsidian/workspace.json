@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/Containers/containers.md",
+                "file": "structure/What is it/系统架构演变.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/Containers/containers.md",
+                "file": "structure/What is it/系统架构演变.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/Containers/containers.md",
+                "file": "structure/What is it/系统架构演变.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/Containers/containers.md"
+                "file": "structure/What is it/系统架构演变.md"
               }
             }
           },
@@ -165,6 +165,12 @@
   },
   "active": "99cac0068c6bafcf",
   "lastOpenFiles": [
+    "structure/What is it/软件架构设计.md",
+    "structure/What is it/系统架构演变.md",
+    "structure/Spirng/定时任务配置类/AbstractTask.md",
+    "structure/Test",
+    "structure/Containers/containers.md",
+    "structure/What is it",
     "流程.md",
     "CV/Python/Numpy.md",
     "CV/Python/Nearest Neighbor classifier.md",
@@ -192,7 +198,6 @@
     "Pics/Pasted image 20230429143319.png.md",
     "工作计划/2023-06/06-12.md",
     "工作计划/2023-06/0605.md",
-    "structure/Containers/containers.md",
     "structure/Containers",
     "EastWater/施肥机/变量导入说明.md",
     "工作计划/GraphIdentify",
@@ -203,12 +208,7 @@
     "Bugs/Jobs.md",
     "Bugs/无法自动装配.md",
     "Bugs/vue-cli-service不是内部或外部命令.md",
-    "Bugs/Chrome.md",
-    "购物/with nothing.md",
-    "structure/Spirng/定时任务配置类/QuartzManager.md",
     "structure/Spirng/fundermental/MultiThreading",
-    "Bugs/Spring/框架问题/LocaLDateTime",
-    "Bugs/Spring/框架问题",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Untitled.canvas"
