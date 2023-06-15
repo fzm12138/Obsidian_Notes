@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MessageQueue/introduction.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MessageQueue/introduction.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MessageQueue/introduction.md",
+                "file": "Server/43.138.68.42/2023-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MessageQueue/introduction.md"
+                "file": "Server/43.138.68.42/2023-05-12.md"
               }
             }
           },
@@ -163,8 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee396f47eacbb472",
+  "active": "dd040469a3307878",
   "lastOpenFiles": [
+    "links_needs_read/一些链接.md",
+    "MessageQueue/introduction.md",
     "NeedRemember/响应状态码.md",
     "NOTICE/注意事项.md",
     "Obsidian/Obsidain grammar/Obsidian语法.md",
@@ -197,10 +199,8 @@
     "SQL/MySql语句/函数/常用函数.md",
     "SQL/MySql语句/多表连接查询.md",
     "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
-    "links_needs_read/一些链接.md",
     "SQL/MySql语句/字段属性/主键.md",
     "structure/Spirng/SpringBoot/MyBaits/Date的问题.md",
-    "structure/Spirng/SpringBoot/JPA/@GeneratedValue：.md",
     "structure/Spirng/SpringBoot/yml",
     "structure/Spirng/多模块",
     "Pics/ScreenShots/反射创建注入.png.crdownload",
