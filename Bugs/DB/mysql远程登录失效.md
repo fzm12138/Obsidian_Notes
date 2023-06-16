@@ -10,3 +10,4 @@
 update mysql.user set authentication_string=password("!09051223aA!") where user="root";
 ```
 刷新权限 成功解决
+
