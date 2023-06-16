@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/DB/mysql远程登录失效.md",
+                "file": "Bugs/DB/数据库迁移sql无法执行.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/DB/mysql远程登录失效.md",
+                "file": "Bugs/DB/数据库迁移sql无法执行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/DB/mysql远程登录失效.md",
+                "file": "Bugs/DB/数据库迁移sql无法执行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/DB/mysql远程登录失效.md"
+                "file": "Bugs/DB/数据库迁移sql无法执行.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "1143b4902922c844",
   "lastOpenFiles": [
+    "Bugs/DB/mysql远程登录失效.md",
+    "Bugs/DB/数据库迁移sql无法执行.md",
     "Server/43.138.68.42/2023-05-12.md",
     "Server/jdk配置.md",
-    "Bugs/DB/mysql远程登录失效.md",
     "DB/MySQL/Untitled.md",
     "Bugs/DB",
     "DB/MySQL/其他操作/Database migration.md",
@@ -205,7 +206,6 @@
     "structure/Spirng/网站很卡，几乎难以进行操作.md",
     "structure/Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
     "structure/Spirng/SpringBoot/回调（callback）.md",
-    "DB/MySQL/MySql语句/数据库操作.md",
     "structure/Spirng/SpringBoot/yml",
     "structure/Spirng/多模块",
     "Pics/ScreenShots/反射创建注入.png.crdownload",
