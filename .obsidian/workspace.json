@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c23c74a8e39250f0",
+        "id": "9a8b749e5d1996f2",
         "type": "tabs",
         "children": [
           {
-            "id": "dd040469a3307878",
+            "id": "1143b4902922c844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "DB/MySQL/其他操作/Database migration.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "DB/MySQL/其他操作/Database migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "DB/MySQL/其他操作/Database migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md"
+                "file": "DB/MySQL/其他操作/Database migration.md"
               }
             }
           },
@@ -163,8 +164,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd040469a3307878",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
+    "工作计划/GraphIdentify/Preparation.md",
+    "工作计划/2023-06/06-12.md",
+    "工作计划/2023-06/0605.md",
+    "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
+    "工作计划/学习计划.md",
+    "DB/MySQL/其他操作/Database migration.md",
+    "Pics/数据生命周期.png",
+    "Pics/ScreenShots/Pasted image 20230418165425.png",
+    "Pics/ScreenShots/Pasted image 20230418164111.png",
+    "Pics/数据生命周期.png.crdownload",
+    "DB/MySQL/技能树&大纲/MySql技能树.md",
+    "DB/MySQL/其他操作",
+    "DB/MySQL/技能树&大纲",
+    "Server/43.138.68.42/2023-05-12.md",
+    "DB",
     "links_needs_read/一些链接.md",
     "MessageQueue/introduction.md",
     "NeedRemember/响应状态码.md",
@@ -178,11 +194,7 @@
     "Pics/Pasted image 20230421092731.png",
     "Pics/ScreenShots/反射创建注入.png",
     "Pics/ScreenShots/Tomcat.jpg",
-    "Pics/ScreenShots/K-Nearest.png",
-    "Pics/ScreenShots/AdviceFromQuora.png",
-    "Pics/ScreenShots/评估表达式.png",
-    "Server/43.138.68.42/2023-05-12.md",
-    "SQL/MySql语句/函数/IFNULL().md",
+    "DB/MySQL/MySql语句/函数/IFNULL().md",
     "Server/jdk配置.md",
     "Temp/Untitled.md",
     "Temp/学习计划.md",
@@ -191,26 +203,15 @@
     "structure/Spirng/网站很卡，几乎难以进行操作.md",
     "structure/Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
     "structure/Spirng/SpringBoot/回调（callback）.md",
-    "SQL/MySql语句/数据库操作.md",
-    "SQL/MySql技能树.md",
-    "SQL/MySql语句/Case When.md",
-    "SQL/MySql语句/Create_DB.md",
-    "SQL/MySql语句/模糊查询.md",
-    "SQL/MySql语句/函数/常用函数.md",
-    "SQL/MySql语句/多表连接查询.md",
-    "SQL/MySql语句/事务，视图，索引，备份，恢复.md",
-    "SQL/MySql语句/字段属性/主键.md",
-    "structure/Spirng/SpringBoot/MyBaits/Date的问题.md",
+    "DB/MySQL/MySql语句/数据库操作.md",
+    "DB/MySQL/MySql语句/Case When.md",
+    "DB/MySQL/MySql语句/Create_DB.md",
     "structure/Spirng/SpringBoot/yml",
     "structure/Spirng/多模块",
     "Pics/ScreenShots/反射创建注入.png.crdownload",
     "Pics/ScreenShots/Tomcat.jpg.crdownload",
     "structure/Test",
     "structure/What is it",
-    "CV/Python",
-    "CV",
-    "Accounts",
-    "工作计划/GraphIdentify/StadnFord CV",
     "Untitled.canvas"
   ]
 }
