@@ -31,7 +31,7 @@ TODO("引入依赖")
 @MapperScan(value = arrayOf("com.example.dsdigital.mapper"))
 ```
 
-- 使用mybatis同样失败，不报错，但是不成功(线程被阻塞)
+- 使用mybatis同样失败，不报错，但是不成功(线程被阻塞？)
 ##### 解决：
 - ***在进入多线程代码块之前，使用cout或save等jpa方法***
 ##### 原因：

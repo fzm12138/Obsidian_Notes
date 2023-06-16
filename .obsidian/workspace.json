@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1143b4902922c844",
+            "id": "3ae591d6d0da5567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "Bugs/DB/数据库迁移sql无法执行.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "Bugs/DB/数据库迁移sql无法执行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md",
+                "file": "Bugs/DB/数据库迁移sql无法执行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/43.138.68.42/2023-05-12.md"
+                "file": "Bugs/DB/数据库迁移sql无法执行.md"
               }
             }
           },
@@ -163,54 +163,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1143b4902922c844",
+  "active": "3ae591d6d0da5567",
   "lastOpenFiles": [
-    "流程.md",
-    "工作计划/2023-06/06-12.md",
-    "工作计划/2023-06/0605.md",
-    "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
-    "工作计划/GraphIdentify/Preparation.md",
-    "Bugs/DB/mysql远程登录失效.md",
-    "Bugs/Spring/服务器上",
-    "Bugs/DB/数据库迁移sql无法执行.md",
-    "Server/43.138.68.42/2023-05-12.md",
-    "Server/jdk配置.md",
-    "DB/MySQL/Untitled.md",
-    "Bugs/DB",
+    "Bugs/Chrome.md",
     "DB/MySQL/其他操作/Database migration.md",
-    "工作计划/学习计划.md",
+    "Bugs/DB/数据库迁移sql无法执行.md",
+    "Bugs/DB/mysql远程登录失效.md",
+    "DB/MySQL/技能树&大纲/MySql技能树.md",
+    "DB/r2dbc/应用配置文件.md",
+    "CV/Python/Nearest Neighbor classifier.md",
+    "CV/Python/Numpy.md",
+    "Codes/pakage.json.md",
+    "Codes/Ruoyi_Codes/createToke(登录生成toke的实现).md",
+    "Codes/Ruoyi_Codes/validateCaptcha(验证码校验).md",
+    "Codes/Ruoyi_Codes/login(登录验证).md",
+    "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
+    "Bugs/Not a managed type.md",
+    "Bugs/Unresolved reference- model.md",
+    "Bugs/Spring/vue-cli-service不是内部或外部命令.md",
+    "Bugs/Spring/无法自动装配.md",
+    "Bugs/pi/not trusted.md",
+    "Bugs/Spring/定时任务/定时任务管理器出错.md",
+    "Bugs/Spring/多线程/多线程mysql写失效.md",
+    "Bugs/Spring/Jobs.md",
+    "Bugs/Spring/注入/注入问题.md",
+    "Bugs/Spring/框架问题/LocaLDateTime/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
+    "Bugs/Spring/事务/JPA.md",
+    "Bugs/Spring/事务/多线程事务失效.md",
+    "Bugs/kotlin/Cant resolve kotlin dependencies.md",
+    "Pics/过滤器链.png",
+    "Pics/HttpBasic原理.png",
+    "structure/SpringSecurity",
+    "Bugs/Spring/服务器上",
+    "Bugs/DB",
     "Pics/数据生命周期.png",
     "Pics/ScreenShots/Pasted image 20230418165425.png",
     "Pics/ScreenShots/Pasted image 20230418164111.png",
     "Pics/数据生命周期.png.crdownload",
-    "DB/MySQL/技能树&大纲/MySql技能树.md",
     "DB/MySQL/其他操作",
     "DB/MySQL/技能树&大纲",
     "DB",
-    "links_needs_read/一些链接.md",
-    "MessageQueue/introduction.md",
-    "NeedRemember/响应状态码.md",
-    "NOTICE/注意事项.md",
-    "Obsidian/Obsidain grammar/Obsidian语法.md",
-    "Pics/Pasted image 20230429143319.png.md",
     "Pics/Unity架构3_0.png",
     "Pics/modeling.png",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
-    "Pics/ScreenShots/反射创建注入.png",
-    "Pics/ScreenShots/Tomcat.jpg",
-    "DB/MySQL/MySql语句/函数/IFNULL().md",
-    "Temp/Untitled.md",
-    "Temp/学习计划.md",
-    "structure/Tomcat.md",
-    "structure/Spirng/SpringBoot/yml/多环境配置文件.md",
-    "structure/Spirng/网站很卡，几乎难以进行操作.md",
-    "structure/Spirng/SpringBoot/ToStringStyle.MULTI_LINE_STYLE.md",
-    "structure/Spirng/SpringBoot/yml",
+    "structure/SpringBoot/yml",
     "structure/Spirng/多模块",
     "Pics/ScreenShots/反射创建注入.png.crdownload",
-    "Pics/ScreenShots/Tomcat.jpg.crdownload",
     "Untitled.canvas"
   ]
 }
