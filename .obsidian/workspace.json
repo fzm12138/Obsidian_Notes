@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/论文/技术.md",
+                "file": "Server/101/06-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/论文/技术.md",
+                "file": "Server/101/06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/论文/技术.md",
+                "file": "Server/101/06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV/论文/技术.md"
+                "file": "Server/101/06-17.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "3ae591d6d0da5567",
   "lastOpenFiles": [
+    "CV/论文/技术.md",
+    "Server/101/06-17.md",
+    "Server/101",
     "Pics/卷积神经网络图像分类流程图.png",
     "工作计划/2023-06/06-12.md",
-    "CV/论文/技术.md",
     "CV/论文",
     "工作计划/学习计划.md",
     "开发文档/变频柜/YQ300变频器.md",
@@ -209,8 +211,6 @@
     "Pics/modeling.png",
     "Pics/tools.png",
     "Pics/digital_twin_data.png",
-    "Pics/Pasted image 20230421092731.png",
-    "structure/SpringBoot/yml",
     "Untitled.canvas"
   ]
 }
