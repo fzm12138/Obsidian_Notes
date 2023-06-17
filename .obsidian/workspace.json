@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "CV/论文/技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "CV/论文/技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "CV/论文/技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-06/06-12.md"
+                "file": "CV/论文/技术.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "3ae591d6d0da5567",
   "lastOpenFiles": [
+    "工作计划/2023-06/06-12.md",
+    "CV/论文/技术.md",
+    "CV/论文",
     "工作计划/学习计划.md",
     "开发文档/变频柜/YQ300变频器.md",
-    "工作计划/2023-06/06-12.md",
     "开发文档/变频柜",
     "Bugs/DB/数据库迁移sql无法执行.md",
     "Bugs/Chrome.md",
@@ -191,7 +193,6 @@
     "Bugs/Spring/多线程/多线程mysql写失效.md",
     "Bugs/Spring/Jobs.md",
     "Bugs/Spring/注入/注入问题.md",
-    "Bugs/Spring/框架问题/LocaLDateTime/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
     "Pics/过滤器链.png",
     "Pics/HttpBasic原理.png",
     "structure/SpringSecurity",
@@ -210,7 +211,6 @@
     "Pics/digital_twin_data.png",
     "Pics/Pasted image 20230421092731.png",
     "structure/SpringBoot/yml",
-    "structure/Spirng/多模块",
     "Untitled.canvas"
   ]
 }
