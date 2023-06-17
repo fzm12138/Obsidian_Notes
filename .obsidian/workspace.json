@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/101/06-17.md",
+                "file": "工作计划/2023-06/06-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "043ad881ec700fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "桌面软件/环境.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/101/06-17.md",
+                "file": "桌面软件/环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/101/06-17.md",
+                "file": "桌面软件/环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/101/06-17.md"
+                "file": "桌面软件/环境.md"
               }
             }
           },
@@ -163,13 +176,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ae591d6d0da5567",
+  "active": "043ad881ec700fb9",
   "lastOpenFiles": [
-    "CV/论文/技术.md",
+    "桌面软件/对接.md",
+    "桌面软件/环境.md",
+    "工作计划/2023-06/06-12.md",
     "Server/101/06-17.md",
+    "桌面软件",
+    "CV/论文/技术.md",
     "Server/101",
     "Pics/卷积神经网络图像分类流程图.png",
-    "工作计划/2023-06/06-12.md",
     "CV/论文",
     "工作计划/学习计划.md",
     "开发文档/变频柜/YQ300变频器.md",
@@ -193,8 +209,6 @@
     "Bugs/Spring/无法自动装配.md",
     "Bugs/pi/not trusted.md",
     "Bugs/Spring/定时任务/定时任务管理器出错.md",
-    "Bugs/Spring/多线程/多线程mysql写失效.md",
-    "Bugs/Spring/Jobs.md",
     "Pics/过滤器链.png",
     "Pics/HttpBasic原理.png",
     "structure/SpringSecurity",
@@ -206,7 +220,6 @@
     "Pics/数据生命周期.png.crdownload",
     "DB/MySQL/其他操作",
     "DB/MySQL/技能树&大纲",
-    "DB",
     "Pics/Unity架构3_0.png",
     "Pics/modeling.png",
     "Pics/tools.png",
