@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "开发文档/变频柜/YQ300变频器.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "开发文档/变频柜/YQ300变频器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "开发文档/变频柜/YQ300变频器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-06/06-12.md"
+                "file": "开发文档/变频柜/YQ300变频器.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "3ae591d6d0da5567",
   "lastOpenFiles": [
+    "工作计划/2023-06/06-12.md",
+    "开发文档/变频柜/YQ300变频器.md",
+    "开发文档/变频柜",
     "Bugs/DB/数据库迁移sql无法执行.md",
     "Bugs/Chrome.md",
     "DB/MySQL/其他操作/Database migration.md",
@@ -189,8 +192,6 @@
     "Bugs/Spring/注入/注入问题.md",
     "Bugs/Spring/框架问题/LocaLDateTime/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
     "Bugs/Spring/事务/JPA.md",
-    "Bugs/Spring/事务/多线程事务失效.md",
-    "Bugs/kotlin/Cant resolve kotlin dependencies.md",
     "Pics/过滤器链.png",
     "Pics/HttpBasic原理.png",
     "structure/SpringSecurity",
@@ -210,7 +211,6 @@
     "Pics/Pasted image 20230421092731.png",
     "structure/SpringBoot/yml",
     "structure/Spirng/多模块",
-    "Pics/ScreenShots/反射创建注入.png.crdownload",
     "Untitled.canvas"
   ]
 }
