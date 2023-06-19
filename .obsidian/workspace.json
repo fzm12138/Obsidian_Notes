@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "OS/关闭WSL.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "OS/关闭WSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "OS/关闭WSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-06/06-12.md"
+                "file": "OS/关闭WSL.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "043ad881ec700fb9",
   "lastOpenFiles": [
-    "工作计划/2023-06/0605.md",
     "工作计划/2023-06/06-12.md",
+    "OS/关闭WSL.md",
+    "OS",
+    "工作计划/2023-06/0605.md",
     "桌面软件/对接.md",
     "桌面软件/环境.md",
     "桌面软件/项目.md",
@@ -208,7 +210,6 @@
     "Bugs/Not a managed type.md",
     "Bugs/Unresolved reference- model.md",
     "Bugs/Spring/vue-cli-service不是内部或外部命令.md",
-    "Bugs/Spring/无法自动装配.md",
     "Pics/过滤器链.png",
     "Pics/HttpBasic原理.png",
     "structure/SpringSecurity",
@@ -219,7 +220,6 @@
     "Pics/ScreenShots/Pasted image 20230418164111.png",
     "Pics/数据生命周期.png.crdownload",
     "DB/MySQL/其他操作",
-    "DB/MySQL/技能树&大纲",
     "Pics/Unity架构3_0.png",
     "Pics/modeling.png",
     "Pics/tools.png",
