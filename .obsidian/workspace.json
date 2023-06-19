@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "桌面软件/对接.md",
+                "file": "工作计划/2023-06/06-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "桌面软件/对接.md",
+                "file": "工作计划/2023-06/06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "桌面软件/对接.md",
+                "file": "工作计划/2023-06/06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "桌面软件/对接.md"
+                "file": "工作计划/2023-06/06-12.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "043ad881ec700fb9",
   "lastOpenFiles": [
+    "工作计划/2023-06/0605.md",
+    "工作计划/2023-06/06-12.md",
+    "桌面软件/对接.md",
     "桌面软件/环境.md",
     "桌面软件/项目.md",
-    "桌面软件/对接.md",
-    "工作计划/2023-06/06-12.md",
     "Server/101/06-17.md",
     "桌面软件",
     "CV/论文/技术.md",
@@ -208,7 +209,6 @@
     "Bugs/Unresolved reference- model.md",
     "Bugs/Spring/vue-cli-service不是内部或外部命令.md",
     "Bugs/Spring/无法自动装配.md",
-    "Bugs/pi/not trusted.md",
     "Pics/过滤器链.png",
     "Pics/HttpBasic原理.png",
     "structure/SpringSecurity",
