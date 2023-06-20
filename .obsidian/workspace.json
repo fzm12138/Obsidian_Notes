@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/101/06-17.md",
+                "file": "Bugs/DB/mysql远程登录失效.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/101/06-17.md",
+                "file": "Bugs/DB/mysql远程登录失效.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/101/06-17.md",
+                "file": "Bugs/DB/mysql远程登录失效.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/101/06-17.md"
+                "file": "Bugs/DB/mysql远程登录失效.md"
               }
             }
           },
@@ -190,12 +190,12 @@
   },
   "active": "08f3497486e113f8",
   "lastOpenFiles": [
+    "DB/MySQL/其他操作/Database migration.md",
+    "Server/43.138.68.42/2023-05-12.md",
+    "Server/101/06-17.md",
     "Server/jdk配置.md",
     "DB/MySQL/MySql语句/SQL分类.md",
     "DB/MySQL/MySql语句/数据库操作.md",
-    "Server/43.138.68.42/2023-05-12.md",
-    "Server/101/06-17.md",
-    "DB/MySQL/其他操作/Database migration.md",
     "DB/MySQL/技能树&大纲/MySql技能树.md",
     "Bugs/fertilizer.md",
     "Python/Untitled.md",
