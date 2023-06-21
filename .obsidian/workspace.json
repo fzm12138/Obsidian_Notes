@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MessageQueue/introduction.md",
+                "file": "structure/SpringSecurity/SpringSecurity&Shiro.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "structure/SpringSecurity/SpringSecurity&Shiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-06/06-12.md",
+                "file": "structure/SpringSecurity/SpringSecurity&Shiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-06/06-12.md"
+                "file": "structure/SpringSecurity/SpringSecurity&Shiro.md"
               }
             }
           },
@@ -190,6 +190,11 @@
   },
   "active": "ee396f47eacbb472",
   "lastOpenFiles": [
+    "structure/SpringSecurity/SpringSecurity基础.md",
+    "structure/SpringSecurity/SpringSecurity&Shiro.md",
+    "structure/architecture/系统架构演变.md",
+    "structure/architecture/软件架构设计.md",
+    "工作计划/2023-06/06-12.md",
     "links_needs_read/一些链接.md",
     "Token/dsdigital.md",
     "Temp/Untitled.md",
@@ -211,13 +216,8 @@
     "DB/MySQL/MySql语句/数据库操作.md",
     "DB/MySQL/技能树&大纲/MySql技能树.md",
     "Bugs/fertilizer.md",
-    "Python/Untitled.md",
-    "Python/basic/拆包.md",
     "Python/basic",
-    "Python/python.md",
-    "Python/功能/Untitled.md",
     "Python/功能",
-    "工作计划/2023-06/06-19.md",
     "OS",
     "桌面软件",
     "Server/101",
