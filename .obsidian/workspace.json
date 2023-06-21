@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugs/DB/mysql远程登录失效.md",
+                "file": "MessageQueue/introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bugs/DB/mysql远程登录失效.md",
+                "file": "工作计划/2023-06/06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bugs/DB/mysql远程登录失效.md",
+                "file": "工作计划/2023-06/06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bugs/DB/mysql远程登录失效.md"
+                "file": "工作计划/2023-06/06-12.md"
               }
             }
           },
@@ -188,10 +188,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08f3497486e113f8",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
-    "DB/MySQL/其他操作/Database migration.md",
+    "links_needs_read/一些链接.md",
+    "Token/dsdigital.md",
+    "Temp/Untitled.md",
+    "Temp/学习计划.md",
+    "PRIVATE/That's absolutly nonsense.md",
+    "Python/basic/元组.md",
+    "Python/basic/集合.md",
+    "Python/basic/推导式.md",
+    "Python/basic/关键字.md",
+    "Python/basic/列表.md",
+    "Python/basic/字符串.md",
+    "Python/basic/字典.md",
     "Server/43.138.68.42/2023-05-12.md",
+    "Bugs/DB/mysql远程登录失效.md",
+    "DB/MySQL/其他操作/Database migration.md",
     "Server/101/06-17.md",
     "Server/jdk配置.md",
     "DB/MySQL/MySql语句/SQL分类.md",
@@ -200,25 +213,12 @@
     "Bugs/fertilizer.md",
     "Python/Untitled.md",
     "Python/basic/拆包.md",
-    "Python/basic/推导式.md",
-    "Python/basic/字典.md",
-    "Python/basic/集合.md",
-    "Python/basic/元组.md",
-    "Python/basic/字符串.md",
-    "Python/basic/列表.md",
     "Python/basic",
     "Python/python.md",
-    "Python/basic/关键字.md",
     "Python/功能/Untitled.md",
     "Python/功能",
     "工作计划/2023-06/06-19.md",
-    "工作计划/2023-06/06-12.md",
-    "Bugs/Spring/vue-cli-service不是内部或外部命令.md",
-    "OS/关闭WSL.md",
     "OS",
-    "工作计划/2023-06/0605.md",
-    "桌面软件/对接.md",
-    "桌面软件/环境.md",
     "桌面软件",
     "Server/101",
     "Pics/卷积神经网络图像分类流程图.png",
