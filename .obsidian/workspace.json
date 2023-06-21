@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "桌面软件/对接.md",
+                "file": "工作计划/2023-06/06-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "桌面软件/对接.md",
+                "file": "工作计划/2023-06/06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "桌面软件/对接.md",
+                "file": "工作计划/2023-06/06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "桌面软件/对接.md"
+                "file": "工作计划/2023-06/06-19.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "08f3497486e113f8",
   "lastOpenFiles": [
+    "桌面软件/对接.md",
     "Bugs/Spring/框架问题/LocaLDateTime/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
     "Bugs/Spring/定时任务/定时任务管理器出错.md",
     "Bugs/pi/not trusted.md",
@@ -215,7 +216,6 @@
     "Python/basic/关键字.md",
     "Python/basic/列表.md",
     "Python/basic/字符串.md",
-    "Python/basic/字典.md",
     "Python/basic",
     "Python/功能",
     "OS",
