@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRIVATE/MyInfo.md",
+                "file": "瑞滴/瑞滴智能实习邀请.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PRIVATE/MyInfo.md",
+                "file": "瑞滴/瑞滴智能实习邀请.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PRIVATE/MyInfo.md",
+                "file": "瑞滴/瑞滴智能实习邀请.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PRIVATE/MyInfo.md"
+                "file": "瑞滴/瑞滴智能实习邀请.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "d62f90079a0dfcfe",
   "lastOpenFiles": [
-    "structure/SpringBoot/Spring注解/Annotation/@Validdated.md",
     "PRIVATE/MyInfo.md",
+    "瑞滴/瑞滴智能实习邀请.md",
+    "瑞滴",
+    "structure/SpringBoot/Spring注解/Annotation/@Validdated.md",
     "structure/SpringBoot/Spring注解/Annotation/@Value.md",
     "structure/SpringBoot/Spring注解/Web/java对象接收json.md",
     "structure/SpringBoot/Spring注解/Web/@RequestBody.md",
@@ -209,7 +211,6 @@
     "Pics/CV",
     "Pics/架构",
     "Pics/集合",
-    "Pics/线程安全的集合.png.crdownload",
     "structure/SpringBoot/Kotlin/open&final.md",
     "NeedRemember/响应状态码.md",
     "Server/101/06-17.md",
@@ -222,7 +223,6 @@
     "开发文档/仁科虫情/接入系统前需要做的/No.1 业务流程.md",
     "开发文档/仁科虫情/接入系统前需要做的/No.2接入系统前需要做的修改.md",
     "开发文档/仁科虫情/接入系统前需要做的/NO.0 环境.md",
-    "工作计划/2023-06/0625.md",
     "Untitled.canvas"
   ]
 }
