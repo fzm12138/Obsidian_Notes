@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md",
+                "file": "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md",
+                "file": "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md",
+                "file": "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algroithms/Sorts/插入排序.md"
+                "file": "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md"
               }
             }
           },
@@ -177,34 +177,34 @@
   },
   "active": "d62f90079a0dfcfe",
   "lastOpenFiles": [
-    "Algroithms/Effects of Alogrithms.md",
-    "Algroithms/分治策略.md",
-    "Algroithms/CoreOfAlgoithms.md",
-    "Accounts/Accounts & codes.md",
-    "桌面软件/对接.md",
-    "桌面软件/环境.md",
-    "桌面软件/项目.md",
-    "工作计划/2023-06/仁科对接接口实现/TODO.md",
-    "工作计划/GraphIdentify/ImageProcess&CV/IP&CV.md",
-    "工作计划/学习计划.md",
-    "工作计划/GraphIdentify/Preparation.md",
-    "工作计划/2023-07/07-03.md",
-    "工作计划/2023-06/0625.md",
-    "工作计划/2023-07",
-    "开发文档/仁科虫情/接入系统前需要做的/No.1 业务流程.md",
-    "开发文档/仁科虫情/接入系统前需要做的/NO.0 环境.md",
-    "开发文档/仁科虫情/接入系统前需要做的/No.3 接口信息传递格式说明.md",
-    "开发文档/仁科虫情/接入系统前需要做的/No.2接入系统前需要做的修改.md",
     "开发文档/仁科虫情/接口说明/No.1 登录帧.md",
     "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md",
+    "开发文档/仁科虫情/接入系统前需要做的/No.2接入系统前需要做的修改.md",
+    "开发文档/仁科虫情/接入系统前需要做的/NO.0 环境.md",
+    "开发文档/仁科虫情/接入系统前需要做的/No.3 接口信息传递格式说明.md",
+    "桌面软件/项目.md",
+    "桌面软件/对接.md",
+    "Bugs/kotlin/Cant resolve kotlin dependencies.md",
+    "Bugs/kotlin/Maven can't resolve the Kotlin-Maven -Plugin jar.md",
+    "Bugs/DB/mysql导致cpu负载过高.md",
+    "Bugs/DB/数据库迁移sql无法执行.md",
+    "Bugs/DB/mysql远程登录失效.md",
+    "Bugs/Spring/多线程/多线程mysql写失效.md",
+    "Bugs/Spring/定时任务/定时任务管理器出错.md",
+    "Bugs/Spring/框架问题/LocaLDateTime/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
+    "Bugs/Spring/事务/多线程事务失效.md",
+    "Bugs/Spring/事务/JPA.md",
+    "Bugs/Spring/注入/注入问题.md",
+    "Bugs/Spring/无法自动装配.md",
+    "Bugs/Spring/vue-cli-service不是内部或外部命令.md",
+    "Bugs/Spring/Jobs.md",
+    "Bugs/Chrome.md",
+    "Bugs/Not a managed type.md",
+    "Bugs/Unresolved reference- model.md",
+    "Bugs/fertilizer.md",
     "开发文档/变频柜/YQ300变频器.md",
-    "开发文档/数据格式对接/施肥机客户端与后端对接.md",
-    "开发文档/绿色草原灌溉控制器设备控制.md",
-    "瑞滴/瑞滴智能实习邀请.md",
-    "PRIVATE/MyInfo.md",
+    "工作计划/2023-07",
     "瑞滴",
-    "structure/SpringBoot/Spring注解/Annotation/@Validdated.md",
-    "structure/SpringBoot/Spring注解/Annotation/@Value.md",
     "structure/SpringBoot/Spring注解/Formfat",
     "structure/SpringBoot/Spring注解/IO",
     "structure/SpringBoot/Spring注解/ORM",
