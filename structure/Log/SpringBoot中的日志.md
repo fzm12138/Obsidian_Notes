@@ -13,7 +13,7 @@
 - 根因分析：
 	- 在关键地方记录日志，方便在终端定位问题
 ### 日志的级别
-TRACE<DEBUG<INFO<WARN<ERROR<FATAL 优先级别
+***TRACE<DEBUG<INFO<WARN<ERROR<FATAL 优先级别***
 SpringBoot默认级别是INFO，比INFO级别小的不显示
 #### root级别(yml文件中)
 ```yml

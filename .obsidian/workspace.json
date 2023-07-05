@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作计划/2023-07/07-05日志测试.md",
+                "file": "structure/Log/SpringBoot中的日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作计划/2023-07/07-05日志测试.md",
+                "file": "structure/Log/SpringBoot中的日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作计划/2023-07/07-05日志测试.md",
+                "file": "structure/Log/SpringBoot中的日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作计划/2023-07/07-05日志测试.md"
+                "file": "structure/Log/SpringBoot中的日志.md"
               }
             }
           },
@@ -188,8 +187,8 @@
   },
   "active": "da6ec36cd3b735ba",
   "lastOpenFiles": [
-    "structure/Log/SpringBoot中的日志.md",
     "工作计划/2023-07/07-05日志测试.md",
+    "structure/Log/SpringBoot中的日志.md",
     "structure/Log/@Slf4j.md",
     "工作计划/2023-07/07-03.md",
     "structure/SpringBoot/Kotlin/线程安全的集合.md",
