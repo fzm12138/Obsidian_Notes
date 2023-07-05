@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/Log/SpringBoot中的日志.md",
+                "file": "structure/Log/@Slf4j.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "da6ec36cd3b735ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作计划/2023-07/07-05日志测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e4d137d00c58669",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@RequestBody",
+                "query": "slf",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -93,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/Log/SpringBoot中的日志.md",
+                "file": "工作计划/2023-07/07-05日志测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/Log/SpringBoot中的日志.md",
+                "file": "工作计划/2023-07/07-05日志测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/Log/SpringBoot中的日志.md"
+                "file": "工作计划/2023-07/07-05日志测试.md"
               }
             }
           },
@@ -164,13 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6db541bbc104d75c",
+  "active": "da6ec36cd3b735ba",
   "lastOpenFiles": [
     "structure/Log/SpringBoot中的日志.md",
+    "工作计划/2023-07/07-05日志测试.md",
+    "structure/Log/@Slf4j.md",
+    "工作计划/2023-07/07-03.md",
     "structure/SpringBoot/Kotlin/线程安全的集合.md",
     "structure/Thoughts/框架整合问题.md",
     "structure/architecture/软件架构设计.md",
-    "structure/Log/@Slf4j.md",
     "structure/Thoughts",
     "structure/SpringCloud/Start With HelloWorld.md",
     "structure/Log",
@@ -192,8 +216,6 @@
     "structure/Spirng/项目构建/Gradle/多模块项目构建.md",
     "structure/Containers/Tomcat.md",
     "structure/Containers/containers.md",
-    "DB/MySQL/MySql语句/Create_DB.md",
-    "DB/MySQL/MySql语句/事务，视图，索引，备份，恢复.md",
     "工作计划/2023-07",
     "瑞滴",
     "structure/SpringBoot/Spring注解/Formfat",

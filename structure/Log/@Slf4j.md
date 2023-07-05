@@ -18,4 +18,6 @@ Simple Logging Facade for Java
 3. SLFTJ通过slf4j-api的getLogger方法访问桥接器生产Logger对象。
 4. SLFTJ通过桥接器的Logger对象实现日志的格式化和打印
 
-
+```java
+@Slf4j // 相当于： private static Logger log = LoggerFactory.getLogger(WeixinPayService.class);
+```
