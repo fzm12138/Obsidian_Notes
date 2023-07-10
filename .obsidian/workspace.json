@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6df9437df785db9",
@@ -164,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e4d137d00c58669",
+  "active": "ee396f47eacbb472",
   "lastOpenFiles": [
     "开发文档/仁科虫情/接口说明/No.1 登录帧.md",
     "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md",
