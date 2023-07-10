@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structure/DB/MySQL/主从复制/Master-slvae.md",
+                "file": "structure/DB/MySQL/主从复制、读写分离/Master-Slvae.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structure/DB/MySQL/主从复制/Master-slvae.md",
+                "file": "structure/DB/MySQL/主从复制、读写分离/Master-Slvae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structure/DB/MySQL/主从复制/Master-slvae.md",
+                "file": "structure/DB/MySQL/主从复制、读写分离/Master-Slvae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structure/DB/MySQL/主从复制/Master-slvae.md"
+                "file": "structure/DB/MySQL/主从复制、读写分离/Master-Slvae.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "0e4d137d00c58669",
   "lastOpenFiles": [
+    "structure/DB/MySQL/主从复制、读写分离/Read-Write.md",
+    "structure/DB/MySQL/主从复制、读写分离/Master-Slvae.md",
+    "structure/DB/MySQL/主从复制、读写分离/Read-Write",
     "开发文档/仁科虫情/接口说明/接收请求的接口.md",
-    "structure/DB/MySQL/主从复制/Master-slvae.md",
-    "structure/DB/MySQL/主从复制",
+    "structure/DB/MySQL/主从复制、读写分离",
     "structure/DB/Untitled",
     "开发文档/仁科虫情/接口说明/No.1 登录帧.md",
     "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md",
@@ -194,14 +196,12 @@
     "Server/101/06-17.md",
     "structure/MessageQueue/IOT场景的问题.md",
     "structure/MessageQueue",
-    "预期.md",
     "错误日志/23-07",
     "错误日志",
     "Bugs/仁科虫情",
     "structure/Thoughts",
     "structure/Log",
     "工作计划/2023-07",
-    "瑞滴",
     "Pics/ScreenShots/Tomcat.jpg",
     "Pics/CV/AdviceFromQuora.png",
     "Pics/架构/反射创建注入.png",
