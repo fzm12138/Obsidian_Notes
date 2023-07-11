@@ -12,5 +12,7 @@
   "code-emitter",
   "obsidian-fullscreen-plugin",
   "obsidian-dictionary-plugin",
-  "mousewheel-image-zoom"
+  "mousewheel-image-zoom",
+  "table-editor-obsidian",
+  "obsidian-excel-to-markdown-table"
 ]

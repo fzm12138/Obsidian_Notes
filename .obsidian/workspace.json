@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/实时数据实体类.md",
-                "mode": "source",
+                "file": "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/接口1：查询最新一条实时数据.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/实时数据实体类.md",
+                "file": "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/接口1：查询最新一条实时数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/实时数据实体类.md",
+                "file": "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/接口1：查询最新一条实时数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/实时数据实体类.md"
+                "file": "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/接口1：查询最新一条实时数据.md"
               }
             }
           },
@@ -186,18 +186,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d47515b376042bda",
   "lastOpenFiles": [
-    "开发文档/仁科虫情/接收中转服务推送的接口/登录/登录实体类.md",
     "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/实时数据实体类.md",
+    "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/接口1：查询最新一条实时数据.md",
+    "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/实时数据.md",
+    "开发文档/仁科虫情/接收中转服务推送的接口/设备参数应答推送/设备参数应答推送.md",
+    "开发文档/仁科虫情/接收中转服务推送的接口/登录/登录实体类.md",
+    "开发文档/仁科虫情/接收中转服务推送的接口/控制指令应答推送/控制指令应答推送接口.md",
     "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改设备自动模式/设备模式实体类.md",
     "开发文档/仁科虫情/访问中转服务的接口(控制接口)/读取字典参数/读取字典参数接口.md",
     "开发文档/仁科虫情/接口说明/接收请求的接口.md",
-    "开发文档/仁科虫情/接收中转服务推送的接口/控制指令应答推送/控制指令应答推送接口.md",
-    "开发文档/仁科虫情/接收中转服务推送的接口/设备参数应答推送/设备参数应答推送.md",
     "开发文档/仁科虫情/模板.md",
     "开发文档/数据格式对接/施肥机客户端与后端对接.md",
     "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数/Untitled.md",
@@ -225,8 +228,6 @@
     "Codes/pakage.json.md",
     "Codes/CodesOfAlgrithms/INSERTION-SORT.md",
     "BetterTommorrow/使用lombok的理由.md",
-    "BetterTommorrow/你猜猜看呢.md",
-    "桌面软件/项目.md",
     "Pics/ScreenShots/Tomcat.jpg",
     "Pics/CV/AdviceFromQuora.png",
     "Pics/架构/反射创建注入.png",
