@@ -1,5 +1,4 @@
 ```C
 OS  : Linux & Windows
-jdk : 1.8以上
-
+jdk : 1.8及以上
 ```

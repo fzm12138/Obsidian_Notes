@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "716e2e83028b8f5f",
+        "id": "3903d02395730131",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4d137d00c58669",
+            "id": "bf0cc37b63534db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/16转10.md",
+                "file": "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/16转10.md",
+                "file": "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/16转10.md",
+                "file": "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/16转10.md"
+                "file": "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数/Untitled.md"
               }
             }
           },
@@ -164,18 +164,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e4d137d00c58669",
+  "active": "bf0cc37b63534db4",
   "lastOpenFiles": [
-    "structure/DB/MySQL/主从复制、读写分离/Master-Slvae.md",
-    "Python/16转10.md",
-    "structure/DB/MySQL/主从复制、读写分离/Read-Write.md",
+    "开发文档/仁科虫情/访问中转服务的接口/Untitled",
+    "开发文档/数据格式对接/施肥机客户端与后端对接.md",
+    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数/Untitled.md",
+    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数",
     "开发文档/仁科虫情/接入系统前需要做的/NO.0 环境.md",
     "开发文档/仁科虫情/接入系统前需要做的/No.3 接口信息传递格式说明.md",
+    "开发文档/仁科虫情/接入系统前需要做的/No.1 业务流程.md",
     "开发文档/仁科虫情/接入系统前需要做的/No.2接入系统前需要做的修改.md",
-    "开发文档/绿色草原灌溉控制器设备控制.md",
-    "开发文档/仁科虫情/接口说明/接收请求的接口.md",
+    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/读取字典参数/读取字典参数接口.md",
+    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改设备自动模式/设备模式实体类.md",
+    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/读取字典参数",
+    "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/实时数据实体类.md",
+    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改设备自动模式",
+    "开发文档/仁科虫情/访问中转服务的接口(控制接口)",
+    "开发文档/仁科虫情/接收中转服务推送的接口/登录/登录实体类.md",
     "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md",
-    "开发文档/仁科虫情/接口说明/No.1 登录帧.md",
+    "开发文档/仁科虫情/接收中转服务推送的接口/登录",
+    "开发文档/仁科虫情/接收中转服务推送的接口/No.1 登录帧.md",
+    "开发文档/仁科虫情/接收中转服务推送的接口",
+    "开发文档/仁科虫情/接口说明/接收请求的接口.md",
+    "开发文档/仁科虫情/接收中转服务推送的接口/实时数据",
+    "Python/16转10.md",
+    "structure/DB/MySQL/主从复制、读写分离/Master-Slvae.md",
+    "structure/DB/MySQL/主从复制、读写分离/Read-Write.md",
+    "开发文档/绿色草原灌溉控制器设备控制.md",
     "structure/DB/MySQL/主从复制、读写分离/Read-Write",
     "structure/DB/MySQL/主从复制、读写分离",
     "structure/DB/Untitled",
@@ -186,22 +201,7 @@
     "桌面软件/项目.md",
     "桌面软件/环境.md",
     "桌面软件/对接.md",
-    "开发文档/数据格式对接/施肥机客户端与后端对接.md",
-    "开发文档/仁科虫情/接入系统前需要做的/No.1 业务流程.md",
     "购物/with nothing.md",
-    "工作计划/学习计划.md",
-    "工作计划/2023-07/07-05日志测试.md",
-    "工作计划/2023-07/07-03.md",
-    "OS/关闭WSL.md",
-    "Server/43.138.68.42/2023-05-12.md",
-    "Server/101/06-17.md",
-    "structure/MessageQueue",
-    "错误日志/23-07",
-    "错误日志",
-    "Bugs/仁科虫情",
-    "structure/Thoughts",
-    "structure/Log",
-    "工作计划/2023-07",
     "Pics/ScreenShots/Tomcat.jpg",
     "Pics/CV/AdviceFromQuora.png",
     "Pics/架构/反射创建注入.png",
