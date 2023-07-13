@@ -21,7 +21,7 @@ java.lang.reflect.InaccessibleObjectException: Unable to make field private fina
         at com.google.gson.Gson.fromJson(Gson.java:928)
         at com.google.gson.Gson.fromJson(Gson.java:877)
         at com.google.gson.Gson.fromJson(Gson.java:848)
-        at com.example.dsdigital.service.WormService.getRealTimeData(WormService.kt:90)
+        at com.example.dsdigital.service.WormService.getRealTimeData(WormService.kt:101)
         at com.example.dsdigital.controller.WormController.getRealTimeData(WormController.kt:39)
         at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
         at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
@@ -73,5 +73,4 @@ java.lang.reflect.InaccessibleObjectException: Unable to make field private fina
         at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
         at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
         at java.base/java.lang.Thread.run(Thread.java:833)
-        
 ```
