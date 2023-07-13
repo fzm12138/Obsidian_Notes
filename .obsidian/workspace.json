@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "错误日志/23-07/dsdigital server101 07-13.md",
+                "file": "已弃用/子对象json格式WormRealTimeEntity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改设备自动模式/设备模式实体类.md",
+                "file": "已弃用/子对象json格式WormRealTimeEntity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改设备自动模式/设备模式实体类.md",
+                "file": "已弃用/子对象json格式WormRealTimeEntity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改设备自动模式/设备模式实体类.md"
+                "file": "已弃用/子对象json格式WormRealTimeEntity.md"
               }
             }
           },
@@ -202,17 +202,20 @@
       }
     ]
   },
-  "active": "d47515b376042bda",
+  "active": "fc036d0f6a2ee9db",
   "lastOpenFiles": [
+    "Server/43.138.68.42/2023-05-12.md",
+    "已弃用/子对象json格式WormRealTimeEntity.md",
+    "已弃用",
+    "工作计划/2023-07/07-12.md",
+    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改设备自动模式/设备模式实体类.md",
     "错误日志/23-07/dsdigital server101 07-13.md",
     "Bugs/Spring/框架问题/LocaLDateTime/module java.base does not opens java.lang to unnamed module @‘‘xxxxxxxx‘‘.md",
     "开发文档/仁科虫情/接口说明/接收请求的接口.md",
     "开发文档/仁科虫情/接口说明/No.0 实现接口的顺序.md",
-    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改设备自动模式/设备模式实体类.md",
     "错误日志/23-07/dsdigital  server101 07-07.md",
     "错误日志/23-07/dsdigital server101 07-12.md",
     "错误日志/23-07/07-05日志测试.md",
-    "工作计划/2023-07/07-12.md",
     "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/接口1：查询最新一条实时数据.md",
     "开发文档/仁科虫情/接收中转服务推送的接口/登录/登录实体类.md",
     "开发文档/仁科虫情/接收中转服务推送的接口/实时数据/实时数据.md",
@@ -232,14 +235,11 @@
     "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数/Untitled.md",
     "开发文档/仁科虫情/接入系统前需要做的/NO.0 环境.md",
     "开发文档/仁科虫情/访问中转服务的接口(控制接口)/下发控制指令",
-    "开发文档/仁科虫情/接入系统前需要做的/No.3 接口信息传递格式说明.md",
-    "开发文档/仁科虫情/接入系统前需要做的/No.1 业务流程.md",
     "开发文档/仁科虫情/Untitled",
     "开发文档/仁科虫情/接收中转服务推送的接口/设备参数应答推送",
     "开发文档/仁科虫情/接收中转服务推送的接口/控制指令应答推送",
     "开发文档/仁科虫情/DB",
     "开发文档/仁科虫情/访问中转服务的接口/Untitled",
-    "开发文档/仁科虫情/访问中转服务的接口(控制接口)/修改字典参数",
     "Pics/ScreenShots/Tomcat.jpg",
     "Pics/CV/AdviceFromQuora.png",
     "Pics/架构/反射创建注入.png",
